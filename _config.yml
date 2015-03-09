@@ -2,6 +2,12 @@
 title: natemow
 description: natemow
 author: Nate Mow
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
 sass:
     sass_dir: css
 exclude: [Gemfile.lock, Gemfile, vendor]
