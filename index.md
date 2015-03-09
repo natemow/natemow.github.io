@@ -1,8 +1,8 @@
 ---
 ---
 
-{% include header.html %}
+{% include header.md %}
 
 Hello World
 
-{% include footer.html %}
+{% include footer.md %}
