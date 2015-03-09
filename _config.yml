@@ -1,0 +1,12 @@
+# Site settings
+title: "natemow"
+description: "natemow"
+author: "natemow"
+sass:
+    sass_dir: css
+exclude: [Gemfile.lock, Gemfile, vendor]
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
