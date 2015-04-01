@@ -3,8 +3,11 @@
 
 Web Application: Portal
 # Site Collection: http://dev.admin.naco.org
+
 ## Subsite: NACo - http://dev.admin.naco.org <sup>(970f6643-c92b-418f-b7eb-e9b0fe84fc76)</sup>
+
 ### Lists
+
  * Content and Structure Reports <sup>(8 items, ca7d50aa-b0f9-4cd3-93aa-cad67069a465)</sup>
   * Checked Out To Me <sup>(Item, 19afa897-a529-4193-b1d5-a22a3126b77c)</sup>
   * Last Modified By Me <sup>(Item, a61ef41a-6947-4f4f-abca-1e98216c7bec)</sup>
