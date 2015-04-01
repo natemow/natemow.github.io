@@ -9280,7 +9280,9 @@ Web Application: Portal
   * NetForum <sup>(xWeb End Point, c0342c0b-63cb-43b6-b63b-2f7596267117)</sup>
 
 ## Subsite: About NACo - http://dev.admin.naco.org/about <sup>(240312cf-5672-4ec9-b98f-07d922dda8c8)</sup>
+
 ### Lists
+
  * About NACo Documents <sup>(12 items, 329de281-c268-43a4-86a8-8b97e4c07e23)</sup>
   * 2012 State of the Association Progress Report <sup>(NACo Document, ad88a572-c9fd-48e4-8cf7-e0bfecf0974f)</sup>
   * NACo Strategic Initiatives - Fall 2013 <sup>(NACo Document, 85e7c9bb-103f-495e-ae6b-2906d18b2845)</sup>
@@ -9306,7 +9308,9 @@ Web Application: Portal
   * eConnectDirect, offered by Multi-Bank Securities <sup>(NACo Article Page, 70bdfea3-fa80-4518-8f24-bb7b09d25626)</sup>
 
 ## Subsite: Corporate Engagement - http://dev.admin.naco.org/about/corporate <sup>(b00c0cd2-2aa9-432b-a5b5-7a7aa17fabf7)</sup>
+
 ### Lists
+
  * CaucusSponsors <sup>(2 items, bc7a9507-e70d-433d-9b4b-f6e47949a65a)</sup>
   * Large Urban County Caucus <sup>(Item, 7f29f647-79d0-486c-adc8-0ea3173b4193)</sup>
   * Rural Action Caucus <sup>(Item, 8bcdb0df-e1db-4551-9cd9-ffc3acd66b6c)</sup>
@@ -9938,7 +9942,9 @@ Web Application: Portal
   * ​Investigate <sup>(Item, 4360a9e8-f1dd-466a-8ae4-57fbc079f5d9)</sup>
 
 ## Subsite: Inside NACo - http://dev.admin.naco.org/about/insidenaco <sup>(8b9b89ac-fd5f-4dc0-bf82-864de3482215)</sup>
+
 ### Lists
+
  * Images <sup>(1 items, e9cb4fde-9049-4a6a-abe2-1431201117e6)</sup>
   * Picture1.png <sup>(Image, 6615ab3a-01db-445e-9bde-1faf74208d4e)</sup>
 
@@ -9958,7 +9964,9 @@ Web Application: Portal
   * Research <sup>(NACo Article Page, 127a47a5-bcb3-46d5-aa35-ab312118372f)</sup>
 
 ## Subsite: Leadership - http://dev.admin.naco.org/about/leadership <sup>(e736a8a4-dcb5-48e2-9313-97a7d1a81750)</sup>
+
 ### Lists
+
  * Documents <sup>(75 items, dd54b81d-6d66-4c27-844d-0b71b9031958)</sup>
   * State of the Association Progress Report (pdf) <sup>(NACo Document, 26390ebc-9b70-43c1-ac3a-772a14ec8992)</sup>
   * NCSAM Social Media Messages <sup>(NACo Document, b7d0e2f1-ef68-4bb0-bfc3-426ca0b61c2f)</sup>
@@ -10172,7 +10180,9 @@ Web Application: Portal
   * RCForum2014-media5.mp4 <sup>(Video, fbfc845a-a2ba-4793-af70-0913741617b7)</sup>
 
 ## Subsite: NCCAE - http://dev.admin.naco.org/about/leadership/nccae <sup>(42ea2d7d-ce8f-441f-ba7f-5b467f95bfab)</sup>
+
 ### Lists
+
  * Images <sup>(4 items, 47d82cc8-c9bc-4815-9e76-9295d12d2dcf)</sup>
   * NCCAE.jpg <sup>(Document, 924cbf8d-04b3-481b-a4ec-e30454d81ca9)</sup>
   * 2013 NACo Meeting Acquario Chase <sup>(Image, 50a2ddaa-42f3-4180-af51-698f600214b3)</sup>
@@ -10342,7 +10352,9 @@ Web Application: Portal
   * Matt Chase <sup>(Item, 60571ec2-661f-42b6-9308-9b44ba8cb1ab)</sup>
 
 ## Subsite: Women of NACo Leadership Network - http://dev.admin.naco.org/about/leadership/won <sup>(0c49e37f-cd35-48a5-b90e-5a278a67015b)</sup>
+
 ### Lists
+
  * Images <sup>(14 items, 206fe265-4ab9-4e49-8f97-2063e7a42425)</sup>
   * won_color.jpg <sup>(Document, 31db4753-c535-4a57-b842-041f172e959a)</sup>
   * won_color_sm.jpg <sup>(Document, 77f91989-8d7f-4d5f-b22d-1035bbfbe19b)</sup>
@@ -10375,7 +10387,9 @@ Web Application: Portal
   * July 2013 Newsletter Vol. 2 No. 2 <sup>(NACo Document, b22ab66b-abd5-4a24-af4e-4661b1524ab0)</sup>
 
 ## Subsite: Membership - http://dev.admin.naco.org/about/membership <sup>(0e4d6933-4656-46fb-b352-db8e17e8d8aa)</sup>
+
 ### Lists
+
  * Documents <sup>(29 items, 1c89f146-433e-4a01-929f-e33bc6556506)</sup>
   * Proposed Bylaws Changes 2009 (PDF File)  <sup>(NACo Document, 2e38f8e8-6694-41ca-ba2c-eb2fe4d51a1b)</sup>
   * NACo Bylaws – Adopted July 2008  <sup>(NACo Document, 9e49f9af-beac-4ce1-9ae6-c0125d78ee18)</sup>
@@ -10433,7 +10447,9 @@ Web Application: Portal
   * NACo is Here to Help You <sup>(NACo Article Page, 5d297013-53dd-4844-ba8c-491059ec71af)</sup>
 
 ## Subsite: Board - http://dev.admin.naco.org/board <sup>(7c22add5-22d0-4922-a1b7-bacdef055611)</sup>
+
 ### Lists
+
  * Documents <sup>(50 items, fa3113d4-43fe-4415-9a21-d7d1abbb2043)</sup>
   * Board Packet 2013 <sup>(Document, c96af68f-70b2-43a6-98d4-b104969e8445)</sup>
   * AC72013-State-Execs.pdf <sup>(Document, 2fccf305-78dd-4105-a34e-b9cb746eb121)</sup>
@@ -10490,7 +10506,9 @@ Web Application: Portal
   * Home <sup>(Welcome Page, 9bff2d9d-9529-403f-a84f-7163298f7b2d)</sup>
 
 ## Subsite: About Counties - http://dev.admin.naco.org/Counties <sup>(ba9839fb-63d1-42fb-9729-92ffc6e8be3b)</sup>
+
 ### Lists
+
  * Documents <sup>(3 items, 4927dfb2-059f-44f8-afe5-ee2897f5c2fd)</sup>
   * @NACoTweets.aspx <sup>(NACo Document, bcefd376-8de6-4a17-9222-c6d3c29d5d36)</sup>
   * Why Counties Matter PDF Brochure <sup>(NACo Document, 3ef40051-b0cb-4e3c-b029-3add95ebef63)</sup>
@@ -10514,7 +10532,9 @@ Web Application: Portal
   * Sample Codes and Ordinances <sup>(NACo Article Page, 0639ee4d-b655-4bfa-8b77-2858787f646d)</sup>
 
 ## Subsite: What Counties Do - http://dev.admin.naco.org/Counties/countiesdo <sup>(f41ec9cb-61fa-4ebc-b7fd-a9f3f95fafbf)</sup>
+
 ### Lists
+
  * CGWC Documents <sup>(14 items, 554e0c5e-083f-4bbc-8d6e-2fca2569bd9b)</sup>
   * Indiana's Job Shadowing Program July 2011 <sup>(NACo Document, 8aabb2d6-124d-4c83-800a-05ae73a964e4)</sup>
   * County Government Works - Custom Template <sup>(NACo Document, 4aaa6d8d-c836-4441-b4b7-07ea69770947)</sup>
@@ -11102,7 +11122,9 @@ Web Application: Portal
   * Why Counties Matter Video <sup>(NACo Document, bb0e3ac9-516c-4086-a307-070f05d04f95)</sup>
 
 ## Subsite: Learn About Counties - http://dev.admin.naco.org/Counties/learn <sup>(fc68f6b7-479a-4993-b8ea-95e40d7b97ce)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, d30552eb-dc9a-418d-8dae-46acda6f510c)</sup>
   * City-County Consolidation Proposals through 2010 <sup>(NACo Document, 1a61f93c-cf99-4641-a5df-9c5011515fe0)</sup>
 
@@ -11121,7 +11143,9 @@ Web Application: Portal
   * Counties Work <sup>(NACo Article Page, 16f1c3a8-1d83-4136-9a36-fee28c6bc916)</sup>
 
 ## Subsite: Education - http://dev.admin.naco.org/education <sup>(1ab8d850-df5b-4086-a032-5636c4ace438)</sup>
+
 ### Lists
+
  * Images <sup>(27 items, 01eefea8-262f-4b5f-9e42-2d4039368daa)</sup>
   * NACo-Board-eForum-National-Trends-Feb2013-1.png <sup>(Document, 00f63336-fc36-466b-8f81-226933960dc9)</sup>
   * icon_twitter.png <sup>(Image, 5a87a611-2da4-4a36-9ee7-0e634d280f9c)</sup>
@@ -11155,7 +11179,9 @@ Web Application: Portal
   * Education and Research <sup>(NACo Article Page, 8b8684c5-eaa1-4723-a5e7-832369950305)</sup>
 
 ## Subsite: Education Resources - http://dev.admin.naco.org/education/Education <sup>(fcc4ba45-5593-420f-a253-aaf8ca4224a3)</sup>
+
 ### Lists
+
  * Annual Presentations <sup>(11 items, 6cb89a1b-2e8c-4080-be8e-6a52f77b406a)</sup>
   * The Affordable Care Act and the Pretrial System <sup>(Document, 73802274-8fcb-4670-8fca-fd18b36908f7)</sup>
   * How to make the ACA work for you <sup>(Document, 415803dc-4548-4595-a999-d88985868d1a)</sup>
@@ -11558,7 +11584,9 @@ Web Application: Portal
   * Monica Scamardo, Ph.D <sup>(Item, 9be7aecf-01b8-4892-8289-8d470a16dbe8)</sup>
 
 ## Subsite: Legislation & Policy - http://dev.admin.naco.org/legislation <sup>(d7d12b27-5e13-41f1-bf16-090da6a3aae8)</sup>
+
 ### Lists
+
  * Bulletin PDFs <sup>(25 items, f3e2e01b-8bc8-40d7-ab6b-d3b709dd353d)</sup>
   * Feb. 3, 2012 Legislative Bulletin <sup>(NACo Newsletter, ca83a6b2-8631-48f2-98ff-aba7f7ab2bf9)</sup>
   * Mar.16, 2012 Legislative Bulletin <sup>(NACo Newsletter, 3ad9148c-123d-4533-b986-c12607d313b0)</sup>
@@ -12139,7 +12167,9 @@ Web Application: Portal
   * Get Resources <sup>(Item, 3def4d7d-8c0a-4d20-9dd7-7714347d1dd9)</sup>
 
 ## Subsite: Policies & Steering Committees - http://dev.admin.naco.org/legislation/policies <sup>(179b3aa1-a781-4e4c-b337-6f69cb1e7ffe)</sup>
+
 ### Lists
+
  * Images <sup>(52 items, 5888b098-7f36-4da9-9e60-57c93be227e8)</sup>
   * wir_weblogo2.jpg <sup>(Document, 0614f425-eede-4075-b322-ce5fb47664e1)</sup>
   * U.S. Capitol West Front <sup>(NACo Document, f44e356c-f5ae-4de9-b1e1-929a35a5338b)</sup>
@@ -12814,7 +12844,9 @@ Web Application: Portal
   * 2014 WIR Board of Directors Fall Meeting <sup>(NACo Welcome Page, 6b40477a-5e14-47fc-9eeb-8bcaf2f59477)</sup>
 
 ## Subsite: Rural Action Caucus - http://dev.admin.naco.org/legislation/policies/ruralaction <sup>(8f975312-2ddd-41bd-afe7-52bea432151e)</sup>
+
 ### Lists
+
  * Images <sup>(5 items, 5aae7ba3-5859-415c-b327-4285e3cfe390)</sup>
   * RAC Logo- Rural Action Caucus <sup>(Document, ad196048-f0ff-419a-ae71-45e4345d27a2)</sup>
   * RAC_2014.png <sup>(Image, 3f5dc2cc-178f-4e2c-9ad6-68f5f6932bfe)</sup>
@@ -12847,7 +12879,9 @@ Web Application: Portal
   * 2014 Fall RAC Symposium - Draft Agenda <sup>(NACo Document Issue Area, 98556a86-0744-4328-a84e-8f403d954381)</sup>
 
 ## Subsite: Large Urban County Caucus - http://dev.admin.naco.org/legislation/policies/urbancaucus <sup>(3437403b-b396-4e51-bb58-1c95e17792d6)</sup>
+
 ### Lists
+
  * Images <sup>(19 items, 66961492-8c94-4626-91ec-b533fa8a0da3)</sup>
   * Calendar Image <sup>(Image, 48d2fde4-71bc-4fad-8f43-5eec70f77cc0)</sup>
   * LUCC Steering Committee image.png <sup>(Image, 38c3cb88-d432-476b-aa04-2a72579508d3)</sup>
@@ -12886,7 +12920,9 @@ Web Application: Portal
   * LUCC Symposium <sup>(NACo Article Page, d04a7822-cc12-42b4-8048-6e86cbc4771e)</sup>
 
 ## Subsite: Washington Watch - http://dev.admin.naco.org/legislation/WW <sup>(5cfea8e1-88b1-4483-824c-7583a8c42009)</sup>
+
 ### Lists
+
  * Issue Areas <sup>(16 items, 3b237489-008d-47c5-abec-2092a2c361dc)</sup>
   * Agriculture and Rural Affairs <sup>(, 32d4193b-9205-45bb-a62a-2958849e53ec)</sup>
   * Labor and Employment  <sup>(, 26f467e3-2d77-4568-b411-881e476ea47b)</sup>
@@ -13892,7 +13928,9 @@ Web Application: Portal
   * New FEMA Flood Risk Management Standard Listening Sessions and Extended Comment Period <sup>(Post, 1603ba80-7260-4e69-bc8c-2d796ed00591)</sup>
 
 ## Subsite: Conferences - http://dev.admin.naco.org/meetings <sup>(c54c0dfd-bbf9-4edc-9d76-e4abffda011b)</sup>
+
 ### Lists
+
  * Images <sup>(9 items, ae029638-a78d-48d5-b822-2801b982b2a5)</sup>
   * cyberlogo2.jpg <sup>(Image, 6e0878d4-01e0-4f67-9244-89aca88eb8e2)</sup>
   * Wetlands.png <sup>(Document, 2fdf0ce5-c515-4a8f-9b4b-7e93058d1e2b)</sup>
@@ -13908,7 +13946,9 @@ Web Application: Portal
   * Conferences <sup>(NACo Welcome Page, a471c233-8d3a-4075-a922-fdc9f8ac5cad)</sup>
 
 ## Subsite: Upcoming Events and Info - http://dev.admin.naco.org/meetings/dates <sup>(b349d7b9-d449-47b6-9fc8-05e88a7a9946)</sup>
+
 ### Lists
+
  * Event Calendar <sup>(138 items, 0f08eeb5-e5e1-441f-8034-18f3e879f28f)</sup>
   * 2012 Legislative Conference   <sup>(Event, 27ddccb0-e21b-4b60-a26d-026778faa0fa)</sup>
   * 2012 Western Interstate Region Conference <sup>(Event, 1aa8d5f2-4f85-4292-b4af-b07de08d7813)</sup>
@@ -14071,7 +14111,9 @@ Web Application: Portal
   * Future Conference Dates <sup>(NACo Article Page, 405385d4-a93b-4ab8-ba42-a8173a0117e4)</sup>
 
 ## Subsite: Major Events - http://dev.admin.naco.org/meetings/participate <sup>(b3ba332d-e3db-4536-8cbf-cacfcefdc1c5)</sup>
+
 ### Lists
+
  * Conference Images <sup>(1 items, bc326a4c-9251-4a04-b739-c555acbbb8e4)</sup>
   * T+I_symposium.png <sup>(Image, e7450988-0e56-454d-8155-d2c83581ea8b)</sup>
 
@@ -14081,7 +14123,9 @@ Web Application: Portal
   * NACo Fall Board of Directors Meeting <sup>(NACo Article Page, a22eea67-a574-4a4c-99bd-d0e41d4420c1)</sup>
 
 ## Subsite: Legislative Conference - http://dev.admin.naco.org/meetings/participate/LegislativeConference <sup>(ceb6e278-bfce-4e91-b7de-661f169d330e)</sup>
+
 ### Lists
+
  * Images <sup>(77 items, a4c96942-0fbb-4961-93c7-be2a1eababee)</sup>
   * convention.jpg <sup>(Document, 74886464-eb82-41e3-9ce2-e144d9634ae1)</sup>
   * Avis.JPG <sup>(Document, ccf58405-d83a-42bc-99fb-6119faed1d9d)</sup>
@@ -14203,7 +14247,9 @@ Web Application: Portal
   * Why Attend the NACo Legislative Conference <sup>(NACo Article Page, 288d3585-b110-4960-9d77-bb6e8c991e75)</sup>
 
 ## Subsite: Annual Conference - http://dev.admin.naco.org/meetings/participate/NACoAnnual <sup>(c4f426e5-1046-47a6-9926-e33edd2dc8b9)</sup>
+
 ### Lists
+
  * Annual Conf Documents <sup>(29 items, 70fef607-a4d5-4960-ad73-afb2fbfa9976)</sup>
   * Exhibitor Space Application Credit Card Form <sup>(NACo Document, 834516c2-de01-4ccc-b8a8-1647dab1b0d0)</sup>
   * 2013 Annual Conference Workshop Descriptions <sup>(NACo Document, 3abf6793-61c8-4953-b157-d295e03ddea8)</sup>
@@ -14318,7 +14364,9 @@ Web Application: Portal
   * 2015 NACo Annual Conference and Exposition Sponsorship <sup>(NACo Article Page, 6669181c-1ec7-40a0-8222-145fb8b1917f)</sup>
 
 ## Subsite: Western Interstate Region Conference - http://dev.admin.naco.org/meetings/participate/WIRConference <sup>(25ed52d2-c2c6-497d-80c7-31732f21a11e)</sup>
+
 ### Lists
+
  * Images <sup>(53 items, b6a502ac-a772-4b8a-a922-a5e46ec40b83)</sup>
   * WIR Logo <sup>(Document, 3561e562-037f-44a9-aec6-eee1ebea6a5e)</sup>
   * Blue Cross Logo <sup>(Document, ebb76872-ded3-4b5c-8de6-e0cbefade6e9)</sup>
@@ -14414,7 +14462,9 @@ Web Application: Portal
   * Educational Sessions <sup>(Item, 33ea4110-ba48-4ec6-bde5-e53ee91e97c9)</sup>
 
 ## Subsite: Member Resources - http://dev.admin.naco.org/memberresources <sup>(8a9f69a4-97e6-40cb-a7c8-8fe4e76d1020)</sup>
+
 ### Lists
+
  * Documents <sup>(16 items, 886cf0f9-1895-42d7-b3d5-088b8de81359)</sup>
   * PDCP Ad 1 - PDF <sup>(NACo Document, 6045765d-c1e3-465c-abb7-3d0b70ab0374)</sup>
   * PDCP Ad 2 - PDF <sup>(NACo Document, 4aece33a-a65c-46d7-b71a-43914a03c89b)</sup>
@@ -14460,7 +14510,9 @@ Web Application: Portal
   * Membership <sup>(NACo Welcome Page, 156a5fe7-beff-4614-a891-9240e4ed06ca)</sup>
 
 ## Subsite: Media - http://dev.admin.naco.org/newsroom <sup>(39da59d7-292f-4161-bbd4-5e393ea87316)</sup>
+
 ### Lists
+
  * Documents <sup>(291 items, 305c91c2-ef81-4ac6-bbe2-050e00ed5efc)</sup>
   * NACo applauds passage of bill to increase health insurance coverage and access to quality care <sup>(NACo News Release Document, e598ed5b-b88d-4860-b3cd-87664533d2ec)</sup>
   * Haggerty urges Congress to address congestion <sup>(NACo News Release Document, 351c8ddf-a27a-4311-8e81-5022964f00d6)</sup>
@@ -14777,7 +14829,9 @@ Web Application: Portal
   * Social Media <sup>(NACo Article Page, 82bbc5ac-ef29-4540-8cc9-0b9dd3c87ae7)</sup>
 
 ## Subsite: County News - http://dev.admin.naco.org/newsroom/countynews <sup>(c5290a46-190d-4284-906d-d7f684255251)</sup>
+
 ### Lists
+
  * County News Images <sup>(33 items, ac193d3f-73d0-4ee6-9c77-aa2c1f3ee758)</sup>
   * Thumb-Whitehouse.jpg <sup>(Picture, 5a47aa7f-d7f4-4111-ac43-c4337f9272e7)</sup>
   * A-Banner-ResearchNews.gif <sup>(Picture, 1736b1b6-53f1-4c39-be48-f15b93f54868)</sup>
@@ -14879,7 +14933,9 @@ Web Application: Portal
   * Threats to Public Officials <sup>(NACo County News Article, dcb31ba0-5bdd-4bd6-b43c-e6bb1bf8bfaf)</sup>
 
 ## Subsite: County News Archives - http://dev.admin.naco.org/newsroom/countynews/archives <sup>(d77bfbc3-1f86-4eee-bb70-ceff7ca6451d)</sup>
+
 ### Lists
+
  * County News Archives PDFs <sup>(242 items, 757f2e27-e7d0-4ecb-825b-4893290173fd)</sup>
   * County News 9/6/2010 <sup>(County News Issue Document, 5abcc63a-9d16-410a-a163-dcaffcbde317)</sup>
   * County News 11/15/2010 <sup>(County News Issue Document, 7e8527a7-7821-4324-97ec-710ee81b8e31)</sup>
@@ -15143,7 +15199,9 @@ Web Application: Portal
   * County News 2015 <sup>(NACo Article Page, 590da937-9fc1-4f02-adbd-a62d22e6c472)</sup>
 
 ## Subsite: Current Issue - http://dev.admin.naco.org/newsroom/countynews/Current Issue <sup>(c99deff1-ada5-4dc4-af64-429bf3cc5aa5)</sup>
+
 ### Lists
+
  * County News Documents <sup>(1 items, 6635e4e3-1baa-438f-b12c-ab1c2e17d3a8)</sup>
   * confDailyBNR.jpg <sup>(NACo Document, 19d35d03-adad-4900-bcf7-d5b285060353)</sup>
 
@@ -15194,7 +15252,9 @@ Web Application: Portal
   * County News 2014 Annual Daily <sup>(NACo County News Article, 7eeba73f-a7ec-4a63-b1e7-777e71eaa66c)</sup>
 
 ## Subsite: Oct. 10, 2011 - Vol. 43 No. 19 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-10-11 <sup>(31fb3012-42d2-40ae-9293-1bfe3ca3ab55)</sup>
+
 ### Lists
+
  * Images <sup>(18 items, 6efcd7bc-76af-47c0-bc41-d563f20752fb)</sup>
   * FightChildabuse.jpg <sup>(Document, cf906772-97a9-4aad-81ec-2b15f018fcd7)</sup>
   * Horizontal.gif <sup>(Document, 98b7ecc2-2071-4548-9cd6-dcbb0bc44944)</sup>
@@ -15242,7 +15302,9 @@ Web Application: Portal
   * Profiles In Service <sup>(NACo County News Article, 0570a2a1-522f-4b11-b7ad-d20106b73baf)</sup>
 
 ## Subsite: Oct. 18, 2010 - Vol. 42 No. 19 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-18-10 <sup>(3413b528-f004-4cca-a83f-aef0caa59945)</sup>
+
 ### Lists
+
  * Images <sup>(27 items, d37f3ec3-8675-45ba-b921-9bd386bc92c9)</sup>
   * Access.png <sup>(Document, 4f1353f1-3ca2-4303-95dc-5c95d6c9f0c4)</sup>
   * CFC-Lightbub.png <sup>(Document, 374a291e-2cca-49fb-ba74-961c619ae66f)</sup>
@@ -15307,7 +15369,9 @@ Web Application: Portal
   * Model Programs form the Nation's Counties <sup>(NACo County News Article, 2c9287a1-fc6a-4020-92b6-c2180c9705c6)</sup>
 
 ## Subsite: October 20, 2014 - Vol. 46 No. 20 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-20-2014 <sup>(6c47e995-6cbd-4b9e-9af0-dcc6d9c7348e)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, 7d4a53f7-416f-40d1-a774-29d37c1ed248)</sup>
   * CNews-Oct-20-2014.pdf <sup>(Document, 58c4cca8-ef67-4748-b150-ebdeb06168dd)</sup>
 
@@ -15354,7 +15418,9 @@ Web Application: Portal
   * NACo on the Move <sup>(NACo County News Article, 6fb64719-a00c-4b3f-9842-810b10a01c2a)</sup>
 
 ## Subsite: Oct. 21, 2013 - Vol. 45 No. 20 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-21-2013 <sup>(fcad8941-d4d2-4b38-92ed-7e40b53a5bba)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, f9bdb2c3-af7d-4aa4-b10a-221099b910e0)</sup>
   * JailCalls.jpg <sup>(Document, 3099aa11-7ce9-462f-bf84-5c1a89016b31)</sup>
   * CNews-Oct21-2013.pdf <sup>(Document, 67bbaa59-4eb8-4635-babf-bd6259eb476a)</sup>
@@ -15404,7 +15470,9 @@ Web Application: Portal
   * In Case You Missed It <sup>(NACo County News Article, 1c676a48-ccec-4c2a-a3bc-d978f8d7355b)</sup>
 
 ## Subsite: Oct 22, 2012 - Vol 44 No. 20 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-22-2012 <sup>(4e8e64d5-8880-4613-8b24-ef725e0e68e0)</sup>
+
 ### Lists
+
  * Images <sup>(19 items, 0ee280fe-48ae-4be4-9380-ce2298e7bcdc)</sup>
   * Allyum-pohl.jpg <sup>(Image, c25bbf3f-a189-429f-b1bd-c1b7456b4130)</sup>
   * App.jpg <sup>(Image, 6e07bfdd-49e9-4b0c-82ee-20ca91dbfae5)</sup>
@@ -15452,7 +15520,9 @@ Web Application: Portal
   * EPA memo touts benefits of decentralized wastewater treatment <sup>(NACo County News Article, 04176f38-259b-4e62-ac31-c1b014326143)</sup>
 
 ## Subsite: Oct. 24, 2011 Vol. 43 No. 20 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-24-11 <sup>(a2ed536c-2e4d-4c41-a62e-56b1d30f3abf)</sup>
+
 ### Lists
+
  * Images <sup>(19 items, 7774024f-89d3-4a54-b91c-1912fd293e0f)</sup>
   * Download-CNews-Icon.png <sup>(Document, 00df3191-5652-4f29-b78b-ef3f02185797)</sup>
   * GreenPurchasing.jpg <sup>(Document, 5312d281-c929-428c-ab1d-8d971e63e9c3)</sup>
@@ -15501,7 +15571,9 @@ Web Application: Portal
   * Profiles In Service <sup>(NACo County News Article, 6c46a309-d84b-4108-a21c-10b16cb88abf)</sup>
 
 ## Subsite: Oct. 4, 2010 Vol. 42 No. 18 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-4-10 <sup>(d0106766-077e-4c7a-8863-63d64521e34e)</sup>
+
 ### Lists
+
  * Images <sup>(24 items, 42135a32-90f0-4631-b03c-ffea4ef9ccb2)</sup>
   * Analysis.png <sup>(Document, 79f23fa9-2afb-4cd7-95e0-f6074c158b3e)</sup>
   * CN-Horizontal-Rule.png <sup>(Document, 2f442b46-100e-4920-98a1-5e069c22a716)</sup>
@@ -15553,7 +15625,9 @@ Web Application: Portal
   * NACo on the Move <sup>(NACo County News Article, 8a8d436f-d4cb-4069-9b95-23a57b0a69a8)</sup>
 
 ## Subsite: October 6, 2014 - Vol. 46 No. 19 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-6-2014 <sup>(e80e2447-c5b7-43f0-a6e5-e198c10ff480)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, fbf2eb8a-e11e-4682-ba89-d217cccea2b4)</sup>
   * legacy.jpg <sup>(Document, 6bc96023-ceae-4601-88a6-6b27c0d21c1f)</sup>
   * CNews-Oct-6-2014.pdf <sup>(Document, 96f14828-ee93-4cce-a33a-0a6124baff21)</sup>
@@ -15602,7 +15676,9 @@ Web Application: Portal
   * What's in a Seal <sup>(NACo County News Article, 9e1d73f0-2a6e-419d-bfd1-0a5bedc86de6)</sup>
 
 ## Subsite: October 7, 2013 - Vol. 45 No. 19 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-7-2013 <sup>(5e4871e4-704a-4108-8da2-dd90d0a13047)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, 15358218-6ed3-4ce8-b163-c28b4704deb9)</sup>
   * CNews-Oct7-2013.pdf <sup>(Document, abca1427-1162-4d50-bf81-58ea6a4680a7)</sup>
 
@@ -15643,7 +15719,9 @@ Web Application: Portal
   * County social services battle increased heroin use <sup>(NACo County News Article, 0edbe2f3-d0d4-45a8-b44d-938565ba1f36)</sup>
 
 ## Subsite: Oct. 8, 2012 - Vol. 44 No. 19 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-8-2012 <sup>(6ea4d588-bf78-4231-beb8-bdfd60ab767f)</sup>
+
 ### Lists
+
  * Images <sup>(23 items, a60726eb-2797-4c57-a5e7-0aabe65d24a6)</sup>
   * Pic-Caddoparrish.jpg <sup>(Document, 4181f221-49a9-45eb-bb3c-9cd63db132ec)</sup>
   * Pic-Changes.jpg <sup>(Document, 3f9197b8-6ae2-4365-8dda-18c726b67cb0)</sup>
@@ -15694,7 +15772,9 @@ Web Application: Portal
   * October 8, 2012 - Vol. 44 No. 19 <sup>(NACo Article Page, bc18c2a9-2a08-44c7-9fb6-0135885c9671)</sup>
 
 ## Subsite: Nov. 1, 2010 Vol. 42 No. 20 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-1-10 <sup>(c204bf07-5293-4d51-b877-20026ba522bd)</sup>
+
 ### Lists
+
  * Images <sup>(37 items, 247763af-679b-4421-9b3e-957efe6b57f5)</sup>
   * Thumb-Brooks.png <sup>(Document, 1b1e7119-6c54-45ee-9750-e6875a8d964a)</sup>
   * Thumb-Florida.png <sup>(Document, 527aff13-6522-4013-ad0c-430e26f5ecf9)</sup>
@@ -15763,7 +15843,9 @@ Web Application: Portal
   * Take Time to Vote: Halloween Doors <sup>(NACo County News Article, 6fc93cec-09a0-4f41-af3b-f7630de374fc)</sup>
 
 ## Subsite: Nov. 15, 2010 Vol. 42 No. 21 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-15-10 <sup>(92175ac2-d215-4fca-bea2-8902cb762812)</sup>
+
 ### Lists
+
  * Images <sup>(19 items, 7a1e326a-6901-45ff-a420-11b1ddf84995)</sup>
   * Anita-Cardwell.png <sup>(Document, 766442a8-44f8-4e28-9111-22d33ad6d40c)</sup>
   * CN-Horizontal-Rule.png <sup>(Document, e380fb57-7ada-4344-bc69-1799c5b12b47)</sup>
@@ -15814,7 +15896,9 @@ Web Application: Portal
   * Correction  <sup>(NACo County News Article, b6af01f0-03af-42ce-bf63-8ab7ab0d357e)</sup>
 
 ## Subsite: Nov. 17, 2014 - Vol. 46 No. 22 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-17-2014 <sup>(0f670fbd-7d05-41d2-a09f-01a45b791eef)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, b85b7f8f-b38e-4183-83ab-19ef5f02a7a7)</sup>
   * CN-HTopics-Nov17-2014.pdf <sup>(Document, 1e794978-d9e8-4d29-838b-649e8dfac9c3)</sup>
   * CNews-Nov17-2014.pdf <sup>(Document, 98484c7d-c210-462d-8e46-5b8665bee913)</sup>
@@ -15872,7 +15956,9 @@ Web Application: Portal
   * Hot Topics: Juvenile Justice <sup>(NACo County News Article, 68f49a31-830b-44c6-b6eb-c1b1d039df24)</sup>
 
 ## Subsite: Nov. 18, 2013 - Vol. 45 No. 22 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-18-2013 <sup>(3026d0ad-3a15-491c-b72b-24d69afbc52b)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, cc920818-8ada-4f74-8a07-04dac6a043ca)</sup>
   * County News 11/18/2013 - Vol. 45 No. 22 <sup>(Document, 51dfb2e5-5e42-4563-b4aa-3bae5a1974d1)</sup>
 
@@ -15925,7 +16011,9 @@ Web Application: Portal
   * Solutions Spotlight <sup>(NACo County News Article, b7d5e0c6-9d32-45e7-bdcf-5cd01daad7cf)</sup>
 
 ## Subsite: Nov. 19, 2012 - Vol. 44 No. 22 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-19-2012 <sup>(ae483dda-098b-41c5-8445-271415350232)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, 7c4a7e04-5d96-483c-ab6a-fb2668e4d7c6)</sup>
   * CNews-Nov19-2012.pdf <sup>(Document, 8e2df751-2144-4d17-afd5-2842238f2830)</sup>
 
@@ -15973,7 +16061,9 @@ Web Application: Portal
   * In Case You Missed It <sup>(NACo County News Article, 9940883b-0ce4-4b8f-a6c3-a872ed9dea3f)</sup>
 
 ## Subsite: Nov. 21, 2011 Vol. 43 No. 22 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-21-11 <sup>(55c17231-6a23-4c5a-a5cf-a5d457b2ed67)</sup>
+
 ### Lists
+
  * Images <sup>(18 items, 0e08c5fb-74f1-4930-86ac-9ad601f88e48)</sup>
   * BanksCountySeal.jpg <sup>(Document, 03ff62c7-1c77-4064-a549-41939500eb51)</sup>
   * Diasterdate.jpg <sup>(Document, 95b3f65b-24ea-4eac-85b2-adc70acec3ab)</sup>
@@ -16020,7 +16110,9 @@ Web Application: Portal
   * Profiles In Service <sup>(NACo County News Article, bfdb283e-4150-422a-8deb-d6b8f99fb724)</sup>
 
 ## Subsite: Jan. 12, 2015 - Vol. 47 No. 1 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-12-2015 <sup>(ec83e77f-c444-45e4-922f-5399757f5c24)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, b5ee7c70-d68b-4b6f-aaf2-1cf1b5b58e9b)</sup>
   * indymovie.jpg <sup>(Document, c6e00c19-65a7-4bb3-b828-626283d40196)</sup>
   * CNews-Jan12-2015.pdf <sup>(Document, 49abdbdf-fa14-434b-aaad-d7a30907c90f)</sup>
@@ -16075,7 +16167,9 @@ Web Application: Portal
   * Tracker Article Links <sup>(NACo County News Article, 7a1c8825-904b-47e3-a28d-36ffc20ed426)</sup>
 
 ## Subsite: Nov. 29, 2010 - Vol. 42 No. 22 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-29-10 <sup>(62717e32-21b0-4bc3-a6d9-168c3a52ef80)</sup>
+
 ### Lists
+
  * Images <sup>(22 items, 3378bb26-f86f-4046-abfc-746485a5a3f8)</sup>
   * Congress1.png <sup>(Document, 7bd362f2-a9fd-4023-acf3-ee8518d773fe)</sup>
   * Congress2.png <sup>(Document, e8212684-f2c5-424f-b6b0-6c52446d3ac6)</sup>
@@ -16125,7 +16219,9 @@ Web Application: Portal
   * This Month in County News <sup>(NACo County News Article, 5abd1ab6-92a3-48d5-bdd1-c4836cc6c686)</sup>
 
 ## Subsite: Jan. 13, 2014 - Vol. 46 No. 1 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-13-14 <sup>(a1f1dab1-d40e-4acc-a142-529df1617bc0)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, bb7960c3-5abf-45bc-a1c5-2f4e882ee1c3)</sup>
   * CNews-Jan13-2014.pdf <sup>(Document, a9f95eb5-bf4e-4e1b-a802-20391b389df3)</sup>
 
@@ -16182,7 +16278,9 @@ Web Application: Portal
   * Volunteer firefighters, EMTs exempt from ACA <sup>(NACo County News Article, 11f15368-f7a7-463a-a5cf-fcd7f41663de)</sup>
 
 ## Subsite: Nov. 3, 2014 - Vol. 46 No. 21 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-3-2014 <sup>(1aad269b-7c53-438c-ac00-997dd3b0ca05)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, fd85d003-7155-4162-93c8-d94256477af4)</sup>
   * CNews-Nov3-2014.pdf <sup>(Document, 655b89f2-22bc-4e9e-8ea7-67c3048d231b)</sup>
 
@@ -16226,7 +16324,9 @@ Web Application: Portal
   * Profiles in Service <sup>(NACo County News Article, 7e468c8a-7dd5-4a1e-9475-75058795087e)</sup>
 
 ## Subsite: Jan. 14, 2013 - Vol. 45 No. 1 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-14-13 <sup>(daaf7221-16d5-4062-9a88-0d0a1063bbde)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 817c401b-8b11-41cd-956a-136a0911b20e)</sup>
   * CNews_Jan14_2013.pdf <sup>(Document, 172f405b-8ba3-480b-a095-da4876ffd65f)</sup>
   * CNewsHTopics_Jan14_2013.pdf <sup>(Document, 747a44e4-5f79-4183-bd60-5240a48d5f81)</sup>
@@ -16285,7 +16385,9 @@ Web Application: Portal
   * Exploring Effective Congressional Communications Strategies <sup>(NACo County News Article, bd8af026-ae69-4a3a-bc58-2cccad96908d)</sup>
 
 ## Subsite: Nov. 4, 2013 - Vol. 45 No. 22 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-4-2013 <sup>(0832c60c-b9a8-4bc3-ae13-ef56825c7c41)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, 059f2413-ead4-4439-a6ce-3e55a7fcced8)</sup>
   * County News 11/4/2013 - Vol. 45 No. 21 <sup>(Document, 33086414-70c8-4552-8539-f494c355d67f)</sup>
 
@@ -16330,7 +16432,9 @@ Web Application: Portal
   * PILT presentation provides tool for education, advocacy <sup>(NACo County News Article, 8bf09257-21fe-43ad-b63d-52a26eb2bb68)</sup>
 
 ## Subsite: Nov. 5, 2012 - Vol 44 No 21 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-5-12 <sup>(1865e90d-b107-40e5-a8a7-2d2df34709c7)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 2f8685d6-0e99-4626-afe0-476250dcb769)</sup>
   * nov5-Preckwinkle.jpg <sup>(Document, d8444bba-a1b5-440b-bf53-ad19747b592d)</sup>
   * CNews-Nov5-2012.pdf <sup>(Document, eb1be313-0fa4-4592-9d37-066d44601a45)</sup>
@@ -16377,7 +16481,9 @@ Web Application: Portal
   * Pa. county commissioner wants tank for the memories <sup>(NACo County News Article, 243e5162-0ca3-4fc0-b928-0bc697f30bd2)</sup>
 
 ## Subsite: Jan. 16, 2012 - Vol. 44 No. 1 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-16-12 <sup>(0ab16292-0f4b-48ef-938b-a4a570ca3733)</sup>
+
 ### Lists
+
  * Images <sup>(18 items, 4e246c35-8993-49c8-864d-e2eed59d8b8a)</sup>
   * EmergencyFunding.jpg <sup>(Document, dbbeafc2-a33b-4ccf-93b8-8c1d9a41b4f3)</sup>
   * Heart.jpg <sup>(Document, 625680ca-cb5d-4d20-94a8-ca8baca959de)</sup>
@@ -16428,7 +16534,9 @@ Web Application: Portal
   * Job Market / Classifieds <sup>(NACo County News Article, f2d16eb7-3bae-40b7-8ad5-77c9b6177bf5)</sup>
 
 ## Subsite: Jan. 17, 2011 - Vol. 43 No. 1 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-17-11 <sup>(fb0e1bab-17bd-4ba7-a019-4613ed4a2b26)</sup>
+
 ### Lists
+
  * Images <sup>(18 items, 0ba35ee0-aeb2-4a5c-ad68-fcd77fc5f20c)</sup>
   * CN-Horizontal-Rule.png <sup>(Document, b8d2886b-2330-4fb1-ba24-2ef42ecc5f87)</sup>
   * E-reder1.png <sup>(Document, f9f98767-6749-478d-8fa2-d92ab7f8ed63)</sup>
@@ -16479,7 +16587,9 @@ Web Application: Portal
   * Profiles In Service <sup>(NACo County News Article, 1224cba7-6ae7-4188-bb25-8fff8ff5ffed)</sup>
 
 ## Subsite: Nov. 7, 2011 Vol. 43 No. 21 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-7-11 <sup>(b2f8c6f4-1706-47f0-ba78-3850ca2b5fa9)</sup>
+
 ### Lists
+
  * Images <sup>(24 items, bbb481a0-4cfa-4b0c-b728-ad6876fa164c)</sup>
   * 2012Speakers.jpg <sup>(Document, e59b60d6-ba1f-4cd9-8d6c-61b6b4f36734)</sup>
   * Cnews-Alabama.jpg <sup>(Document, 7aed9040-c3b8-4636-bfe6-030443217274)</sup>
@@ -16537,7 +16647,9 @@ Web Application: Portal
   * GIS day Nov. 16 <sup>(NACo County News Article, 689d2b1b-7eb0-46bf-b317-61afe857684e)</sup>
 
 ## Subsite: Dec. 1, 2014 - Vol. 46 No. 23 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-1-2014 <sup>(6f0fb577-79d2-42ee-98f7-fc033bbd7a00)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, 8e1dfa11-6072-4e76-8fcc-26815c70a9ab)</sup>
   * CNews_Dec1_2014.pdf <sup>(Document, 8c96d741-50ba-4556-9bb9-32842de21771)</sup>
 
@@ -16585,7 +16697,9 @@ Web Application: Portal
   * NACo on the Move <sup>(NACo County News Article, fd53b2be-04d0-4f40-9bf0-2ef94110a9dd)</sup>
 
 ## Subsite: Dec. 13, 2010 Vol. 42  No.23 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-13-10 <sup>(4272c34e-cf36-434c-8f9d-9d3cd59e8d34)</sup>
+
 ### Lists
+
  * Images <sup>(24 items, ab7a8ed0-6a2b-4cac-8bcb-d9506d53ecaa)</sup>
   * Achiev2011.png <sup>(Document, 29a4c112-1912-4264-a080-7862f2fe08c6)</sup>
   * Back-to-gravel-roads.png <sup>(Document, a4eeb1c9-8a20-46fa-8a5e-ee5a0bb64d3c)</sup>
@@ -16640,7 +16754,9 @@ Web Application: Portal
   * The H.R. Doctor Is In <sup>(NACo County News Article, 749b6b02-c51c-46a0-ac1b-4e68a67b0f39)</sup>
 
 ## Subsite: Dec. 15, 2014 - Vol. 46 No. 24 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-15-14 <sup>(bb123753-d28c-40d8-aecd-006143456da7)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, b156c309-7358-44ab-99dd-a3cae5be1be9)</sup>
   * CNews_Dec15_2014.pdf <sup>(Document, 53cadf67-49ca-407a-938d-a302e609cf55)</sup>
   * OZONERange.pdf <sup>(Document, 48ed05eb-fa06-437c-af93-3d9f2bfcf539)</sup>
@@ -16702,7 +16818,9 @@ Web Application: Portal
   * NACo on the Move <sup>(NACo County News Article, de66cd8a-6ec7-4504-af77-0a0ae7aee90c)</sup>
 
 ## Subsite: Dec. 16, 2013 - Vol. 45 No. 24 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-16-13 <sup>(b75c51b4-36d5-402c-a61f-6e9d1a9ef4e5)</sup>
+
 ### Lists
+
  * Images <sup>(25 items, 237270ea-05fa-4f13-a338-6c5ffbe1ef9c)</sup>
   * Thumbnail-Feature-BOARD.png <sup>(Image, 92b5b301-d164-4887-a08c-e4615224e68b)</sup>
   * BOARD_Langston.jpg <sup>(Image, 33a13814-9cde-46c4-aa3d-fa26c1f541b8)</sup>
@@ -16755,7 +16873,9 @@ Web Application: Portal
   * In Case You Missed It <sup>(NACo County News Article, 19b2b5a2-2c4e-49c1-b01b-d3a35828aec5)</sup>
 
 ## Subsite: Dec. 17, 2012 - Vol. 44 No. 24 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-17-12 <sup>(75b81b5b-6e7b-4f99-881a-850af2943821)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 0cf1e58a-2155-43ac-a2af-40293e00f64d)</sup>
   * BM_11_20_2012_Item_3_MarijuanaOrdinance.pdf <sup>(Document, 160ef607-f0e6-4b6d-8313-c0526d6b1aae)</sup>
   * CNews-Dec17-2012.pdf <sup>(Document, 3f1d9765-3a1d-4dd0-b809-46924233cb65)</sup>
@@ -16809,7 +16929,9 @@ Web Application: Portal
   * New name, same service tradition <sup>(NACo County News Article, 6251f21c-3200-475b-985b-08290a822f5b)</sup>
 
 ## Subsite: Dec. 19, 2011 - Vol. 43 No. 24 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-19-11 <sup>(cb58943f-d132-498e-9597-893a05cc17b9)</sup>
+
 ### Lists
+
  * Images <sup>(23 items, a74f21ef-abab-4db7-a653-f680f20e0d95)</sup>
   * 2012-Standalone.png <sup>(Document, 2c105214-b35a-41a6-b6e9-30bdb3400e42)</sup>
   * 2012-StandaloneL.jpg <sup>(Document, 4aadf28d-489b-490e-aa48-1860bc440540)</sup>
@@ -16861,7 +16983,9 @@ Web Application: Portal
   * What's In a Seal? <sup>(NACo County News Article, 83cf7110-760c-4c99-8d39-a14dc34e3677)</sup>
 
 ## Subsite: Dec. 2, 2013 - Vol. 45 No. 23 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-2-2013 <sup>(377efacd-f88f-4ec3-b5e7-1d5d2618f175)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, 78e806b8-ad92-4dd5-a7ea-c79c47dd73dd)</sup>
   * CNews-December2-2013.pdf <sup>(Document, 90f9e6d8-314e-4842-ba7a-6f2af327e66b)</sup>
 
@@ -16905,7 +17029,9 @@ Web Application: Portal
   * What's in a Seal? <sup>(NACo County News Article, 2577a00e-b595-4e7b-bf55-7cb01078a067)</sup>
 
 ## Subsite: December 3, 2012 - Vo. 44 No. 23 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-3-12 <sup>(b676e74f-48ee-4132-888c-820ea35f5115)</sup>
+
 ### Lists
+
  * Images <sup>(16 items, 95e6dd3c-9611-43ec-97c7-3bf585f9df38)</sup>
   * Foreclose.jpg <sup>(Image, 20c58331-ff53-496b-9c70-e416bc0ec7a0)</sup>
   * Profiles-Dec3.png <sup>(Image, 4bb08f1a-e750-4aa5-8130-44ee03153d9a)</sup>
@@ -16948,7 +17074,9 @@ Web Application: Portal
   * HHS releases proposed rules fleshing out health law <sup>(NACo County News Article, 447006e4-925d-4f90-a841-7d436ab255a5)</sup>
 
 ## Subsite: Dec. 5, 2011  Vol. 43 No. 23 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-5-11 <sup>(1a5e9aaa-62b3-4a6e-a919-7f2b831a3fe9)</sup>
+
 ### Lists
+
  * Images <sup>(23 items, d86d25d4-08a6-4da2-be63-4b64fe26081e)</sup>
   * Cnews-Image-Small.jpg <sup>(Document, ee022e0d-f55d-438e-8c40-af5c2a5f0c95)</sup>
   * Cnews-Image-StanAlone.png <sup>(Document, 0b8c4a68-1829-4ae5-965b-b184fa9dbc18)</sup>
@@ -16998,7 +17126,9 @@ Web Application: Portal
   * News to Use ... or Pass Along <sup>(NACo County News Article, 5453b6c6-3618-4513-9253-a3ef1af01cea)</sup>
 
 ## Subsite: Jan. 26, 2015 - Vol. 47 No. 2 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-26-2015 <sup>(317dc5a6-0211-497a-9e84-96b778f9ecae)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, 920bdb23-e020-43b0-8e21-889c7ed3a844)</sup>
   * CNEWS_Jan26_2015.pdf <sup>(Document, 618c23ed-c93d-4226-9203-668afc9827f5)</sup>
 
@@ -17047,7 +17177,9 @@ Web Application: Portal
   * Pa. county pioneers pipeline tracking <sup>(NACo County News Article, 5baaed3a-bec5-4da6-b561-4db78eca99b3)</sup>
 
 ## Subsite: Jan.  27, 2014 - Vol. 46 No. 2 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-27-2014 <sup>(c8221b73-9ec1-4983-8d16-ded67fcbece5)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, c485f9fb-b53c-4102-8260-f649fd8e2e1a)</sup>
   * CNews-Jan27-2014.pdf <sup>(Document, a4aab050-dfea-4779-9e58-0c296223662c)</sup>
 
@@ -17104,7 +17236,9 @@ Web Application: Portal
   * Counties win in farm bill conference report <sup>(NACo County News Article, 646f8544-9650-4cdd-90c9-e32c98483e28)</sup>
 
 ## Subsite: Jan. 28, 2013 - Vol. 45 No. 2 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-28-13 <sup>(d51186b4-bb03-4e41-9698-76dfe0eec348)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, f0ecaab1-3f15-4716-8af6-8b64757894ed)</sup>
   * CNews-Jan28,2013.pdf <sup>(Document, 230816f4-3132-4d73-9d65-1fa742af9d46)</sup>
   * Dialogue on FinanCap Transmittal and Framework.1.18.13.pdf <sup>(Document, 9c1351f9-e48b-4718-a4f5-2020d6d042fc)</sup>
@@ -17157,7 +17291,9 @@ Web Application: Portal
   * Update: Senators unveil bi-partisan immigration reform proposal <sup>(NACo County News Article, bc532228-469d-4318-a3c3-f393119a58e8)</sup>
 
 ## Subsite: Jan. 30, 2012 - Vol. 44 No. 2 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-30-12 <sup>(45c7c3a7-25d1-487a-8e81-5eadc252a7bf)</sup>
+
 ### Lists
+
  * Images <sup>(20 items, 0461b9f5-0b73-46db-8cd5-2a5e6b032d6e)</sup>
   * climate.jpg <sup>(Document, bad6442b-d28b-4d3b-9117-b42d045c8c57)</sup>
   * Double.jpg <sup>(Document, 9c053a86-0a8d-4919-8ff2-5bc1748ad400)</sup>
@@ -17208,7 +17344,9 @@ Web Application: Portal
   * Job Market / Classifieds <sup>(NACo County News Article, d1b7d3c0-ee10-425b-8fca-9cea5750615a)</sup>
 
 ## Subsite: Jan. 31, 2011 Vol. 43 No. 2 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-31-11 <sup>(6e3e3743-71ec-4d35-b029-f2d51195d9fa)</sup>
+
 ### Lists
+
  * Images <sup>(27 items, 8d5142fa-5cac-4f20-8947-616601e2e26a)</sup>
   * 150.jpg <sup>(Document, a7a96afb-1729-4550-b81c-17cb3270086b)</sup>
   * CN-Horizontal-Rule.png <sup>(Document, 56febdad-33ef-480f-abe1-c3b426a062a4)</sup>
@@ -17263,7 +17401,9 @@ Web Application: Portal
   * Salt Lake County mayor keeps door open to new ideas <sup>(NACo County News Article, ba434d42-31d3-42ff-b57b-d3083ad2fb32)</sup>
 
 ## Subsite: Feb. 10, 2014 - Vol. 46 No. 3 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-10-2014 <sup>(e333fa18-da91-4fbc-9ce4-13723c02bef7)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 400ecdef-5d41-407a-b6e9-706107634857)</sup>
   * CNews_Feb10_2014.pdf <sup>(Document, 84ff35d5-64b8-48f1-8773-6d0bafc37576)</sup>
   * HR3370-Summary-FINAL-02232014.docx <sup>(Document, 1c2189a7-282c-494a-b6f1-8635fe1973b4)</sup>
@@ -17310,7 +17450,9 @@ Web Application: Portal
   * What's in a Seal? <sup>(NACo County News Article, f53fa3f2-c82d-430d-b9ac-e6cb74d8ab9a)</sup>
 
 ## Subsite: Feb. 11, 2013 - Vol. 45 No. 3 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-11-13 <sup>(f618f8ad-ad14-4337-9c99-b73d2842b010)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, 3070e5de-65ba-4788-bec3-0beb5ca804c4)</sup>
   * CNews_February11_2013.pdf <sup>(Document, afddbdae-909a-4ad7-be03-cc8591d98750)</sup>
 
@@ -17369,7 +17511,9 @@ Web Application: Portal
   * 2013 NACo Second Vice President Candidates - Tim Josi <sup>(NACo County News Article, 0b0121ac-7791-4c4d-984c-d3890cad2356)</sup>
 
 ## Subsite: Feb. 13, 2012 - Vol. 44 No. 4 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-13-12 <sup>(ebc2a273-f85e-4127-88cc-876435e72445)</sup>
+
 ### Lists
+
  * Images <sup>(14 items, 85616b51-ef06-4eaf-80cd-21890829643c)</sup>
   * Horizontal.gif <sup>(Document, 7001a616-08c0-474a-9a2c-69d26950d80f)</sup>
   * Sepline.gif <sup>(Document, 4099222d-c535-473b-8a3c-0230d19b22fc)</sup>
@@ -17411,7 +17555,9 @@ Web Application: Portal
   * What's In a Seal? <sup>(NACo County News Article, c6edb65c-ac21-4584-be0b-90ea548ae4af)</sup>
 
 ## Subsite: Feb. 14, 2011 - Vol. 43 No. 3 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-14-11 <sup>(1d9dbc60-9d73-4c7e-8b5a-012ecfc7a34d)</sup>
+
 ### Lists
+
  * Images <sup>(15 items, 5199efa2-8bca-4eda-8971-c4f802c4ae68)</sup>
   * CN-Horizontal-Rule.png <sup>(Document, a4becbec-19dd-4603-95fa-288f4b110deb)</sup>
   * Airport-Wide.png <sup>(Document, 0b39a337-957e-46c2-a08b-ccbd7bb1f91d)</sup>
@@ -17459,7 +17605,9 @@ Web Application: Portal
   * Job Market / Classifieds <sup>(NACo County News Article, dfb089a3-e2e9-4181-b89a-7dc9b5c68bc0)</sup>
 
 ## Subsite: Feb. 23, 2015 - Vol. 47, No. 4 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-23-2015 <sup>(1b05babf-f6b5-4dd9-a1f6-ab3c77cdc587)</sup>
+
 ### Lists
+
  * Documents <sup>(3 items, 4f95b0a0-7805-4ced-b7c4-03873817404a)</sup>
   * County News 2 23 15.pdf <sup>(Document, fc343ddb-1c64-46e3-bd0d-44d40aa1604d)</sup>
   * CNews-Feb23-2015.pdf <sup>(Document, d1d196ce-6a3d-43fa-985e-334f9f03270a)</sup>
@@ -17500,7 +17648,9 @@ Web Application: Portal
   * Hot Topics: Public Lands <sup>(NACo County News Article, 71f4a20c-cea9-4b78-8600-c563333071d0)</sup>
 
 ## Subsite: Feb. 24, 2014 - Vol. 46 No. 4 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-24-2014 <sup>(d564b851-623a-4405-8dd7-eafa45a9c88e)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, 8f57bee4-b455-4c54-a678-c5bb99cfc6ea)</sup>
   * CNews-Feb24-2014.pdf <sup>(Document, e094a8a6-a57c-4f9d-8f55-ffe4c2f1b4c1)</sup>
 
@@ -17554,7 +17704,9 @@ Web Application: Portal
   * Profiles in Service <sup>(NACo County News Article, 64439ccd-edc5-40e0-bdac-e5a95b13a308)</sup>
 
 ## Subsite: Feb. 25, 2013 - Vol. 45 No. 4 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-25-13 <sup>(9f462973-1971-4cce-bd0c-731a4787a0b1)</sup>
+
 ### Lists
+
  * Images <sup>(19 items, b66d7573-f892-40ae-b195-6c46ea2c0a8d)</sup>
   * SantaCruzCounty.png <sup>(Image, b534201a-5c6f-4c63-b07e-efd794ea67d3)</sup>
   * Thumbnail-Santacruz.png <sup>(Image, beb489fa-0b3a-4f60-8f12-29208f58f14e)</sup>
@@ -17605,7 +17757,9 @@ Web Application: Portal
   * March 5, 2013 - Washington, D.C. <sup>(NACo Article Page, c7d2ba80-2def-4113-9ac7-85bb212c824e)</sup>
 
 ## Subsite: Feb. 27, 2012  Vol. 44 No. 4 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-27-12 <sup>(d6975e20-79d3-4696-8ed2-fd3786919e9e)</sup>
+
 ### Lists
+
  * Images <sup>(20 items, 17fd0e60-0e8a-400e-8ed4-c7ba13f3ba4f)</sup>
   * Caswell-County.jpg <sup>(Document, d90b6c16-8907-4a50-98fe-fad1d76ab04a)</sup>
   * Cnews-ToniP.jpg <sup>(Document, 9a667861-8944-47e2-9d21-b4b91ce66882)</sup>
@@ -17660,7 +17814,9 @@ Web Application: Portal
   * 2012 County Courthouse Award Applications Available <sup>(NACo County News Article, 0847fe47-2655-4e0e-9213-714ab6843a71)</sup>
 
 ## Subsite: Feb. 28, 2011 - Vol. 43 No. 4 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-28-11 <sup>(e78b2556-e426-4354-a063-6b687c8ec98a)</sup>
+
 ### Lists
+
  * Images <sup>(18 items, 5723818a-3bdd-4477-8ec3-07e68f8bf7bf)</sup>
   * 2011-LegLogo.png <sup>(Document, 381577a9-18bd-4d25-b23c-2aa455024d53)</sup>
   * Banner-2011candidate.jpg <sup>(Document, 02a11e3d-dd4e-4aea-9631-2a728ca5d495)</sup>
@@ -17709,7 +17865,9 @@ Web Application: Portal
   * What's In a Seal? <sup>(NACo County News Article, ed0e8522-33f9-460e-b935-f29787202a97)</sup>
 
 ## Subsite: Feb. 9, 2015 - Vol. 47, No. 3 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-9-2015 <sup>(0feb47fd-42fe-45ee-93c7-dd10336d4808)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, 53fec18d-6e61-40a0-9250-3e346e2eadeb)</sup>
   * CNEWS-Feb9-2015.pdf <sup>(Document, 4e6d7983-b3bc-428b-91f6-462c1bce4096)</sup>
 
@@ -17759,7 +17917,9 @@ Web Application: Portal
   * State-to-State <sup>(NACo County News Article, 3caa6c93-b2c4-4fcc-b72e-3c6068ec68a7)</sup>
 
 ## Subsite: March 10, 2014 - Vol. 46 No. 5 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-10-2014 <sup>(e3b904b1-996f-4bb4-b687-08d7fa1fc0cc)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, a53e6195-b96a-406c-8dec-7f62bc2e9c24)</sup>
   * Emergency Management Performance Grant .pdf <sup>(Document, 8b6eb8a1-2338-428f-aa13-60ec9fe9a8cf)</sup>
   * CNews_March102014.pdf <sup>(Document, a7def229-dfed-4358-9236-587dc1368af7)</sup>
@@ -17812,7 +17972,9 @@ Web Application: Portal
   * Congressional backers, NACo muster support for MAP-21 <sup>(NACo County News Article, 04af2623-bf57-4e2c-80b1-4a140a886459)</sup>
 
 ## Subsite: March 11, 2013 - Vol. 45 No. 5 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-11-2013 <sup>(d1b52bbe-115c-4a06-9e3c-ea9b44405cc1)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 227b2c75-0ba3-48c6-b308-f51753178a13)</sup>
   * Why Counties Matter.flv <sup>(Document, ee7796f4-35a2-4719-b8f8-d02846a7e8f4)</sup>
   * CNEWS_Mar11_2013.pdf <sup>(Document, ee00b07d-3ead-49b5-8630-9d7ac6a9df10)</sup>
@@ -17860,7 +18022,9 @@ Web Application: Portal
   * New NACo policies adopted at D.C. conference <sup>(NACo County News Article, b5cca7b9-3236-4024-9b63-86eff8ab6f11)</sup>
 
 ## Subsite: March 12, 2012 - Vol. 44 No. 5 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-12-12 <sup>(853a60f0-6aab-451d-8af9-6c930daa7f62)</sup>
+
 ### Lists
+
  * Images <sup>(18 items, 1731d73a-9a67-4a49-b8cc-ad7d979a9bb2)</sup>
   * Conf-Overall.jpg <sup>(Document, 4177f4eb-2cf5-4d20-a0e1-6aa3061a160e)</sup>
   * FB-CN.png <sup>(Document, 8075b94d-a90c-473c-8206-cc73201acbe8)</sup>
@@ -17904,7 +18068,9 @@ Web Application: Portal
   * Job Market / Classifieds <sup>(NACo County News Article, b02d71cd-b598-466f-b1e3-b01e73bbd8fc)</sup>
 
 ## Subsite: March 14, 2011 Vol. 43 No. 5 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-14-11 <sup>(4cd1a29a-b4b1-4499-ae6c-e96f69879c82)</sup>
+
 ### Lists
+
  * Images <sup>(29 items, 6be03997-071e-41bc-b236-a0f051d7039c)</sup>
   * Conferenc-Report.png <sup>(Document, 839d073a-94c8-410c-bb48-38f3c989e75d)</sup>
   * Graf-Story.png <sup>(Document, 91641a21-c16f-4861-ae19-f79675f7a317)</sup>
@@ -17961,7 +18127,9 @@ Web Application: Portal
   * NACo argues against CDBG cuts <sup>(NACo Article Page, 2756c043-0c96-4f31-a547-b28c4bc7070b)</sup>
 
 ## Subsite: March 23, 2015 - Vol. 27, No. 6 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-23-2015 <sup>(f5c54c63-52b9-48b8-b159-2986354b2511)</sup>
+
 ### Lists
+
  * Documents <sup>(4 items, 8f83b8ef-c754-4574-a42b-f6f3bedaf6bf)</sup>
   * CNews-Mar23-2015.pdf <sup>(Document, f7416af4-cf9b-4c40-91e9-dd99ce2770de)</sup>
   * LearnMoreHere.jpg <sup>(Document, ef89087e-f439-4f71-90b4-e0c8dc26cdaa)</sup>
@@ -18007,7 +18175,9 @@ Web Application: Portal
   * What's in a Seal? <sup>(NACo County News Article, 90d6f615-959d-4ab1-ad66-0b222606ba38)</sup>
 
 ## Subsite: March 24, 2014 - Vol. 46 No.6 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-24-2014 <sup>(0aef4d2c-2c18-484c-a228-944896fd67be)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 338d99b7-b93b-46f1-8789-7e4aefc4dd70)</sup>
   * PHOTOSPREAD-CNews-March24-2014.pdf <sup>(Document, 62bfa599-c40b-4808-8c64-b461c6b39abe)</sup>
   * CNews-March24-2014.pdf <sup>(Document, 942ba1c4-0444-456d-a2fe-4b48de5dcb81)</sup>
@@ -18081,7 +18251,9 @@ Web Application: Portal
   * Profiles in Service <sup>(NACo County News Article, 03460f70-0068-48b2-bf4a-9100e1773387)</sup>
 
 ## Subsite: March 25, 2013 Vol. 45 No. 6 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-25-2013 <sup>(9cd089e0-9aba-4788-be57-b1c93cd713e4)</sup>
+
 ### Lists
+
  * Documents <sup>(3 items, 24a14139-1d88-48a7-b566-8556d86546cc)</sup>
   * CN-Leg2013-Photos.pdf <sup>(Document, c4ec105e-6250-457b-8030-2a19d8492e59)</sup>
   * CN-HealthyCounties-March25.pdf <sup>(Document, 1ef52bd1-f232-43bb-9de7-06e65ae36d80)</sup>
@@ -18140,7 +18312,9 @@ Web Application: Portal
   * 2013 Legislative Conference After-Action Report <sup>(NACo County News Article, 6c843e35-a2e9-447a-a67b-d6d4fe59069d)</sup>
 
 ## Subsite: March 26, 2012 - Vol. 44 No. 6 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-26-12 <sup>(9c1dfd29-5112-4f80-aa07-a6b432e4ec24)</sup>
+
 ### Lists
+
  * Images <sup>(37 items, ce55dcfa-115f-43fb-bbee-4bf30da4f7d5)</sup>
   * AFTER-ACTION.jpg <sup>(Document, 1210a403-7852-42b7-83c6-bbe114d89494)</sup>
   * Cnews-Profiles.png <sup>(Document, e594e454-fa9e-4816-8ff3-2210b44137df)</sup>
@@ -18212,7 +18386,9 @@ Web Application: Portal
   * The H.R. Doctor Is In <sup>(NACo County News Article, ae126b43-35cf-475c-a8d3-67e9dd7e5799)</sup>
 
 ## Subsite: March 28, 2011 - Vol. 43 No. 6 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-28-11 <sup>(5a7d7da1-b528-4a6e-b327-6bb256703e3c)</sup>
+
 ### Lists
+
  * Images <sup>(35 items, 7713eb60-0224-420f-b8f0-55780609cae0)</sup>
   * CDBG.png <sup>(Document, f2c47183-ba16-40e0-a55c-7d45819aadf6)</sup>
   * CN-Horizontal-Rule.png <sup>(Document, f891ebbe-d904-45b0-9075-7d41ce835ed1)</sup>
@@ -18277,7 +18453,9 @@ Web Application: Portal
   * NACo on the Move <sup>(NACo County News Article, f5ea92cc-942c-447a-90c5-dfde6ed0735d)</sup>
 
 ## Subsite: March 9, 2015 - Vol. 47, No. 5 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-9-2015 <sup>(acddfd31-f471-481b-804b-450a2b300e06)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, e9eadc3a-31d0-4709-87fd-24e537c3ffcb)</sup>
   * CNews-March9-2015.pdf <sup>(Document, f0980506-9b16-4f12-86c4-7b9b9a550854)</sup>
   * Workshops-3.jpg <sup>(Document, 6362b2f7-c5c6-47f2-a8cd-6c378d527ddb)</sup>
@@ -18338,7 +18516,9 @@ Web Application: Portal
   * EPA-needs-do-over-on-‘Waters-of-the-U-S-’-rule.aspx <sup>(NACo County News Article, e040d8c1-ae16-445e-81ee-436760440013)</sup>
 
 ## Subsite: April 11, 2011 Vol. 43 No. 7 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-11-11 <sup>(1ae004d6-d60c-4aa9-a767-ac2951a9202b)</sup>
+
 ### Lists
+
  * Images <sup>(15 items, 6c440980-850a-423d-8e14-cb58d87ec14d)</sup>
   * Diablo.png <sup>(Document, f8aa5138-a525-48ca-82d4-5e235f14b5ee)</sup>
   * LincolnCounty.png <sup>(Document, c1aee3f5-e3d8-4dd1-a487-6a87e64d70e8)</sup>
@@ -18378,7 +18558,9 @@ Web Application: Portal
   * Job Market / Classifieds <sup>(NACo County News Article, 0b874560-b960-46ea-b005-2644929bf626)</sup>
 
 ## Subsite: April 21, 2014 - Vol. 46 No. 8 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-21-2014 <sup>(1a725db4-76dd-4dec-b145-97319ea3340d)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 3074a12e-4abf-4ec1-9711-2870a02309a9)</sup>
   * CNews-April21-2014.pdf <sup>(Document, 54a9fb6b-435d-48ce-b99b-7fd2251afad5)</sup>
   * CNews-April21-HT.pdf <sup>(Document, 1b54002a-ea50-4424-a205-be76a300374a)</sup>
@@ -18446,7 +18628,9 @@ Web Application: Portal
   * Profiles in Service <sup>(NACo County News Article, 5a4b3726-8129-4105-9f51-634b1d7b95bc)</sup>
 
 ## Subsite: April 22, 2013 - Vol. 45 No. 8 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-22-2013 <sup>(1adaf0bf-69ca-4197-9324-de8adb54d6c7)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, 06514e4e-712b-4faf-bad0-59ceab99f263)</sup>
   * CNews-Apr22-2013.pdf <sup>(Document, 297f6688-7384-473a-a6ab-cad849a3d79b)</sup>
 
@@ -18498,7 +18682,9 @@ Web Application: Portal
   * Complex path to reform unveiled in bipartisan immigration bill <sup>(NACo County News Article, 22319972-6121-4068-ad2c-3885d4b6b1f6)</sup>
 
 ## Subsite: April 23, 2012 - Vol. 44 No. 8 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-23-2012 <sup>(daaa556e-3712-42ec-825d-c823267a3c5a)</sup>
+
 ### Lists
+
  * Images <sup>(22 items, 2e1ad5ca-fe9a-42be-ab5f-357dfd82d923)</sup>
   * Horizontal.gif <sup>(Document, b4d62433-92a4-4263-8fe9-9c133b94cd33)</sup>
   * Sepline.gif <sup>(Document, e57ffa14-d9f4-4bc5-a156-207c37264e08)</sup>
@@ -18545,7 +18731,9 @@ Web Application: Portal
   * What's In a Seal? <sup>(NACo County News Article, e68553b2-3af3-4a28-bbbc-739293d93b3d)</sup>
 
 ## Subsite: April 25, 2011 - Vol. 43 No. 8 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-25-11 <sup>(180639ff-bd78-4772-8bc1-725079a703c2)</sup>
+
 ### Lists
+
  * Images <sup>(20 items, fe551ceb-adf9-43ee-abd5-dcac1df51090)</sup>
   * Access.jpg <sup>(Document, 82623628-9d10-48b7-946d-b58cd54cd46c)</sup>
   * Gaston-Seal.jpg <sup>(Document, de37de1c-071b-48f8-8c68-6d679863fd16)</sup>
@@ -18597,7 +18785,9 @@ Web Application: Portal
   * In Case You Missed it <sup>(NACo County News Article, f2b561b6-c061-45ab-9e6f-8e92cdad2f57)</sup>
 
 ## Subsite: April 7, 2014 -Vol. 46 No. 7 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-7-2014 <sup>(cfdbd470-c752-45c6-9486-ae77e63a3175)</sup>
+
 ### Lists
+
  * Images <sup>(27 items, 538a2463-897d-4602-80c6-c28b78b3ddc3)</sup>
   * Photo-StandardSizes-Placeholder.png <sup>(Image, e86c66d8-8a10-4c9c-b9fa-ec54c92475ed)</sup>
   * Photo-WideSizes-Placeholder.png <sup>(Image, 58f219a0-b35e-41d7-9e29-5fec51716abb)</sup>
@@ -18658,7 +18848,9 @@ Web Application: Portal
   * President’s budget proposes consolidation of DHS state and local grants <sup>(NACo County News Article, 83678d45-1b55-4023-901c-bbd99aac93d1)</sup>
 
 ## Subsite: April 8, 2013 - Vol. 45 No. 7 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-8-2013 <sup>(f6708358-63b2-430d-9a35-87b2edec2935)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, c64ce8f1-8320-4b82-a4f5-df8564de2489)</sup>
   * CNEWS-April8-2013.pdf <sup>(Document, 4b14e2b9-0fed-4e50-88ea-6a6704d403b0)</sup>
 
@@ -18709,7 +18901,9 @@ Web Application: Portal
   * Affiliate News <sup>(NACo County News Article, bbd735cf-4329-4768-82d7-a3313ae125f8)</sup>
 
 ## Subsite: April 9, 2012 - Vol. 44 No. 7 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-9-2012 <sup>(80407794-0ee0-4758-b138-073dd04e3944)</sup>
+
 ### Lists
+
  * Images <sup>(15 items, cb9b2e99-f686-44d5-9c2c-7a463dc6f2c1)</sup>
   * Horizontal.gif <sup>(Document, c182f9d8-f453-4d7a-9c15-916d5d9961a5)</sup>
   * Sepline.gif <sup>(Document, 3f5434f9-4511-4f31-a561-d08dd6c92540)</sup>
@@ -18753,7 +18947,9 @@ Web Application: Portal
   * Power2Give set to help local art <sup>(NACo County News Article, 73272097-781f-4dd9-9a58-b6f8b41f7a82)</sup>
 
 ## Subsite: May 10, 2010 Volume 42 No. 9 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-10-10 <sup>(ab39b0da-7d31-4477-a636-a01ebd093592)</sup>
+
 ### Lists
+
  * Images <sup>(7 items, f944927c-77fd-4861-b86b-18210dae1069)</sup>
   * Thumb-BorderStates.jpg <sup>(Document, 96544f32-a54e-42c8-8bc6-34b96cb2d574)</sup>
   * Thumb-Capt.jpg <sup>(Document, 62700aeb-77eb-441a-9da6-07e5a678c145)</sup>
@@ -18784,7 +18980,9 @@ Web Application: Portal
   * Vol. 42 No. 9, May 10, 2010 <sup>(NACo Welcome Page, 71cbfcc9-dc75-46a8-bd93-4a80dcfaf105)</sup>
 
 ## Subsite: May 19, 2014 - Vol. 46 No. 10 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-19-2014 <sup>(16286a74-ff83-445d-b7ed-ca96a226ce7d)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, ab7e8506-d324-4427-abb7-bd4b20f718cb)</sup>
   * WISCONSIN.jpg <sup>(Document, 11b13fcb-7a1e-4c19-ba47-3b8679dc456c)</sup>
   * CNEWS-May19-2014.pdf <sup>(Document, 9bbd8a6e-b7da-4d0a-9af8-6e4db01c7a73)</sup>
@@ -18836,7 +19034,9 @@ Web Application: Portal
   * State to State <sup>(NACo County News Article, 32b1ae3d-bb84-463b-9c10-2e9b817ae15d)</sup>
 
 ## Subsite: May 20, 2013 Vol. 45 No. 10 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-20-2013 <sup>(188cb619-3dc9-467e-939c-113e257b562e)</sup>
+
 ### Lists
+
  * Documents <sup>(3 items, f68688a7-ac6e-46d4-911f-fd122cafdf56)</sup>
   * Photo-LUCC2.png <sup>(Document, 2034b6df-9bec-4f45-aca1-fb78afdbcd8f)</sup>
   * Photo-LUCC3.png <sup>(Document, 1d415fa0-f411-4657-b68c-8c2d4c84bf2e)</sup>
@@ -18908,7 +19108,9 @@ Web Application: Portal
   * Cleveland County, Okla. takes brunt of a "grinder" tornado <sup>(NACo County News Article, 9dacb103-4bea-4ad8-91ff-40f4ba67162e)</sup>
 
 ## Subsite: May 21, 2012  Vol. 44 No. 10 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-21-2012 <sup>(d1e19f1a-b38e-487a-ae48-0a309aa27ec7)</sup>
+
 ### Lists
+
  * Images <sup>(20 items, b3278080-aeb5-49ff-a53a-8d986806abf8)</sup>
   * bikes.jpg <sup>(Document, fe9991b0-5907-4cb5-b9ed-1efea8887057)</sup>
   * County-China.jpg <sup>(Document, 921b81f7-266c-4863-a712-2b869c473a30)</sup>
@@ -18964,7 +19166,9 @@ Web Application: Portal
   * What's In a Seal? <sup>(NACo County News Article, 7ccb07b5-bb2b-4b3b-a269-008973bdb27e)</sup>
 
 ## Subsite: May 23, 2011  Vol. 43 No. 10 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-23-11 <sup>(3732d287-6c43-4284-af4a-75813dfb6566)</sup>
+
 ### Lists
+
  * Images <sup>(19 items, 95230c46-7a1d-4d1a-967a-9911a9e2abf2)</sup>
   * CN-Horizontal-Rule.png <sup>(Document, c5cbd082-2432-42a9-b5eb-c7a8c538b386)</sup>
   * ModelCounties.jpg <sup>(Document, a30272dc-fe69-4253-9d60-01a2bd9da5dd)</sup>
@@ -19014,7 +19218,9 @@ Web Application: Portal
   * What's In a Seal? <sup>(NACo County News Article, d12765b1-550e-49c6-8e8a-062fd9df7d4b)</sup>
 
 ## Subsite: May 24, 2010 Volume 42 No. 10 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-24-10 <sup>(2b6479ec-f712-4ac3-b7a4-b2e056b64d7e)</sup>
+
 ### Lists
+
  * Images <sup>(6 items, 7dcd1e77-414c-4495-a4be-1462f834e367)</sup>
   * oil in marsh.jpg <sup>(Document, 7ca692b4-6555-45fe-ab98-d9dc1792511b)</sup>
   * IMGP1461.jpg <sup>(Document, f13fb3bf-5fdf-4a6c-b421-b5587fc5764a)</sup>
@@ -19039,7 +19245,9 @@ Web Application: Portal
   * Vol. 42 No. 10, May 24, 2010 <sup>(NACo Welcome Page, 51e54f52-84fc-4d60-bb96-47c8c2304c67)</sup>
 
 ## Subsite: May 5, 2014 - Vol. 46 No. 9 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-5-2014 <sup>(8834111a-bea5-46bd-ba4e-bb1571c6d1cc)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, c186b5e4-5a76-4605-b6be-8ec64f386713)</sup>
   * 5/5/2014 <sup>(Document, 23d60fbd-771f-4c9f-96f3-ee12f70b041b)</sup>
 
@@ -19096,7 +19304,9 @@ Web Application: Portal
   * Proposed GROW AMERICA Act could modernize transportation policy <sup>(NACo County News Article, 345212c6-0744-43c3-ae38-26b8279c9d94)</sup>
 
 ## Subsite: May 6, 2013 - Vol. 45 No. 9 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-6-2013 <sup>(ef2f03f8-9eba-4cd4-984e-250b0cfd1f2d)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, cccaf6fe-c699-4ef9-8a7b-ee5e76fdb56e)</sup>
   * CNews_May62013.pdf <sup>(Document, f7772201-722d-4bb2-832f-8f53024b42c5)</sup>
 
@@ -19155,7 +19365,9 @@ Web Application: Portal
   * MEMORANDUM: 2013–2014 Presidential Leadership and Committee Appointments <sup>(NACo County News Article, 51bca54d-d143-4883-ab76-508e40361092)</sup>
 
 ## Subsite: May 7, 2012 - Vol. 44 No. 9 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-7-2012 <sup>(2370424d-2c94-466f-8acd-d17153ea5881)</sup>
+
 ### Lists
+
  * Images <sup>(19 items, 62be628b-2b04-4e23-bffb-11dfa0ab8d6f)</sup>
   * BryanDesloge.png <sup>(Document, d658f040-fd44-4e6f-b174-8870876017fc)</sup>
   * CellBlock.jpg <sup>(Document, 81c950dc-ba3a-4c65-97a5-12125db56fc4)</sup>
@@ -19207,7 +19419,9 @@ Web Application: Portal
   * Profiles In Service <sup>(NACo County News Article, 5cdf0eba-46b3-4240-ba62-b69c6c29bde1)</sup>
 
 ## Subsite: May 9, 2011 - Vol. 43 No. 9 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-9-11 <sup>(67e5bfd7-f725-411f-a40e-20e29c45e6fe)</sup>
+
 ### Lists
+
  * Images <sup>(17 items, 023dc0ea-b786-463a-84c1-b6863d73e6f7)</sup>
   * character.png <sup>(Document, 4476eb7b-d554-46cf-93b9-8fd59ff730a0)</sup>
   * CivilWar1.jpg <sup>(Document, 02892405-b68e-4859-91a9-967b074c5a27)</sup>
@@ -19256,7 +19470,9 @@ Web Application: Portal
   * Job Market / Classifieds <sup>(NACo County News Article, 453bfc33-3ef9-486d-8d11-ae352c8a94d1)</sup>
 
 ## Subsite: June 16, 2014 - Vol. 46, No. 12 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-16-2014 <sup>(63cdbc27-a86f-481f-89cd-c993f2c70737)</sup>
+
 ### Lists
+
  * Documents <sup>(4 items, bc2f991f-31f5-48a5-912e-f90729c9c69c)</sup>
   * 2014-Votes.pdf <sup>(Document, d3856874-8054-4eb4-a9a0-d7693a1d3798)</sup>
   * JK Rowling--Voices of Recovery.mp3 <sup>(Document, 6f510349-3dbf-4ac9-98c5-cfcfd2c54804)</sup>
@@ -19310,7 +19526,9 @@ Web Application: Portal
   * High court issues qualified immunity rulings favorable to counties <sup>(NACo County News Article, a3edf100-b677-4432-803e-cdbf28e69cdf)</sup>
 
 ## Subsite: June 17, 2013 - Vol. 45 No. 12 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-17-2013 <sup>(a27b77fc-d76a-4b0c-b228-6babd5f0bafc)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 1e4a1bf3-32dd-4c79-ba56-6a43a7ff993a)</sup>
   * CNews_June17-2013.pdf <sup>(Document, 5f21ff1b-4e07-4573-a0fd-70c437b4083c)</sup>
   * CNews_June17-2013VOTINGCRED.pdf <sup>(Document, 94d17842-ff5b-4364-ba0c-cc5d4b5131dd)</sup>
@@ -19363,7 +19581,9 @@ Web Application: Portal
   * 2013 NACo Election Vote State-by-State Allocations <sup>(NACo County News Article, faa8a885-31b0-4192-ac10-673b9ad2f2c0)</sup>
 
 ## Subsite: June 18, 2012 - Vol. 44 No. 12 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-18-12 <sup>(3a1a5ad4-7f92-47d5-bbb4-e178b3c32af8)</sup>
+
 ### Lists
+
  * Images <sup>(18 items, 8e89ae5f-ff89-4b27-9878-572cde672b34)</sup>
   * Thumb-Baseball.png <sup>(Document, 2ec22071-71a9-46d4-9e93-cbedaf6cb9fd)</sup>
   * Thumb-Court.png <sup>(Document, 88bfe76b-c451-4215-bc38-ad5dda97a119)</sup>
@@ -19415,7 +19635,9 @@ Web Application: Portal
   * Job Market/Classifieds <sup>(NACo County News Article, e66118ca-a428-46c2-950f-1b0a267d3710)</sup>
 
 ## Subsite: June 20, 2011 - Vol. 43 No. 12 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-20-11 <sup>(b8258848-490d-483d-8693-2df21f608983)</sup>
+
 ### Lists
+
  * Images <sup>(14 items, fd0ca371-5409-4ed1-9830-ea8fb922494a)</sup>
   * 2011-votes.jpg <sup>(Document, a6d06494-5cba-4ae5-ae41-c46a3581b0ed)</sup>
   * Casino-June20.jpg <sup>(Document, 5bbf55cc-d111-43ff-8398-29bdf0537aa5)</sup>
@@ -19455,7 +19677,9 @@ Web Application: Portal
   * Donald Larson, commissioner, Brookings County, S.D. <sup>(NACo County News Article, a9bd16a0-4210-4fe0-9176-cfe498216ed3)</sup>
 
 ## Subsite: June 2, 2014 - Vol. 26 No. 11 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-2-2014 <sup>(8b3d40d5-644d-44ac-89a1-8b87633caf77)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 37b79934-03f2-45f6-b781-dab5e451e3d0)</sup>
   * Sample WIOA Letter <sup>(Document, 5b285a7f-efeb-4b48-a722-fe5387c759db)</sup>
   * WIOA Chart FINAL web.docx <sup>(Document, 2d55114f-4b50-482b-a05a-c899935361dd)</sup>
@@ -19513,7 +19737,9 @@ Web Application: Portal
   * NACo on the Move <sup>(NACo County News Article, c1dbe999-3e83-4431-b643-377c4b20e641)</sup>
 
 ## Subsite: June 30, 2014 - Vol. 45 No.13 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-30-2014 <sup>(6af82029-fb86-467a-94cc-49d3193a5528)</sup>
+
 ### Lists
+
  * Images <sup>(19 items, 9bf86a3b-d60a-4171-bb59-b3dcc9761328)</sup>
   * DisasterHeatMap.jpg <sup>(Image, 7e4a2ea4-ff86-46f4-a84c-65fb35935592)</sup>
   * Candidate.jpg <sup>(Image, 0f0bff26-958c-41ff-bc16-5fc1051a2f6f)</sup>
@@ -19560,7 +19786,9 @@ Web Application: Portal
   * Bryan Desloge <sup>(NACo County News Article, d9033590-4022-456d-afa1-d1cf80fc8f59)</sup>
 
 ## Subsite: June 3, 2013 - Vol. 45 No. 11 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-3-2013 <sup>(266ea285-329e-44a9-a5c2-205eaad4352c)</sup>
+
 ### Lists
+
  * Documents <sup>(3 items, c62f7340-4dbd-4238-a2d6-d2e336037aa8)</sup>
   * WIR1.png <sup>(Document, a834f08e-4b89-4650-90b1-bd07b66de976)</sup>
   * parks1.jpg <sup>(Document, 08fd7b26-a3c9-45ee-baee-f96c1ffb660e)</sup>
@@ -19619,7 +19847,9 @@ Web Application: Portal
   * Board approves adding medical services to prescription program <sup>(NACo County News Article, 75377464-3faa-4396-84cf-54f0f9f2b84f)</sup>
 
 ## Subsite: June 4, 2012 - Vol. 44 No. 11 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-4-12 <sup>(8270d209-259f-406c-9c55-b48683eaa0e5)</sup>
+
 ### Lists
+
  * Images <sup>(17 items, bcf5f892-abdf-484c-9405-2f0014d086ed)</sup>
   * Apps.jpg <sup>(Document, a57685b3-9ae1-4cb0-9495-09b6fe5dea8c)</sup>
   * award.jpg <sup>(Document, 852f6c75-77a9-41a5-846e-09103a3044fb)</sup>
@@ -19663,7 +19893,9 @@ Web Application: Portal
   * Model Programs from the Nation's Counties <sup>(NACo County News Article, 1a14910e-d336-41f1-a760-0c7d5c54159b)</sup>
 
 ## Subsite: June 6, 2011 - Vol. 43 No. 11 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-6-11 <sup>(31243072-d5b4-4b99-8a52-6fef96dbedfc)</sup>
+
 ### Lists
+
  * Images <sup>(20 items, 1fba3a10-853a-487e-a38b-d3518f0de66c)</sup>
   * Banner-Letter.jpg <sup>(Document, 211b1868-ef18-49e6-b505-45b9d741874c)</sup>
   * BEST.jpg <sup>(Document, 94e80ebb-5795-4800-b50d-95dd2690d261)</sup>
@@ -19712,7 +19944,9 @@ Web Application: Portal
   * What's In a Seal? <sup>(NACo County News Article, 607d333e-c823-48cc-9724-2bb3941e9bd0)</sup>
 
 ## Subsite: July 1, 2013 - Vol. 45 No. 13 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-1-2013 <sup>(216f9b10-f77d-4451-aea9-a224477f9e36)</sup>
+
 ### Lists
+
  * Documents <sup>(3 items, 7213f1fd-13e0-4ee6-8c3c-48c468b40877)</sup>
   * New Metro Counties  2013 <sup>(Document, af3aa3d5-9436-4ff7-ba60-5c69618dd40a)</sup>
   * Counties Moved to  Non-Metro Status 2013 <sup>(Document, 8ec71de0-883f-4576-879f-bc2060c352af)</sup>
@@ -19773,7 +20007,9 @@ Web Application: Portal
   * Research News <sup>(NACo County News Article, 454e20d3-ecaa-4410-b8c2-d71f1a845bd1)</sup>
 
 ## Subsite: July 14, 2014 - Vol. 45 No. 14 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-14-2014 <sup>(2140edd9-4941-497c-8275-d7d150e90856)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, de8118b1-0548-4b43-aba8-d69d01585a39)</sup>
   * County News July 14, 2014 <sup>(Document, 83c7f55a-e630-4e8a-b21a-32c4f10522c6)</sup>
   * County News Hot Topics: The Road Ahead for Counties <sup>(Document, 7be0056d-40ca-46ce-8a88-a832c38538be)</sup>
@@ -19815,7 +20051,9 @@ Web Application: Portal
   * The Road Ahead for Counties: Transportation Challenges and Opportunities <sup>(NACo County News Article, e4b800eb-6e4e-4b66-bcda-0dd2101771f8)</sup>
 
 ## Subsite: July 15, 2013 Vol. 45 No. 14 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-15-2013 <sup>(78bc9173-b396-4742-9636-bec9090c30cf)</sup>
+
 ### Lists
+
  * Documents <sup>(3 items, 5198ea5b-5a37-48a8-9469-6246322cc65a)</sup>
   * Emergency Response Docs - NACO.pdf <sup>(Document, 4cb50568-be9d-4037-9f36-b2470f28dde7)</sup>
   * CN-HotTopics-July15,2013.pdf <sup>(Document, 618676a6-0dad-4d15-b00f-2f6449c66cde)</sup>
@@ -19870,7 +20108,9 @@ Web Application: Portal
   * Outgoing President Rodgers describes NACo experience <sup>(NACo County News Article, c66ca64e-9fe9-4d99-9a83-90890944ea74)</sup>
 
 ## Subsite: July 16, 2012 - Vol. 44 No. 14 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-16-12 <sup>(3f9ec3b9-4e26-45ea-aedb-d7ff2c0e1b79)</sup>
+
 ### Lists
+
  * Images <sup>(18 items, bbc4e962-fe36-4cb3-818f-2a8385f499d6)</sup>
   * 49ers.jpg <sup>(Document, aad4cb85-80a1-41e8-9296-6ea22ad76595)</sup>
   * AnnualLogo.jpg <sup>(Document, e2d58161-50f8-4e9b-b681-89bae4194c37)</sup>
@@ -19913,7 +20153,9 @@ Web Application: Portal
   * Balancing cost and safety when it comes to drunk drivers <sup>(NACo County News Article, dc3ca7b6-91f2-40dd-9e62-2137afc49a20)</sup>
 
 ## Subsite: July 18, 2011 - Vol. 43 No. 14 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-18-11 <sup>(b8fa8de7-6ff5-4f0c-b174-632516d56d3f)</sup>
+
 ### Lists
+
  * Images <sup>(17 items, 221efa8a-ed13-470e-a691-cc9df72106ed)</sup>
   * Cnews-OTM-EdRosado.png <sup>(Document, e8d38b97-b4e6-4026-b131-ee2f02307f39)</sup>
   * fy2011-budgetchart.png <sup>(Document, 01011b1a-c496-404c-bcb0-4cb65d06b5bd)</sup>
@@ -19960,7 +20202,9 @@ Web Application: Portal
   * Research News <sup>(NACo County News Article, c54524c7-bb80-4f43-849f-1f2ce60d7226)</sup>
 
 ## Subsite: July 19, 2010 - Vol. 42 No. 14 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-19-10 <sup>(66cadf0f-4b55-4b0c-a8ab-ec7324df68e6)</sup>
+
 ### Lists
+
  * Images <sup>(13 items, cb172a7d-749e-4005-a255-b566ab221441)</sup>
   * Thumb-CollectiveBrgaining.png <sup>(Document, 2ed2f31d-41e9-458d-8fbe-d87613fc08a6)</sup>
   * Thumb-Geocache.png <sup>(Document, d3ab0b0a-7bf4-45b5-98f3-7d6386378d4c)</sup>
@@ -20003,7 +20247,9 @@ Web Application: Portal
   * Valerie Brown reflects on her NACo presidency <sup>(NACo County News Article, ed7f59a3-2380-4a66-aab5-6783dbf8f017)</sup>
 
 ## Subsite: July 2, 2012  Vol. 44 No. 13 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-2-12 <sup>(0bc22210-e293-44bf-a874-819948acbb38)</sup>
+
 ### Lists
+
  * Images <sup>(13 items, 2d3f2b27-c48f-4a09-b867-2ba9153a57c6)</sup>
   * Heart-Health.jpg <sup>(Document, e4777119-f3b9-4df9-a1ef-d09201536817)</sup>
   * Homelessness.jpg <sup>(Document, 64c02c3a-383c-4573-9692-a6452e34220e)</sup>
@@ -20045,7 +20291,9 @@ Web Application: Portal
   * Profiles In Service <sup>(NACo County News Article, 7b56fc6f-bd55-45b5-b9c5-b0e00e661615)</sup>
 
 ## Subsite: July 4, 2011 Vol. 43 No. 13 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-4-11 <sup>(31581e47-13e8-4c24-a696-ae843d1c1ebd)</sup>
+
 ### Lists
+
  * Images <sup>(23 items, 23306492-65c7-40c6-8b34-e493ab4c353d)</sup>
   * CN-Horizontal-Rule.png <sup>(Document, 7ceedc26-12fb-438f-8994-6663f6d4a41f)</sup>
   * Thumb-CLI.png <sup>(Document, 4a2817be-f947-4877-910d-155304a3f220)</sup>
@@ -20098,7 +20346,9 @@ Web Application: Portal
   * NACo on the Move <sup>(NACo County News Article, dd83f825-a404-434c-a223-31f49149bd98)</sup>
 
 ## Subsite: August 25, 2014 - Vol. 46 No. 16 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-25-2014 <sup>(9d6993a7-7932-4350-ba49-67fbb65e195b)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 44ac0943-c363-488b-a86e-e6d1b3a48dc9)</sup>
   * 2014PhthoSpread.pdf <sup>(Document, a4d2a612-bbf5-4e14-8b5d-49feccc17872)</sup>
   * CNews-AUG25-2014.pdf <sup>(Document, 589935f5-0261-4a42-8489-b21aa7b60a01)</sup>
@@ -20151,7 +20401,9 @@ Web Application: Portal
   * Program provides youths with mental first aid <sup>(NACo County News Article, 7904b800-9bbb-4946-9eff-98aceede96a6)</sup>
 
 ## Subsite: August 26, 2013 - Vol. 45 No. 16 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-26-2013 <sup>(62ad76cb-2c24-425e-a94f-5a46a07a3c5a)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, befa9423-b409-4c13-85bd-f1834dffb376)</sup>
   * CNEWS_Aug26_2013.pdf <sup>(Document, 59bfd540-8413-4e4d-94e1-e814a1ce9059)</sup>
   * Final MMF Factsheet.pdf <sup>(Document, a473f2b9-f802-44df-8f8c-2a5d6386aa65)</sup>
@@ -20207,7 +20459,9 @@ Web Application: Portal
   * Congress faces uphill climb after recess <sup>(NACo County News Article, 7159c641-d6cb-484a-9ca5-75585ced6dde)</sup>
 
 ## Subsite: August 27, 2012 - Vol. 44 No. 16 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-27-12 <sup>(e482a1b9-2fef-47b9-8c43-fa3b364d4663)</sup>
+
 ### Lists
+
  * Images <sup>(18 items, ac5d5506-9ae7-49f4-802c-5f7b2020c570)</sup>
   * boring1.jpg <sup>(Document, c233f66b-2526-4729-b0c5-e81716c34048)</sup>
   * boring2.jpg <sup>(Document, edb1fc1a-3be2-4115-a1d5-56861c547839)</sup>
@@ -20253,7 +20507,9 @@ Web Application: Portal
   * What's In a Seal? <sup>(NACo County News Article, 0a25f7ba-4b29-4421-ab28-1518b089045f)</sup>
 
 ## Subsite: August 29, 2011 - Vol. 43 No. 16 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-29-11 <sup>(96c21b68-56a2-4482-8891-bad3693ce9eb)</sup>
+
 ### Lists
+
  * Images <sup>(24 items, 057e268e-84d9-4031-b00e-d6c444dd73cf)</sup>
   * Thumb-911.png <sup>(Document, cc870ac9-4325-41fe-b53d-ed4c45eff954)</sup>
   * Thumb-Hill.png <sup>(Document, 99d80e49-dba8-48cb-8a6f-434ee850cf90)</sup>
@@ -20311,7 +20567,9 @@ Web Application: Portal
   * Profiles in Service <sup>(NACo County News Article, d2fc91e6-3da3-4574-a9db-f287b81576fb)</sup>
 
 ## Subsite: Aug. 4, 2014 - Vol. 46 No. 15 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-4-2014 <sup>(6a5eed01-ec2a-428e-9d33-a592283b40c9)</sup>
+
 ### Lists
+
  * Documents <sup>(5 items, 9cb2a6bc-4755-4288-a7cb-e2437dea78c4)</sup>
   * UnaccompaniedChildren.png <sup>(Document, a911aefd-c639-4289-9190-c47145642ba7)</sup>
   * UC How To Help.pdf <sup>(Document, 105d414a-ad51-4734-84d0-f019ba28829e)</sup>
@@ -20380,7 +20638,9 @@ Web Application: Portal
   * News From the Nations Counties <sup>(NACo County News Article, ba93b86b-efcc-4a49-8c51-bbf21a73ab6c)</sup>
 
 ## Subsite: August 5, 2013 - Vol. 45 No. 15 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-5-2013 <sup>(5289e15a-36d1-41e8-874f-43aa6e3e7e52)</sup>
+
 ### Lists
+
  * Documents <sup>(3 items, 93845235-d288-4d00-958e-cb1e2790e9fb)</sup>
   * CNews_Aug5_2013.pdf <sup>(Document, 1042b0bf-805f-45a8-9b9f-0fb8b8c9a4bf)</sup>
   * 2013-MarketplacePhotos.pdf <sup>(Document, 35b8386b-87b8-46e4-867a-39352c9bcebf)</sup>
@@ -20448,7 +20708,9 @@ Web Application: Portal
   * Profiles in Service <sup>(NACo County News Article, 4da3be2b-b610-4669-95d7-89c810e29c68)</sup>
 
 ## Subsite: August 6, 2012 - Vol. 44, No. 15 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-6-12 <sup>(ad823f14-5bd3-4459-96f4-0cc01b97037d)</sup>
+
 ### Lists
+
  * Images <sup>(38 items, 0192546d-06f6-4c87-9708-e88e29e21f0b)</sup>
   * 2012-Logo.jpg <sup>(Document, d8262ecc-0165-42d8-bd8a-cb2dc8677d74)</sup>
   * bobblehead.jpg <sup>(Document, 5aa5a852-4beb-4c11-8406-43f78aefc640)</sup>
@@ -20525,7 +20787,9 @@ Web Application: Portal
   * Enterprise content management system clears way <sup>(NACo County News Article, efffed59-2738-4d35-a6d4-3d1a15981983)</sup>
 
 ## Subsite: August 8, 2011 - Vol. 43 No.15 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-8-11 <sup>(d0e3a34a-0eec-44b8-b38e-6a227940d5ea)</sup>
+
 ### Lists
+
  * Images <sup>(34 items, da43b1fe-f9db-4750-abe5-e395bafcba14)</sup>
   * Achievaward.jpg <sup>(Document, dfabde11-edd4-460e-a7fc-454eebb2ecf2)</sup>
   * Apple.jpg <sup>(Document, 77a97ef9-5918-40c1-aac2-023945da4706)</sup>
@@ -20590,7 +20854,9 @@ Web Application: Portal
   * 2011 Conference Photo Spread <sup>(NACo County News Article, 542f29e6-ca0d-46e8-92a8-be25613d87da)</sup>
 
 ## Subsite: August 9, 2010 Vol. 42 No. 15 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-9-10 <sup>(f9960201-87b5-43e3-afd0-c04c1f105d85)</sup>
+
 ### Lists
+
  * Images <sup>(40 items, 8feff4a9-5d47-473e-9813-41000bb19bdc)</sup>
   * Afteraction.png <sup>(Document, 3d5968de-e631-48a4-8241-69a344181d0d)</sup>
   * NewLeaders.jpg <sup>(Document, 6b2fff3c-cef7-48bb-8448-07c7cc04f4c9)</sup>
@@ -20661,7 +20927,9 @@ Web Application: Portal
   * Model Programs form the Nation's Counties <sup>(NACo County News Article, e0258748-938b-4d5b-9ea4-4e2a8f2cbf7e)</sup>
 
 ## Subsite: Sept. 10, 2012 - Vol. 44 No. 17 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-10-2012 <sup>(c2af43b6-41e2-41e8-a78f-cb219a93102e)</sup>
+
 ### Lists
+
  * Images <sup>(17 items, f20a6f24-04d1-4a00-a16c-c25f3c150dcc)</sup>
   * Achievement.jpg <sup>(Document, 8536f606-9bae-485d-9cf9-b2a403a33d13)</sup>
   * Chaplains.jpg <sup>(Document, 3879babe-ceed-43cf-a856-c37c9aad0296)</sup>
@@ -20709,7 +20977,9 @@ Web Application: Portal
   * King County seeks input on project management practices <sup>(NACo County News Article, 777a3909-fe33-43ff-9b34-c7ce8a8e2f7a)</sup>
 
 ## Subsite: Sept. 12, 2011  Vol. 43 No. 17 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-12-11 <sup>(b3b893f9-09d0-4696-bd39-1950381e120d)</sup>
+
 ### Lists
+
  * Images <sup>(18 items, 2da807e2-dda4-4854-b730-1cf6a0ea23c0)</sup>
   * Banner-Profiles.jpg <sup>(Document, a02cec1f-2bf4-4166-ac22-1ec248014b28)</sup>
   * caninecomic.jpg <sup>(Document, 2aa95973-ea93-4161-a62b-a8c06f09ef1f)</sup>
@@ -20755,7 +21025,9 @@ Web Application: Portal
   * The H.R. Doctor Is In <sup>(NACo County News Article, 9b661efc-0f9a-4002-a529-ba0517bc1201)</sup>
 
 ## Subsite: Sept. 20, 2010 - Vol. 42 No. 17 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-20-10 <sup>(bad545c3-1580-42af-b21c-fedfad5ef661)</sup>
+
 ### Lists
+
  * Images <sup>(17 items, 8935eef5-d0e6-42fe-97af-433d6e48217c)</sup>
   * AndrewG.png <sup>(Document, f038076e-2137-484f-982d-27be25472fae)</sup>
   * Gil-Barrett.png <sup>(Document, 07e53316-cf37-440a-975a-ccb70e110f45)</sup>
@@ -20800,7 +21072,9 @@ Web Application: Portal
   * FSC News <sup>(NACo County News Article, 60425d12-9b57-42d3-9269-36ebd2e44021)</sup>
 
 ## Subsite: Sept. 22, 2014 - Vol. 46 No. 18 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-22-2014 <sup>(cf9f54ba-7702-4546-90a9-7c44dccf33a5)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, a2587790-1ea3-4171-ab15-055bdb1bda5d)</sup>
   * CNews-Sept22-2014.pdf <sup>(Document, 5681f86f-f30f-4cff-9e0a-f836e7523fbd)</sup>
 
@@ -20862,7 +21136,9 @@ Web Application: Portal
   * NACo on the Move <sup>(NACo County News Article, d88886e2-8d26-4e1e-acbb-1befa55865c4)</sup>
 
 ## Subsite: Sept. 23, 2013 - Vol. 45  No. 18 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-23-2013 <sup>(dd60c8a6-faec-487c-b63d-26f5074ab682)</sup>
+
 ### Lists
+
  * Images <sup>(15 items, 5d78ee22-0f32-4762-9a93-2cd893673a51)</sup>
   * Thumbnail-Feature-Medical.png <sup>(Image, a2a3ecc6-287c-421f-a4b5-2c8f12096dc2)</sup>
   * Thumb_Cnews_PILT.png <sup>(Image, 95f6d5c7-4033-4ca1-85c5-58dff610639f)</sup>
@@ -20910,7 +21186,9 @@ Web Application: Portal
   * Profiles In Service <sup>(NACo County News Article, 3059f627-7e90-4daa-8758-1210639c1e95)</sup>
 
 ## Subsite: Sept. 24, 2012 - Vol. 44 No. 18 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-24-2012 <sup>(6bad462a-bede-4c90-a4aa-48a6bf3b415c)</sup>
+
 ### Lists
+
  * Images <sup>(14 items, b432ba11-8068-45e8-b89b-90eb45196300)</sup>
   * Frontpage.jpg <sup>(Document, 492df9eb-b14e-49d6-b16d-22a5a9529ec8)</sup>
   * jurors.jpg <sup>(Document, 2a7b0d01-d5c2-4d46-997f-f0aad9d8eab2)</sup>
@@ -20952,7 +21230,9 @@ Web Application: Portal
   * NACo on the Move <sup>(NACo County News Article, 3f4e1288-4305-4c9b-a93a-0f921094f1fb)</sup>
 
 ## Subsite: Sept. 26, 2011 Vol. 43 No. 18 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-26-11 <sup>(73803349-9b6d-4127-98d6-5be7fe2c1ac5)</sup>
+
 ### Lists
+
  * Images <sup>(23 items, f800140e-2ec5-40e6-a707-1bfb3b9fb483)</sup>
   * CoastalForum.png <sup>(Document, b2f02e17-218a-49b6-9685-16e2fd7fe8f4)</sup>
   * Horizontal.gif <sup>(Document, 2aeca7b7-b665-4b8b-980a-af6434d7d60e)</sup>
@@ -21005,7 +21285,9 @@ Web Application: Portal
   * Financial Services News <sup>(NACo County News Article, 0c2bcf2d-f009-48a4-b8ee-e60110f19453)</sup>
 
 ## Subsite: Sept. 6, 2010 - Vol. 42 No. 16 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-6-10 <sup>(a0ee5f38-34ff-4ac0-bdcc-2d357a14150e)</sup>
+
 ### Lists
+
  * Images <sup>(21 items, 341eba19-4c21-4a32-a20a-92d30cba86cd)</sup>
   * Thumb-CloudCompu.jpg <sup>(Document, 700ab200-fada-40a9-9f60-ee4d98ae8b47)</sup>
   * Thumb-Spice.jpg <sup>(Document, 06ca7adf-0175-4acf-8f79-a82bf2a1d42f)</sup>
@@ -21061,7 +21343,9 @@ Web Application: Portal
   * Model Programs form the Nation's Counties <sup>(NACo County News Article, 3e916b56-6b72-47fb-9803-1909749c1170)</sup>
 
 ## Subsite: Sept. 8, 2014 - Vol. 46 No.17 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-8-2014 <sup>(cee0de52-216f-46a6-b9a6-aa222f890dd4)</sup>
+
 ### Lists
+
  * Documents <sup>(5 items, 58325613-234a-4c0e-a9a4-2663243d3b6c)</sup>
   * 2014-2015 Policy Steering Committee and Caucus Leadership <sup>(Document, 23db6b21-744f-46bd-b278-54bc2d5ea3cb)</sup>
   * CellTowers.jpg <sup>(Document, 37a605b9-b834-477b-b845-a1c2c0655919)</sup>
@@ -21114,7 +21398,9 @@ Web Application: Portal
   * Iowa supervisor saves assessor from gunman in courthouse <sup>(NACo County News Article, 74db75d6-f2b3-49e9-ad8d-af123d24899d)</sup>
 
 ## Subsite: Sept. 9, 2013 - Vol. 45 No. 17 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-9-2013 <sup>(579d0e2f-f906-4d22-ab74-625d3a8ed03f)</sup>
+
 ### Lists
+
  * Documents <sup>(1 items, cdc037fa-f640-4031-b004-9cd0bde33b64)</sup>
   * CNews-Sep9-2013.pdf <sup>(Document, 2faaad41-298b-4604-b581-0d0647877863)</sup>
 
@@ -21163,7 +21449,9 @@ Web Application: Portal
   * Profiles in Service <sup>(NACo County News Article, a2601046-a976-491b-9af9-062bed1adf4d)</sup>
 
 ## Subsite: June 21, 2010 County News - http://dev.admin.naco.org/newsroom/countynews/Current Issue/countynews6-21-10 <sup>(d1bf1211-a463-45f7-acc8-dd53d8304315)</sup>
+
 ### Lists
+
  * Images <sup>(13 items, f42291be-a4ae-414e-a2a5-17a0037eb8b0)</sup>
   * Thumb-Gouge.jpg <sup>(Document, ab922a67-0623-4106-a80d-5ab26c3e8e5e)</sup>
   * Thumb-LUCC-LA.jpg <sup>(Document, 26b3b890-0a5a-45cf-9681-71f33f8eb959)</sup>
@@ -21201,7 +21489,9 @@ Web Application: Portal
   * Verizon offers to partner with rural wireless companies <sup>(NACo County News Article, 104598e5-5f94-483f-b880-c3b43afa07b2)</sup>
 
 ## Subsite: July 5, 2010 Vol. 42 No. 13 - http://dev.admin.naco.org/newsroom/countynews/Current Issue/July5,2010countynews <sup>(afcf0ead-e504-4923-8cc5-91ced7f64e46)</sup>
+
 ### Lists
+
  * Images <sup>(10 items, 818145a8-0393-463e-94fd-e0390891b5ec)</sup>
   * jul5-2010-Scott-Haggerty.jpg <sup>(Document, 3b495811-0106-46d1-902a-48f14d19757e)</sup>
   * jul5-2010-FlaCleanup.jpg <sup>(Document, 114ad88b-6af9-4b90-9ea4-af9f337a516d)</sup>
@@ -21235,7 +21525,9 @@ Web Application: Portal
   * EPA pesticides permit program moves forward <sup>(NACo County News Article, 6964085c-608f-4b35-a54b-03816cbd3285)</sup>
 
 ## Subsite: Templates - http://dev.admin.naco.org/newsroom/countynews/Current Issue/template <sup>(fcc0585a-b758-4b4b-95ad-2ab9427a4916)</sup>
+
 ### Lists
+
  * Pages <sup>(4 items, eaa1d4f0-833c-47f8-aa8d-95d780f7e3c4)</sup>
   * Home <sup>(Welcome Page, 604bd4cb-29ab-4a68-bf02-cdb02fca22de)</sup>
   * cnews home page <sup>(Page, 9665e6b4-f724-475d-b124-e0b2d2a4d025)</sup>
@@ -21243,7 +21535,9 @@ Web Application: Portal
   * test right <sup>(NACo County News Article, e57f78e2-c359-4a80-8446-39ac5ddb88a5)</sup>
 
 ## Subsite: County News Editorial and Advertising Information - http://dev.admin.naco.org/newsroom/countynews/editorial <sup>(279c6602-ec2c-421d-bbc0-9dc52638f5e4)</sup>
+
 ### Lists
+
  * Images <sup>(3 items, 1954b514-c85e-49d0-b2be-16bedb21e829)</sup>
   * County News EDelivery <sup>(Document, 243fc710-ba13-45f8-ba9a-ad701ba87c1b)</sup>
   * County News Advertising <sup>(Document, 12c05a38-a94f-4fb8-b2e0-ed39290d6d16)</sup>
@@ -21261,7 +21555,9 @@ Web Application: Portal
   * Tell Your County's Story <sup>(NACo Article Page, ea9e2434-b5a9-407c-885b-aa45b0215343)</sup>
 
 ## Subsite: Publications - http://dev.admin.naco.org/newsroom/pubs <sup>(7ef55b64-07cc-41c7-8c08-83a923a8f9b7)</sup>
+
 ### Lists
+
  * Images <sup>(23 items, e9b1d794-2507-498c-81a9-260dfcaca5cc)</sup>
   * volunteer toolbox.PNG <sup>(Document, 665bde23-f727-4644-8c38-3f1cdd1acce1)</sup>
   * NACo Borad Forum <sup>(Image, 00f6952b-d0f2-473e-9496-ed308bf174ef)</sup>
@@ -21446,7 +21742,9 @@ Web Application: Portal
   * Waste Energy Recovery: Renewable Energy from County Landfills <sup>(NACo Publication, 8a9ea5c9-924e-4148-ae4b-2244dcee3fa2)</sup>
 
 ## Subsite: County Solutions - http://dev.admin.naco.org/programs <sup>(711fd30d-030f-4954-9a18-b9d6ba2b4a2b)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 737f3d46-7da0-4826-a2de-4a7430fe4024)</sup>
   * Host a Prosperity Summit <sup>(NACo Document, 47382b44-4c81-4511-9da6-bb3d2341a575)</sup>
   * Understanding the Excise Tax on High-Cost Coverage <sup>(NACo Document, f5e10aa9-db11-4515-909a-04a1c1fb9eb7)</sup>
@@ -21488,7 +21786,9 @@ Web Application: Portal
   * County Solutions <sup>(NACo Welcome Page, 036db50b-173e-458e-8b23-b4184bc227dd)</sup>
 
 ## Subsite: Practice Areas - http://dev.admin.naco.org/programs/csd <sup>(c20f0132-0d2e-4a0a-9dc3-53685bc21316)</sup>
+
 ### Lists
+
  * 2015 Innovation Challenge Tabs <sup>(5 items, ca8196b8-422b-4e47-a5de-633cf921c489)</sup>
   * Overview <sup>(Item, 8461812b-6782-4189-8466-de8c34e2a201)</sup>
   * Application <sup>(Item, 22b8c9de-835a-400b-8253-5bd8b4053146)</sup>
@@ -25101,7 +25401,9 @@ Web Application: Portal
   *  <sup>(Link, 85e6eda9-2db4-4b54-9657-933fa4ab7fab)</sup>
 
 ## Subsite: County Solutions Blog - http://dev.admin.naco.org/programs/CSI <sup>(6e398872-21fb-41d1-b6c1-cb4b50751509)</sup>
+
 ### Lists
+
  * Categories <sup>(19 items, a199a5c1-7b91-41bf-a308-a912c3259e2d)</sup>
   * Agriculture and Rural Affairs <sup>(, bf3e3a72-13bd-4437-b622-0abe661237be)</sup>
   * Community and Economic Development <sup>(, 55d7e9ee-8275-4c8f-9424-91b402e540a9)</sup>
@@ -25593,7 +25895,9 @@ Web Application: Portal
   * Managing Integrity and Civility Leadership Series <sup>(Post, d54d3a61-3347-4125-a517-3ff2a97e600d)</sup>
 
 ## Subsite: Find a Grant - http://dev.admin.naco.org/programs/grants <sup>(082fdf6a-547b-4eee-9c48-dfc4f0e4dac7)</sup>
+
 ### Lists
+
  * Images <sup>(9 items, b807e3d2-2c0b-450e-bfb5-6c2e4b8ecdd4)</sup>
   * FindAGrant ScreenShot.jpg <sup>(Document, 20a6d2ac-ab9d-4153-b819-aa20296ef0b7)</sup>
   * NACoLogo-Highres.jpg <sup>(Document, a088f35a-d85e-4723-91e4-4a21ec5a47e5)</sup>
@@ -25610,7 +25914,9 @@ Web Application: Portal
   * Find A Grant <sup>(Redirect Page, 56c47944-9dd8-4dd4-8624-7b478d6cd503)</sup>
 
 ## Subsite: Hire Quality Staff - http://dev.admin.naco.org/programs/jobsonline <sup>(0f841247-bb73-4a60-a01e-7d0cc02068c2)</sup>
+
 ### Lists
+
  * Images <sup>(3 items, 0001029b-ede5-4513-99d4-f6d93b36901b)</sup>
   * Jobs_Online.jpg <sup>(Document, 493340ff-8be0-4215-8420-8fe0f184587e)</sup>
   * Jobs_OnlineDrop.png <sup>(Document, dae2b844-dfeb-4c97-9a9e-635f0d8bca58)</sup>
@@ -25646,7 +25952,9 @@ Web Application: Portal
   * Executive Director <sup>(NACo Jobs Page, c6fb4ad3-5408-41ba-8bcb-fa9f63e048af)</sup>
 
 ## Subsite: Awards  Programs - http://dev.admin.naco.org/programs/recognition <sup>(c11e2dbb-2013-4f5c-9434-a010312dc35a)</sup>
+
 ### Lists
+
  * Award Documents <sup>(6 items, f5434b3f-4fb3-49dd-8838-b67becd6ddbf)</sup>
   * 2015 Achievement Awards Checklist <sup>(NACo Document, 17b5ec5b-d225-4d48-b95f-088e11620a3e)</sup>
   * 2015 Achievement Awards FAQ <sup>(NACo Document, 2aa806b6-eae2-421b-9f51-0bf3777420bc)</sup>
@@ -25698,7 +26006,9 @@ Web Application: Portal
   * Arts and Culture Form <sup>(NACo Welcome Page, 74d8c5e3-ef3e-4bca-b84d-301fb294315a)</sup>
 
 ## Subsite: Cost-Saving Tools - http://dev.admin.naco.org/programs/residents <sup>(4e5f8889-a353-4c83-b11d-761caf8cbbd3)</sup>
+
 ### Lists
+
  * Image Rotator for PDCP <sup>(9 items, 2db144bc-3639-4d9d-86ca-f6bd28b18697)</sup>
   * Testimonial 1 <sup>(Picture, 4f9a1d93-b1b6-42a8-a0a0-67a9e562e525)</sup>
   * Testimonial 2 <sup>(Picture, b53fd417-d0c8-41af-8d20-1c04e82c8be8)</sup>
@@ -25889,7 +26199,9 @@ Web Application: Portal
   * REDIRECT <sup>(Redirect Page, c3c40a21-465d-4e5a-be6f-8525ea426a7e)</sup>
 
 ## Subsite: Research Center - http://dev.admin.naco.org/research <sup>(f0fb17d3-c80e-4646-84a5-fbbb592667f9)</sup>
+
 ### Lists
+
  * Documents <sup>(63 items, fd651eb8-496e-4370-a534-e1fee86724f1)</sup>
   * Protecting-Bonds-to-Save-Infrastructure-and-Jobs-2013.pdf <sup>(NACo Document, 92e07b86-f1ef-4ad0-be45-2abaaf037869)</sup>
   * Congressional-Targets-munibonds.pdf <sup>(NACo Document, 26a71197-b3d6-4310-a2fe-9f38660ee36d)</sup>
@@ -26080,7 +26392,9 @@ Web Application: Portal
   * Nation of County Exporters Presentation <sup>(Video, f04641ca-960c-43c9-916e-616d91635367)</sup>
 
 ## Subsite: County Research Connections - http://dev.admin.naco.org/research/CRC <sup>(eaf933a0-2c50-4bbc-bd4c-b10b4c8f2866)</sup>
+
 ### Lists
+
  * Categories <sup>(14 items, c0f9dfcf-e9bd-4fe8-b1be-fd53050af856)</sup>
   * Agriculture and Rural Affairs <sup>(, 4320ca83-06f7-4b96-9ea7-01e86c29058d)</sup>
   * Community and Economic Development <sup>(, 3c4f9acc-95dc-4343-97c7-29c9a67514d3)</sup>
@@ -26184,7 +26498,9 @@ Web Application: Portal
   * County Explorer - March Updates <sup>(Post, 25275171-e9eb-49cf-a22c-9f46c185fbf4)</sup>
 
 ## Subsite: Sandbox - http://dev.admin.naco.org/sandbox <sup>(6cc36a48-39d3-4c84-9680-066d7cda1594)</sup>
+
 ### Lists
+
  * Documents <sup>(2 items, 0aad8297-d15d-4e5d-ae26-15591e895608)</sup>
   * NCCAE_HawksCayReservationInformation.pdf <sup>(Document, 148c0e8f-765b-4e09-8b62-ce6e80b9fa43)</sup>
   * FY 15 Final SCAAP Appropriations Letter.pdf <sup>(Document, 577604ec-1c49-452a-9d31-bc726d3cdf31)</sup>
@@ -26218,7 +26534,9 @@ Web Application: Portal
   * Test form.pdf <sup>(NACoResearchDocument, e76d0f18-6bd8-43da-8972-efae9c526141)</sup>
 
 ## Subsite: Search - http://dev.admin.naco.org/SearchCenter <sup>(4c6fc78a-b9a2-4b5a-909d-06a602313e45)</sup>
+
 ### Lists
+
  * Pages <sup>(5 items, 4e947f59-a50e-4d32-8b05-9166f6343183)</sup>
   * Search Center <sup>(Welcome Page, f1c97315-ecca-4482-a839-c922e2848747)</sup>
   * Advanced Search <sup>(Page, 5f8a9ecf-ccf4-44af-aa1b-3ec1e9faa0c0)</sup>
@@ -26233,7 +26551,9 @@ Web Application: Portal
   *  <sup>(Tabs in Search Results, f61af0ea-f964-4f82-ba47-9830dd450a5f)</sup>
 
 ## Subsite: Sites - http://dev.admin.naco.org/SiteDirectory <sup>(0d401e53-37ec-4314-ae69-a8da6bfa185c)</sup>
+
 ### Lists
+
  * Pages <sup>(3 items, 20480bd3-ba80-47d2-865d-d55fe6286b25)</sup>
   * Site Directory <sup>(Welcome Page, acda493c-64b8-4d37-86b9-278d253703db)</sup>
   * Sites In Category <sup>(Page, 5f549963-2ba7-407f-811a-7e3d06337535)</sup>
