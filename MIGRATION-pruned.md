@@ -12498,6 +12498,6 @@ __Total site collection list items:__ 10783
 
 __Unique site collection content types:__ NACo Welcome Page (59), Audio (7), Page (2), County News Issue Document (129), Event (139), NACo Document Issue Area (597), Post (1171), NACo Document CSD Tags (602), NACo News Release Document (284), NACo Publication (148), Welcome Page (2), [blank] (49), NACo CSD Content Type (328), NACo Article Page (518), NACo Newsletter (25), Item (1770), NACo Jobs Page (26), NACo Document (1111), Document (1406), NACo County News Article (2410)
 
-__Unique file types:__ .aspx (3025), .mp4 (6), .xls (1), .docx (76), .flv (1), .pdf (4423), .pps (1), .ppt (22), .zipx (1), [blank] (2), .odp (1), .mp3 (18), .pptx (43), .wmv (2), .doc (30)
+__Unique file types:__ .aspx (3025), .mp4 (6), .xls (1), .docx (76), .flv (1), .pdf (4423), .pps (1), .ppt (22), .odp (1), .mp3 (18), .pptx (43), .wmv (2), .doc (30)
 
 
