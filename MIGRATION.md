@@ -26911,3 +26911,6 @@ __Total site collection list items:__ 24762
 
 __Unique site collection content types:__ NACo Document (1153), ISO Code (2), Page (12), Tabs (4), Post (1171), NACo County News Article (2410), Event (139), Picture (710), Enterprise Wiki Page (1), Item (1778), SusQtech Url Manager Item (228), NACo Article Page (520), Video (7), Sites (16), NACo CSD Content Type (429), Audio (7), NACo Media Video (50), NACo Jobs Page (26), Reusable HTML (8), NACoCountyInfo (6506), Redirect Page (5), NACo Publication (148), Link (62), xWeb End Point (1), NACoResearchDocument (3), [blank] (49), Tabs in Search Pages (1), NACo News Release Document (284), Welcome Page (5), NACo Newsletter (25), NACo Welcome Page (60), County News Issue Document (129), Image (2154), Article Page (1), Tabs in Search Results (1), NACo Homepage Rotator (16), Resource (91), NACo Document Issue Area (598), NACo Document CSD Tags (650), Document (5302)
 
+__Unique file types:__ .ico (12), .bmp (7), .pdf (4434), .txt (1), .xsl (14), .xap (1), .xaml (1), .js (19), .htm (22), .xls (1), .pps (1), .jpg (3792), .aspx (3039), .docx (76), .pptx (43), .zipx (1), .doc (30), .gif (128), .mp4 (6), .css (58), .tif (2), .ppt (22), .mp3 (18), .zip (11), .odp (1), .png (2874), [blank] (5), .eps (5), .wmv (2), .html (9), .xml (8), .flv (1), .jpeg (11)
+
+
