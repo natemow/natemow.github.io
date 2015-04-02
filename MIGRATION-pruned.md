@@ -12496,5 +12496,5 @@ Web Application: Portal
 
 __Total site collection list items:__ 10783
 
-__Unique site collection content types:__ Event, Item, NACo Article Page, Page, NACo Document, NACo Welcome Page, Document, Welcome Page, NACo Newsletter, NACo Document Issue Area, , Post, NACo News Release Document, NACo County News Article, County News Issue Document, NACo Publication, Audio, NACo CSD Content Type, NACo Document CSD Tags, NACo Jobs Page
+__Unique site collection content types:__ NACo Welcome Page (59), Audio (7), Page (2), County News Issue Document (129), Event (139), NACo Document Issue Area (597), Post (1171), NACo Document CSD Tags (602), NACo News Release Document (284), NACo Publication (148), Welcome Page (2), [blank] (49), NACo CSD Content Type (328), NACo Article Page (518), NACo Newsletter (25), Item (1770), NACo Jobs Page (26), NACo Document (1111), Document (1406), NACo County News Article (2410)
 
