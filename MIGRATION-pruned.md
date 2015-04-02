@@ -8868,7 +8868,7 @@ Web Application: Portal
      * Notice to Employees of Options <sup>(Item, 8bfa2240-d0f6-4488-b0d5-2485b0e38b83)</sup>
      * ​​90-Day Waiting Period <sup>(Item, a89f2627-b63a-4d38-a5ba-4596b578f39c)</sup>
 
-* CSD Documents <sup>(896 items, a4b8f7df-cbf3-4c79-ad4b-d8d493de5c3d)</sup>
+* CSD Documents <sup>(894 items, a4b8f7df-cbf3-4c79-ad4b-d8d493de5c3d)</sup>
      * 2010 Coastal Counties Restoration Initiative Eligibility Map  <sup>(NACo CSD Content Type, 37af475c-7c06-4b5e-b9a8-9b301d3f4e5b)</sup>
      * 9 Proven Safety Counter Measures - Quick Reference Guide <sup>(NACo Document CSD Tags, 465dd624-1b4b-493a-87f7-d411894397d9)</sup>
      * CERS Fact Sheet  <sup>(NACo Document CSD Tags, b3a9dec2-b377-4a57-929b-3f3c19692480)</sup>
@@ -9214,8 +9214,6 @@ Web Application: Portal
      * Comments on Medicaid NPRM 10 31 11.pdf <sup>(NACo Document CSD Tags, 266bcc4e-623a-4f5c-a92c-c0b420e9027b)</sup>
      * PPACA_Regulations_Chart_11_11.pdf <sup>(NACo Document CSD Tags, 59ad1f70-f515-4846-812e-a6471788baf9)</sup>
      * Water Resources Newsletter November-December 2011 <sup>(NACo CSD Content Type, 6be4bd00-8b4d-456f-aecf-10eeab7d30b9)</sup>
-     * Improving Local and State Partnerships in Sentencing and Corrections, Part 1 <sup>(NACo Document CSD Tags, 4bfadd8c-9f4e-451b-84fe-0dbae3ea70b7)</sup>
-     * Improving Local and State Partnerships in Sentencing and Corrections, Part 2 <sup>(NACo Document CSD Tags, bf375d44-b66f-4195-ad07-f48e34233f00)</sup>
      * 2012 5Star RFP <sup>(NACo CSD Content Type, 95e97ce1-56bb-4f69-8cac-aae062bf72fd)</sup>
      * Agenda_HCForum_11_11_11.pdf <sup>(NACo Document CSD Tags, 69960737-fd99-401a-b5f0-221ecdf4fb35)</sup>
      * NACo Rural Road Safety E-Bulletin November 2011 <sup>(NACo Document CSD Tags, 7438525b-0894-4c18-a5f4-32b0c8a2bd9e)</sup>
@@ -12494,10 +12492,10 @@ Web Application: Portal
      * Commuting Patterns Across Counties <sup>(Post, 323cccb3-56c5-4207-80dc-8c0beaec0cae)</sup>
      * County Explorer - March Updates <sup>(Post, 25275171-e9eb-49cf-a22c-9f46c185fbf4)</sup>
 
-__Total site collection list items:__ 10783
+__Total site collection list items:__ 10781
 
-__Unique site collection content types:__ NACo Welcome Page (59), Audio (7), Page (2), County News Issue Document (129), Event (139), NACo Document Issue Area (597), Post (1171), NACo Document CSD Tags (602), NACo News Release Document (284), NACo Publication (148), Welcome Page (2), [blank] (49), NACo CSD Content Type (328), NACo Article Page (518), NACo Newsletter (25), Item (1770), NACo Jobs Page (26), NACo Document (1111), Document (1406), NACo County News Article (2410)
+__Unique site collection content types:__ NACo Welcome Page <sup>(59)</sup>, Audio <sup>(7)</sup>, Page <sup>(2)</sup>, County News Issue Document <sup>(129)</sup>, Event <sup>(139)</sup>, NACo Document Issue Area <sup>(597)</sup>, Post <sup>(1171)</sup>, NACo Document CSD Tags <sup>(600)</sup>, NACo News Release Document <sup>(284)</sup>, NACo Publication <sup>(148)</sup>, Welcome Page <sup>(2)</sup>, [blank] <sup>(49)</sup>, NACo CSD Content Type <sup>(328)</sup>, NACo Article Page <sup>(518)</sup>, NACo Newsletter <sup>(25)</sup>, Item <sup>(1770)</sup>, NACo Jobs Page <sup>(26)</sup>, NACo Document <sup>(1111)</sup>, Document <sup>(1406)</sup>, NACo County News Article <sup>(2410)</sup>
 
-__Unique file types:__ .aspx (3025), .mp4 (6), .xls (1), .docx (76), .flv (1), .pdf (4423), .pps (1), .ppt (22), .odp (1), .mp3 (18), .pptx (43), .wmv (2), .doc (30)
+__Unique file types:__ .aspx <sup>(3025)</sup>, .mp4 <sup>(6)</sup>, .xls <sup>(1)</sup>, .docx <sup>(76)</sup>, .flv <sup>(1)</sup>, .pdf <sup>(4423)</sup>, .pps <sup>(1)</sup>, .ppt <sup>(22)</sup>, .odp <sup>(1)</sup>, .mp3 <sup>(18)</sup>, .pptx <sup>(43)</sup>, .wmv <sup>(2)</sup>, .doc <sup>(30)</sup>
 
 
