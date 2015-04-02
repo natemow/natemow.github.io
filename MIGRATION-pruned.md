@@ -287,7 +287,7 @@ Web Application: Portal
      * Economic Development <sup>(Item, 5f706391-d8fe-443e-aa3b-d03150cc6fb0)</sup>
      * Justice and Public Safety <sup>(Item, c952f9c9-2db0-49fe-9501-f19aee2d767c)</sup>
 
-* Pages <sup>(26 items, 9bb40ed4-11bf-46ba-ac2b-12a93a4d17b5)</sup>
+* Pages <sup>(27 items, 9bb40ed4-11bf-46ba-ac2b-12a93a4d17b5)</sup>
      * Corporate Engagement <sup>(NACo Article Page, d6c1eda2-aef6-42a5-bb90-fade39f4ef02)</sup>
      * Thomson Reuters <sup>(NACo Article Page, c4760441-68ed-4f55-9760-e3dd55190964)</sup>
      * Hyland Software <sup>(NACo Article Page, b6eaab2f-5bd3-4b96-b44d-b2116f211021)</sup>
@@ -314,6 +314,7 @@ Web Application: Portal
      * HP <sup>(NACo Article Page, 13d3bde8-4e03-4fd1-9d07-e37415d6068a)</sup>
      * Netsmart <sup>(NACo Article Page, 400ea796-892e-4946-aff6-abd7f1f1974d)</sup>
      * Sturgis <sup>(NACo Article Page, 9ed3607a-5a1b-4358-bb05-1c072b0a4091)</sup>
+     * test <sup>(NACo Article Page, 89ac1d31-593d-4a09-82e3-e5f0afe2cda2)</sup>
 
 * Premier Events List <sup>(32 items, 9af59e60-9e6b-4fe0-b5ec-f1992ae96347)</sup>
      * NACo Fall Board of Directors Meeting and NACo Resiliency Forum <sup>(Item, 40ac4007-d831-42ba-aff1-fce2fb29b29f)</sup>
@@ -12492,10 +12493,12 @@ Web Application: Portal
      * Commuting Patterns Across Counties <sup>(Post, 323cccb3-56c5-4207-80dc-8c0beaec0cae)</sup>
      * County Explorer - March Updates <sup>(Post, 25275171-e9eb-49cf-a22c-9f46c185fbf4)</sup>
 
-__Total site collection list items:__ 10781
+__Total site collection lists:__ 378
 
-__Unique site collection content types:__ NACo Welcome Page <sup>(59)</sup>, Audio <sup>(7)</sup>, Page <sup>(2)</sup>, County News Issue Document <sup>(129)</sup>, Event <sup>(139)</sup>, NACo Document Issue Area <sup>(597)</sup>, Post <sup>(1171)</sup>, NACo Document CSD Tags <sup>(600)</sup>, NACo News Release Document <sup>(284)</sup>, NACo Publication <sup>(148)</sup>, Welcome Page <sup>(2)</sup>, [blank] <sup>(49)</sup>, NACo CSD Content Type <sup>(328)</sup>, NACo Article Page <sup>(518)</sup>, NACo Newsletter <sup>(25)</sup>, Item <sup>(1770)</sup>, NACo Jobs Page <sup>(26)</sup>, NACo Document <sup>(1111)</sup>, Document <sup>(1406)</sup>, NACo County News Article <sup>(2410)</sup>
+__Total site collection list items:__ 10782
 
-__Unique file types:__ .aspx <sup>(3025)</sup>, .mp4 <sup>(6)</sup>, .xls <sup>(1)</sup>, .docx <sup>(76)</sup>, .flv <sup>(1)</sup>, .pdf <sup>(4423)</sup>, .pps <sup>(1)</sup>, .ppt <sup>(22)</sup>, .odp <sup>(1)</sup>, .mp3 <sup>(18)</sup>, .pptx <sup>(43)</sup>, .wmv <sup>(2)</sup>, .doc <sup>(30)</sup>
+__Unique site collection content types:__ NACo Welcome Page <sup>(59)</sup>, Audio <sup>(7)</sup>, Page <sup>(2)</sup>, County News Issue Document <sup>(129)</sup>, Event <sup>(139)</sup>, NACo Document Issue Area <sup>(597)</sup>, Post <sup>(1171)</sup>, NACo Document CSD Tags <sup>(600)</sup>, NACo News Release Document <sup>(284)</sup>, NACo Publication <sup>(148)</sup>, Welcome Page <sup>(2)</sup>, [blank] <sup>(49)</sup>, NACo CSD Content Type <sup>(328)</sup>, NACo Article Page <sup>(519)</sup>, NACo Newsletter <sup>(25)</sup>, Item <sup>(1770)</sup>, NACo Jobs Page <sup>(26)</sup>, NACo Document <sup>(1111)</sup>, Document <sup>(1406)</sup>, NACo County News Article <sup>(2410)</sup>
+
+__Unique file types:__ .aspx <sup>(3026)</sup>, .mp4 <sup>(6)</sup>, .xls <sup>(1)</sup>, .docx <sup>(76)</sup>, .flv <sup>(1)</sup>, .pdf <sup>(4423)</sup>, .pps <sup>(1)</sup>, .ppt <sup>(22)</sup>, .odp <sup>(1)</sup>, .mp3 <sup>(18)</sup>, .pptx <sup>(43)</sup>, .wmv <sup>(2)</sup>, .doc <sup>(30)</sup>
 
 

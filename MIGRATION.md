@@ -9735,7 +9735,7 @@ Web Application: Portal
      * Economic Development <sup>(Item, 5f706391-d8fe-443e-aa3b-d03150cc6fb0)</sup>
      * Justice and Public Safety <sup>(Item, c952f9c9-2db0-49fe-9501-f19aee2d767c)</sup>
 
-* Pages <sup>(26 items, 9bb40ed4-11bf-46ba-ac2b-12a93a4d17b5)</sup>
+* Pages <sup>(27 items, 9bb40ed4-11bf-46ba-ac2b-12a93a4d17b5)</sup>
      * Corporate Engagement <sup>(NACo Article Page, d6c1eda2-aef6-42a5-bb90-fade39f4ef02)</sup>
      * Thomson Reuters <sup>(NACo Article Page, c4760441-68ed-4f55-9760-e3dd55190964)</sup>
      * Hyland Software <sup>(NACo Article Page, b6eaab2f-5bd3-4b96-b44d-b2116f211021)</sup>
@@ -9762,6 +9762,7 @@ Web Application: Portal
      * HP <sup>(NACo Article Page, 13d3bde8-4e03-4fd1-9d07-e37415d6068a)</sup>
      * Netsmart <sup>(NACo Article Page, 400ea796-892e-4946-aff6-abd7f1f1974d)</sup>
      * Sturgis <sup>(NACo Article Page, 9ed3607a-5a1b-4358-bb05-1c072b0a4091)</sup>
+     * test <sup>(NACo Article Page, 89ac1d31-593d-4a09-82e3-e5f0afe2cda2)</sup>
 
 * Premier Banners <sup>(3 items, c9ca2100-b9e5-4383-8874-e50f449f5d32)</sup>
      * Page_Marquee_About.jpg <sup>(NACo Homepage Rotator, 5a74b8ea-60c5-4093-b373-c1e878cb891a)</sup>
@@ -26907,10 +26908,12 @@ Web Application: Portal
      *  <sup>(Tabs, d43bb300-8592-468e-9b06-f09238cc2702)</sup>
      *  <sup>(Tabs, 0ce61797-1139-4dc8-9eae-11467f091156)</sup>
 
-__Total site collection list items:__ 24762
+__Total site collection lists:__ 586
 
-__Unique site collection content types:__ NACo Document <sup>(1153)</sup>, ISO Code <sup>(2)</sup>, Page <sup>(12)</sup>, Tabs <sup>(4)</sup>, Post <sup>(1171)</sup>, NACo County News Article <sup>(2410)</sup>, Event <sup>(139)</sup>, Picture <sup>(710)</sup>, Enterprise Wiki Page <sup>(1)</sup>, Item <sup>(1778)</sup>, SusQtech Url Manager Item <sup>(228)</sup>, NACo Article Page <sup>(520)</sup>, Video <sup>(7)</sup>, Sites <sup>(16)</sup>, NACo CSD Content Type <sup>(429)</sup>, Audio <sup>(7)</sup>, NACo Media Video <sup>(50)</sup>, NACo Jobs Page <sup>(26)</sup>, Reusable HTML <sup>(8)</sup>, NACoCountyInfo <sup>(6506)</sup>, Redirect Page <sup>(5)</sup>, NACo Publication <sup>(148)</sup>, Link <sup>(62)</sup>, xWeb End Point <sup>(1)</sup>, NACoResearchDocument <sup>(3)</sup>, [blank] <sup>(49)</sup>, Tabs in Search Pages <sup>(1)</sup>, NACo News Release Document <sup>(284)</sup>, Welcome Page <sup>(5)</sup>, NACo Newsletter <sup>(25)</sup>, NACo Welcome Page <sup>(60)</sup>, County News Issue Document <sup>(129)</sup>, Image <sup>(2154)</sup>, Article Page <sup>(1)</sup>, Tabs in Search Results <sup>(1)</sup>, NACo Homepage Rotator <sup>(16)</sup>, Resource <sup>(91)</sup>, NACo Document Issue Area <sup>(598)</sup>, NACo Document CSD Tags <sup>(650)</sup>, Document <sup>(5302)</sup>
+__Total site collection list items:__ 24763
 
-__Unique file types:__ .ico <sup>(12)</sup>, .bmp <sup>(7)</sup>, .pdf <sup>(4434)</sup>, .txt <sup>(1)</sup>, .xsl <sup>(14)</sup>, .xap <sup>(1)</sup>, .xaml <sup>(1)</sup>, .js <sup>(19)</sup>, .htm <sup>(22)</sup>, .xls <sup>(1)</sup>, .pps <sup>(1)</sup>, .jpg <sup>(3792)</sup>, .aspx <sup>(3039)</sup>, .docx <sup>(76)</sup>, .pptx <sup>(43)</sup>, .zipx <sup>(1)</sup>, .doc <sup>(30)</sup>, .gif <sup>(128)</sup>, .mp4 <sup>(6)</sup>, .css <sup>(58)</sup>, .tif <sup>(2)</sup>, .ppt <sup>(22)</sup>, .mp3 <sup>(18)</sup>, .zip <sup>(11)</sup>, .odp <sup>(1)</sup>, .png <sup>(2874)</sup>, [blank] <sup>(5)</sup>, .eps <sup>(5)</sup>, .wmv <sup>(2)</sup>, .html <sup>(9)</sup>, .xml <sup>(8)</sup>, .flv <sup>(1)</sup>, .jpeg <sup>(11)</sup>
+__Unique site collection content types:__ NACo Document <sup>(1153)</sup>, ISO Code <sup>(2)</sup>, Page <sup>(12)</sup>, Tabs <sup>(4)</sup>, Post <sup>(1171)</sup>, NACo County News Article <sup>(2410)</sup>, Event <sup>(139)</sup>, Picture <sup>(710)</sup>, Enterprise Wiki Page <sup>(1)</sup>, Item <sup>(1778)</sup>, SusQtech Url Manager Item <sup>(228)</sup>, NACo Article Page <sup>(521)</sup>, Video <sup>(7)</sup>, Sites <sup>(16)</sup>, NACo CSD Content Type <sup>(429)</sup>, Audio <sup>(7)</sup>, NACo Media Video <sup>(50)</sup>, NACo Jobs Page <sup>(26)</sup>, Reusable HTML <sup>(8)</sup>, NACoCountyInfo <sup>(6506)</sup>, Redirect Page <sup>(5)</sup>, NACo Publication <sup>(148)</sup>, Link <sup>(62)</sup>, xWeb End Point <sup>(1)</sup>, NACoResearchDocument <sup>(3)</sup>, [blank] <sup>(49)</sup>, Tabs in Search Pages <sup>(1)</sup>, NACo News Release Document <sup>(284)</sup>, Welcome Page <sup>(5)</sup>, NACo Newsletter <sup>(25)</sup>, NACo Welcome Page <sup>(60)</sup>, County News Issue Document <sup>(129)</sup>, Image <sup>(2154)</sup>, Article Page <sup>(1)</sup>, Tabs in Search Results <sup>(1)</sup>, NACo Homepage Rotator <sup>(16)</sup>, Resource <sup>(91)</sup>, NACo Document Issue Area <sup>(598)</sup>, NACo Document CSD Tags <sup>(650)</sup>, Document <sup>(5302)</sup>
+
+__Unique file types:__ .ico <sup>(12)</sup>, .bmp <sup>(7)</sup>, .pdf <sup>(4434)</sup>, .txt <sup>(1)</sup>, .xsl <sup>(14)</sup>, .xap <sup>(1)</sup>, .xaml <sup>(1)</sup>, .js <sup>(19)</sup>, .htm <sup>(22)</sup>, .xls <sup>(1)</sup>, .pps <sup>(1)</sup>, .jpg <sup>(3792)</sup>, .aspx <sup>(3040)</sup>, .docx <sup>(76)</sup>, .pptx <sup>(43)</sup>, .zipx <sup>(1)</sup>, .doc <sup>(30)</sup>, .gif <sup>(128)</sup>, .mp4 <sup>(6)</sup>, .css <sup>(58)</sup>, .tif <sup>(2)</sup>, .ppt <sup>(22)</sup>, .mp3 <sup>(18)</sup>, .zip <sup>(11)</sup>, .odp <sup>(1)</sup>, .png <sup>(2874)</sup>, [blank] <sup>(5)</sup>, .eps <sup>(5)</sup>, .wmv <sup>(2)</sup>, .html <sup>(9)</sup>, .xml <sup>(8)</sup>, .flv <sup>(1)</sup>, .jpeg <sup>(11)</sup>
 
 
