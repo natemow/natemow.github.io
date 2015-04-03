@@ -3,8 +3,6 @@
 
 
 
-Web Application: Portal
-
 # Site Collection: http://dev.admin.naco.org
 
 ## Subsite: NACo <sup>(970f6643-c92b-418f-b7eb-e9b0fe84fc76)</sup>
