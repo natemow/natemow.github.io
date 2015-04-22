@@ -6,6 +6,7 @@
 # Site Collection: http://dev.admin.naco.org
 
 ## Subsite: [NACo](http://dev.admin.naco.org) <sup>(970f6643-c92b-418f-b7eb-e9b0fe84fc76)</sup>
+
 ### Lists
 
 * [Events](http://dev.admin.naco.org/Lists/Events) <sup>(1 items, 54c29256-b702-403c-84a9-553ae95dd47d)</sup>
@@ -45,6 +46,7 @@
      * [NACo : The Voice of America's Counties](http://dev.admin.naco.org/Pages/Forms/DispForm.aspx?ID=179) <sup>(Page, f2310bbe-2c84-4efd-b2e0-b40282f1bd7d)</sup>
 
 ## Subsite: [About NACo](http://dev.admin.naco.org/about) <sup>(240312cf-5672-4ec9-b98f-07d922dda8c8)</sup>
+
 ### Lists
 
 * [About NACo Documents](http://dev.admin.naco.org/about/Documents) <sup>(12 items, 329de281-c268-43a4-86a8-8b97e4c07e23)</sup>
@@ -69,6 +71,7 @@
      * [eConnectDirect, offered by Multi-Bank Securities](http://dev.admin.naco.org/about/Pages/Forms/DispForm.aspx?ID=15) <sup>(NACo Article Page, 70bdfea3-fa80-4518-8f24-bb7b09d25626)</sup>
 
 ## Subsite: [Corporate Engagement](http://dev.admin.naco.org/about/corporate) <sup>(b00c0cd2-2aa9-432b-a5b5-7a7aa17fabf7)</sup>
+
 ### Lists
 
 * [CaucusSponsors](http://dev.admin.naco.org/about/corporate/Lists/CaucusSponsors) <sup>(2 items, bc7a9507-e70d-433d-9b4b-f6e47949a65a)</sup>
@@ -90,7 +93,7 @@
      * [Carton Recycling Briefing Packet for Elected Officials & Policy Makers](http://dev.admin.naco.org/about/corporate/CorporateResources/Carton%20Recycling%20Briefing%20Packet.pdf) <sup>(Document, 5453148f-afdd-4c55-a56d-f4d748ec6a52)</sup>
      * [Sample Toolkit for Facilities and Communities](http://dev.admin.naco.org/about/corporate/CorporateResources/Sample%20Toolkit%20for%20Facilities%20and%20Communities.pdf) <sup>(Document, 473b86d9-791c-49f2-92cd-1a01b0d6ec19)</sup>
      * [County Reduces Costs While Expanding Data Center Capabilities](http://dev.admin.naco.org/about/corporate/CorporateResources/County%20Reduces%20Costs%20While%20Expanding%20Data%20Center%20Capabilities.pdf) <sup>(Document, 13e50a0c-0150-4144-b9db-7cbdc163c28c)</sup>
-     * [Command Vehicle Delivers Real-time Data for Sheriff’s Office](http://dev.admin.naco.org/about/corporate/CorporateResources/Command%20Vehicle%20Delivers%20Real-time%20Data%20for%20Sheriff’s%20Office.pdf) <sup>(Document, aab425d4-3e4f-4a80-84fb-0fa4cf876e85)</sup>
+     * [Command Vehicle Delivers Real-time Data for Sheriff’s Office](http://dev.admin.naco.org/about/corporate/CorporateResources/Command%20Vehicle%20Delivers%20Real-time%20Data%20for%20Sheriffs%20Office.pdf) <sup>(Document, aab425d4-3e4f-4a80-84fb-0fa4cf876e85)</sup>
      * [Carton Reclycing in Los Angeles, CA](http://dev.admin.naco.org/about/corporate/CorporateResources/Carton%20Reclycing%20in%20Los%20Angeles.pdf) <sup>(Document, 26e1fe35-bed1-4872-bdcd-716b664375cb)</sup>
      * [Cloud Storage East-Bay Regional Park District](http://dev.admin.naco.org/about/corporate/CorporateResources/Cloud%20Storage%20East-Bay%20Regional%20Park%20District.pdf) <sup>(Document, 54d5841f-08ca-45ce-9b20-5b88a565f4e6)</sup>
      * [Cobb County, GA Case Study](http://dev.admin.naco.org/about/corporate/CorporateResources/Cobb%20County%20Document%20Management.pdf) <sup>(Document, 1c4788f1-2856-4f49-bbcb-91298caaafb4)</sup>
@@ -108,7 +111,7 @@
      * [Document Management Solution Addresses Disaster Recovery](http://dev.admin.naco.org/about/corporate/CorporateResources/Document%20Management%20Solution%20Addresses%20Disaster%20Recovery.pdf) <sup>(Document, 75654502-dfb5-43a6-9d7d-81ad5ad77ca4)</sup>
      * [Positioning Government IT for the Future](http://dev.admin.naco.org/about/corporate/CorporateResources/Positioning%20Government%20IT%20for%20the%20Future.pdf) <sup>(Document, 405a0f02-dce7-423b-a52f-2c627a471b57)</sup>
      * [San Diego County Expanding Mobility](http://dev.admin.naco.org/about/corporate/CorporateResources/San%20Diego%20County%20Expanding%20Mobility.pdf) <sup>(Document, f7583320-9517-410c-8299-2e885d1d7c81)</sup>
-     * [The Four ‘P’s of Selecting an Effective IT Solution](http://dev.admin.naco.org/about/corporate/CorporateResources/The%20Four%20‘P’s%20of%20Selecting%20an%20Effective%20IT%20Solution.pdf) <sup>(Document, 74f391be-b737-407a-832f-15348ac022b2)</sup>
+     * [The Four ‘P’s of Selecting an Effective IT Solution](http://dev.admin.naco.org/about/corporate/CorporateResources/The%20FourPs%20of%20Selecting%20an%20Effective%20IT%20Solution.pdf) <sup>(Document, 74f391be-b737-407a-832f-15348ac022b2)</sup>
      * [Making an Impact on the Enterprise](http://dev.admin.naco.org/about/corporate/CorporateResources/Making%20an%20Impact%20on%20the%20Enterprise.pdf) <sup>(Document, e604d34c-b3e2-46ed-8459-32c5b0c68afb)</sup>
      * [Voice Transformation Handbook](http://dev.admin.naco.org/about/corporate/CorporateResources/Voice%20Transformation%20Handbook.pdf) <sup>(Document, ff971738-1292-4151-b2d6-bee870a50653)</sup>
      * [County with 4th ‘Smartest City in the U.S. saves $400k](http://dev.admin.naco.org/about/corporate/CorporateResources/Washtenaw%20Saves%20$400k.pdf) <sup>(Document, cfc434ee-2d4b-4628-b31b-bb6c8ea8a7e6)</sup>
@@ -126,13 +129,13 @@
      * [Helping Customers Reduce Risk and Total Cost of Ownership Information](http://dev.admin.naco.org/about/corporate/CorporateResources/Helping%20Customers%20Reduce%20Risk%20and%20Total%20Cost%20of%20Ownership%20Information.PDF) <sup>(Document, 2912ca15-241c-4a8b-b856-4be8c8d4384e)</sup>
      * [Weathering Superstorm Sandy](http://dev.admin.naco.org/about/corporate/CorporateResources/Weathering%20Superstorm%20Sandy.pdf) <sup>(Document, d4abaf74-4d39-420c-bac2-2f77bf255a87)</sup>
      * [Public Safety Enters the Collective Intelligence Era](http://dev.admin.naco.org/about/corporate/CorporateResources/Public%20Safety%20Enters%20the%20Collective%20Intelligence%20Era.pdf) <sup>(Document, 67122451-5729-4d3f-b9ce-287b696ac3f3)</sup>
-     * [Hosted Applications – Turn IT from Troubleshooters into Innovators](http://dev.admin.naco.org/about/corporate/CorporateResources/Hosted%20Applications%20–%20Turn%20IT%20from%20Troubleshooters%20into%20Innovators.pdf) <sup>(Document, 202e4d4e-5aeb-40e6-85a4-337a29e132d1)</sup>
+     * [Hosted Applications – Turn IT from Troubleshooters into Innovators](http://dev.admin.naco.org/about/corporate/CorporateResources/Hosted%20ApplicationsTurn%20IT%20from%20Troubleshooters%20into%20Innovators.pdf) <sup>(Document, 202e4d4e-5aeb-40e6-85a4-337a29e132d1)</sup>
      * [Unified PTT Data Sheet-Extending P25 to Broadband](http://dev.admin.naco.org/about/corporate/CorporateResources/Unified%20PTT%20Data%20Sheet-Extending%20P25%20to%20Broadband.pdf) <sup>(Document, f39075b5-eca4-476b-97e6-7344756c2449)</sup>
      * [Video Solutions Transforms Public Safety](http://dev.admin.naco.org/about/corporate/CorporateResources/Video%20Solutions%20Transforms%20Public%20Safety.pdf) <sup>(Document, 305df970-b5ea-4acf-bb14-9d225f30c5e6)</sup>
      * [Impacting the Cost of Government through your Employee Health Benefits Strategy](http://dev.admin.naco.org/about/corporate/CorporateResources/Impacting%20the%20Cost%20of%20Government%20through%20your%20Employee%20Health%20Benefits%20Strategy.pdf) <sup>(Document, 9fe47de0-5c5b-4d7b-af1b-0d5f70c9c0b2)</sup>
      * [Ten Questions and Answers to Begin the Conversation](http://dev.admin.naco.org/about/corporate/CorporateResources/Ten%20Questions%20and%20Answers%20to%20Begin%20the%20Conversation.pdf) <sup>(Document, 19279834-7f90-49a3-b705-cd9a36bb8530)</sup>
      * [Driving Better Health Care Solutions at a Lower Cost](http://dev.admin.naco.org/about/corporate/CorporateResources/Driving%20Better%20Health%20Care%20Solutions%20at%20a%20Lower%20Cost.pdf) <sup>(Document, 574bd48d-1bb9-4e25-bc17-2bcd9e7f2be1)</sup>
-     * [Improving the Health of America’s Children Optum Public Sector](http://dev.admin.naco.org/about/corporate/CorporateResources/Improving%20the%20Health%20of%20America’s%20Children%20Optum%20Public%20Sector.pdf) <sup>(Document, cebff016-edd6-4d0b-8752-764e0d97462a)</sup>
+     * [Improving the Health of America’s Children Optum Public Sector](http://dev.admin.naco.org/about/corporate/CorporateResources/Improving%20the%20Health%20of%20Americas%20Children%20Optum%20Public%20Sector.pdf) <sup>(Document, cebff016-edd6-4d0b-8752-764e0d97462a)</sup>
      * [Thomson Reuters 1.pdf](http://dev.admin.naco.org/about/corporate/CorporateResources/Thomson%20Reuters%201.pdf) <sup>(Document, e7ac4f54-a4c0-4453-a62b-92ae4dc6887c)</sup>
      * [EMERGING LEGAL TECHNOLOGIES AND WORKFLOW CHALLENGES FACING PUBLIC LAW OF](http://dev.admin.naco.org/about/corporate/CorporateResources/EMERGING%20LEGAL%20TECHNOLOGIES%20AND%20WORKFLOW%20CHALLENGES%20FACING%20PUBLIC%20LAW%20OFFICES.pdf) <sup>(Document, ff193d17-360e-4b8e-9a32-0a86a7247a7c)</sup>
      * [Best Management Practices for Recycling ](http://dev.admin.naco.org/about/corporate/CorporateResources/CC%20White%20Papers%20NACO%20(1).pdf) <sup>(Document, a8cd3201-a79d-4a0a-adde-f51cd8dcf23f)</sup>
@@ -197,7 +200,7 @@
      * [Hill_County_Case_Study-351.pdf](http://dev.admin.naco.org/about/corporate/Documents/Hill_County_Case_Study-351.pdf) <sup>(NACo Document, 0bdcf007-3615-406b-b578-6ee10ef40628)</sup>
      * [PinalCty.pdf](http://dev.admin.naco.org/about/corporate/Documents/PinalCty.pdf) <sup>(NACo Document, d4923541-c7aa-4206-a95b-d6228f900eac)</sup>
      * [Washtenaw_FileNet.pdf](http://dev.admin.naco.org/about/corporate/Documents/Washtenaw_FileNet.pdf) <sup>(NACo Document, b3e05d08-d103-41bb-8783-f78550530742)</sup>
-     * [The_ Four_ ‘P’s_ of_ Selecting_ an_ Effective_ IT_ Solution_ A_ Checklist_ for_ CIOs.pdf](http://dev.admin.naco.org/about/corporate/Documents/The_%20Four_%20‘P’s_%20of_%20Selecting_%20an_%20Effective_%20IT_%20Solution_%20A_%20Checklist_%20for_%20CIOs.pdf) <sup>(NACo Document, ee8b34c8-9d16-4e3a-8c0e-037e92aeb9d9)</sup>
+     * [The_ Four Ps_of_ Selecting_ an_ Effective_ IT_ Solution_ A_ Checklist_ for_ CIOs](http://dev.admin.naco.org/about/corporate/Documents/The_%20FourPs_of_%20Selecting_%20an_%20Effective_%20IT_%20Solution_%20A_%20Checklist_%20for_%20CIOs.pdf) <sup>(NACo Document, ee8b34c8-9d16-4e3a-8c0e-037e92aeb9d9)</sup>
      * [Positioning_Government_IT_for_the_Future.pdf](http://dev.admin.naco.org/about/corporate/Documents/Positioning_Government_IT_for_the_Future.pdf) <sup>(NACo Document, 9522860f-03b5-4790-929b-80c7e88ee529)</sup>
      * [Meeting_Public_Records_ Requests_in_Government.pdf](http://dev.admin.naco.org/about/corporate/Documents/Meeting_Public_Records_%20Requests_in_Government.pdf) <sup>(NACo Document, fa5f767d-e1a9-4e7a-b238-60a3bd82221a)</sup>
      * [How_ECM_Improves_Transparency_and_Enhances_Agenda_Management_in_Government.pdf](http://dev.admin.naco.org/about/corporate/Documents/How_ECM_Improves_Transparency_and_Enhances_Agenda_Management_in_Government.pdf) <sup>(NACo Document, 76f4800d-2a64-4741-a8ad-0888d35567c2)</sup>
@@ -233,7 +236,7 @@
      * [Technology Fuels new](http://dev.admin.naco.org/about/corporate/Documents/Technology%20Fuels%20new.pdf) <sup>(Document, d3d06d5a-d7f0-4079-8259-456ebc742770)</sup>
      * [FROM DRUGS TO WHEELCHAIRS](http://dev.admin.naco.org/about/corporate/Documents/FROM%20DRUGS%20TO%20WHEELCHAIRS.pdf) <sup>(Document, b6e930f0-6999-4e7e-8fa9-d9dbb56089f0)</sup>
      * [Milwaukee County Behavioral](http://dev.admin.naco.org/about/corporate/Documents/Milwaukee%20County%20Behavioral.pdf) <sup>(Document, 811c80e4-1e33-4814-8124-ffedb23724ca)</sup>
-     * [San Mateo Goes From “Data-Starved”](http://dev.admin.naco.org/about/corporate/Documents/San%20Mateo%20Goes%20From%20“Data-Starved”.pdf) <sup>(Document, dac61fbf-755e-49cb-9d50-46dc2706a6e2)</sup>
+     * [San Mateo Goes From Data-Starved](http://dev.admin.naco.org/about/corporate/Documents/San%20Mateo%20Goes%20From%20DataStarved.pdf) <sup>(Document, dac61fbf-755e-49cb-9d50-46dc2706a6e2)</sup>
      * [Rethinking Healthcare Integration](http://dev.admin.naco.org/about/corporate/Documents/Rethinking%20Healthcare%20Integration.pdf) <sup>(Document, e0a24ed1-a1b8-492b-b06b-0d65af9b8838)</sup>
      * [Five Clinical Trends Impacting Healthcare Today](http://dev.admin.naco.org/about/corporate/Documents/Five%20Clinical%20Trends%20Impacting%20Healthcare%20Today.pdf) <sup>(Document, 0153cf30-dd79-438a-8093-8468a6ba6d23)</sup>
      * [Netsmart Forges Path to Coordinated, Integrated Care with its California.pdf](http://dev.admin.naco.org/about/corporate/Documents/Netsmart%20Forges%20Path%20to%20Coordinated,%20Integrated%20Care%20with%20its%20California.pdf) <sup>(Document, 71c4b6cd-c3ae-4020-9905-8c913ea32cb8)</sup>
@@ -478,6 +481,7 @@
      * [​Investigate](http://dev.admin.naco.org/about/corporate/Lists/Thomson Reuters Tabs/DispForm.aspx?ID=4) <sup>(Item, 4360a9e8-f1dd-466a-8ae4-57fbc079f5d9)</sup>
 
 ## Subsite: [Inside NACo](http://dev.admin.naco.org/about/insidenaco) <sup>(8b9b89ac-fd5f-4dc0-bf82-864de3482215)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/about/insidenaco/Pages) <sup>(13 items, 2c4d2712-8f72-40cf-9e21-a5b4bf776c00)</sup>
@@ -496,6 +500,7 @@
      * [Research](http://dev.admin.naco.org/about/insidenaco/Pages/Forms/DispForm.aspx?ID=189) <sup>(NACo Article Page, 127a47a5-bcb3-46d5-aa35-ab312118372f)</sup>
 
 ## Subsite: [Leadership](http://dev.admin.naco.org/about/leadership) <sup>(e736a8a4-dcb5-48e2-9313-97a7d1a81750)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/about/leadership/Documents) <sup>(75 items, dd54b81d-6d66-4c27-844d-0b71b9031958)</sup>
@@ -629,6 +634,7 @@
      * [Publications and Resources](http://dev.admin.naco.org/about/leadership/Lists/TransportationInfrastructure Tabs/DispForm.aspx?ID=5) <sup>(Item, aaecfea6-cb33-4163-a2ee-506b82f8a1f6)</sup>
 
 ## Subsite: [NCCAE](http://dev.admin.naco.org/about/leadership/nccae) <sup>(42ea2d7d-ce8f-441f-ba7f-5b467f95bfab)</sup>
+
 ### Lists
 
 * [NACoRMADocuments](http://dev.admin.naco.org/about/leadership/nccae/NACoRMADocuments) <sup>(32 items, 74fd7935-78d6-44ab-9fa8-35fc5d64c792)</sup>
@@ -793,6 +799,7 @@
      * [Matt Chase](http://dev.admin.naco.org/about/leadership/nccae/Lists/StateExecInformation/DispForm.aspx?ID=58) <sup>(Item, 60571ec2-661f-42b6-9308-9b44ba8cb1ab)</sup>
 
 ## Subsite: [Women of NACo Leadership Network](http://dev.admin.naco.org/about/leadership/won) <sup>(0c49e37f-cd35-48a5-b90e-5a278a67015b)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/about/leadership/won/Pages) <sup>(5 items, 0b5bcabe-28e6-4999-928b-bf8c42a91d22)</sup>
@@ -811,6 +818,7 @@
      * [July 2013 Newsletter Vol. 2 No. 2](http://dev.admin.naco.org/about/leadership/won/Documents/WON%20Newsltr%204.pdf) <sup>(NACo Document, b22ab66b-abd5-4a24-af4e-4661b1524ab0)</sup>
 
 ## Subsite: [Membership](http://dev.admin.naco.org/about/membership) <sup>(0e4d6933-4656-46fb-b352-db8e17e8d8aa)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/about/membership/Documents) <sup>(29 items, 1c89f146-433e-4a01-929f-e33bc6556506)</sup>
@@ -860,64 +868,17 @@
      * [NACo is Here to Help You](http://dev.admin.naco.org/about/membership/Pages/Forms/DispForm.aspx?ID=24) <sup>(NACo Article Page, 5d297013-53dd-4844-ba8c-491059ec71af)</sup>
 
 ## Subsite: [Board](http://dev.admin.naco.org/board) <sup>(7c22add5-22d0-4922-a1b7-bacdef055611)</sup>
+
 ### Lists
 
-* [Documents](http://dev.admin.naco.org/board/Documents) <sup>(50 items, fa3113d4-43fe-4415-9a21-d7d1abbb2043)</sup>
-     * [Board Packet 2013](http://dev.admin.naco.org/board/Documents/AC72013.pdf) <sup>(Document, c96af68f-70b2-43a6-98d4-b104969e8445)</sup>
-     * [AC72013-State-Execs.pdf](http://dev.admin.naco.org/board/Documents/AC72013-State-Execs.pdf) <sup>(Document, 2fccf305-78dd-4105-a34e-b9cb746eb121)</sup>
-     * [Strategic Action Plan 2013](http://dev.admin.naco.org/board/Documents/Report-2013.pdf) <sup>(Document, ba0dfb71-9152-4bd6-9fbf-889d49054527)</sup>
-     * [Board_Progress_2013.pdf](http://dev.admin.naco.org/board/Documents/Board_Progress_2013.pdf) <sup>(Document, 86e79395-3f4e-4326-96ad-00528b276152)</sup>
-     * [GetInvolved_Brochure.pdf](http://dev.admin.naco.org/board/Documents/GetInvolved_Brochure.pdf) <sup>(Document, 14376cc4-0382-4477-8cc6-6494e648b784)</sup>
-     * [NACo_Board_Vitals_April.pdf](http://dev.admin.naco.org/board/Documents/NACo_Board_Vitals_April.pdf) <sup>(Document, 576ea766-26f5-49e6-a1af-9acdda8b9801)</sup>
-     * [NACo_Presidential_Appointments_14-15.pdf](http://dev.admin.naco.org/board/Documents/NACo_Presidential_Appointments_14-15.pdf) <sup>(Document, 91527061-bacc-4c37-8d8e-bd57853b1f41)</sup>
-     * [IACO 2014.pdf](http://dev.admin.naco.org/board/Documents/IACO%202014.pdf) <sup>(Document, 67296cd2-6f0e-4d79-870a-b837c1437e8e)</sup>
-     * [WSAC 2014.pdf](http://dev.admin.naco.org/board/Documents/Matt%27s%20Presentations/WSAC%202014.pdf) <sup>(Document, 0efcaf2c-ba7b-43ae-a3ba-ed5fe57f9aab)</sup>
-     * [NACo Bylaw Cmt Edits 2014.pdf](http://dev.admin.naco.org/board/Documents/NACo%20Bylaw%20Cmt%20Edits%202014.pdf) <sup>(Document, 6a881e09-55bd-410c-a67b-2d9e2e66e5eb)</sup>
-     * [Proposed Bylaws Changes 2014.pdf](http://dev.admin.naco.org/board/Documents/Annual%202014/Proposed%20Bylaws%20Changes%202014.pdf) <sup>(Document, 8f6cd52d-f3e2-46e2-8d19-b1a8292a8b1d)</sup>
-     * [Policy Committee Realignment Package.pdf](http://dev.admin.naco.org/board/Documents/Annual%202014/Policy%20Committee%20Realignment%20Package.pdf) <sup>(Document, cd4bc4a2-fd55-40dd-9569-c3fef6d67936)</sup>
-     * [Board of Directors Mtg Summary WIR 2014.pdf](http://dev.admin.naco.org/board/Documents/Annual%202014/Board%20of%20Directors%20Mtg%20Summary%20WIR%202014.pdf) <sup>(Document, c3cc6b6b-2505-4ef5-8ccd-8f5143916a57)</sup>
-     * [Staff_Directory_June2014.pdf](http://dev.admin.naco.org/board/Documents/Annual%202014/Staff_Directory_June2014.pdf) <sup>(Document, 773dd56d-dad2-400b-8373-949e812b7bd5)</sup>
-     * [Board Agenda Packet-Annual 2014.pdf](http://dev.admin.naco.org/board/Documents/Annual%202014/Board%20Agenda%20Packet-Annual%202014.pdf) <sup>(Document, 3c3791ce-c871-424c-b074-baf29151176d)</sup>
-     * [NewBoardOrganizationalAgenda.pdf](http://dev.admin.naco.org/board/Documents/Annual%202014/NewBoardOrganizationalAgenda.pdf) <sup>(Document, 3c7f6d59-1789-4729-a9e0-0c327371454b)</sup>
-     * [Dental Services Board Action Item -- 2014 Annual Conference Board Meeting.pdf](http://dev.admin.naco.org/board/Documents/Annual%202014/Dental%20Services%20Board%20Action%20Item%20--%202014%20Annual%20Conference%20Board%20Meeting.pdf) <sup>(Document, 3bae2b0d-85a0-489c-9818-6627f67b0192)</sup>
-     * [Analysis of Weighted Vote Proposals.pdf](http://dev.admin.naco.org/board/Documents/Annual%202014/Analysis%20of%20Weighted%20Vote%20Proposals.pdf) <sup>(Document, 61f157d0-19d6-400e-a383-7d808d901d20)</sup>
-     * [IT Committee Board Report - July 13, 2014.pdf](http://dev.admin.naco.org/board/Documents/Annual%202014/IT%20Committee%20Board%20Report%20-%20July%2013,%202014.pdf) <sup>(Document, bdba7135-21c3-443f-bee4-6d86576dd6db)</sup>
-     * [PS Board Report annual 2014.pdf](http://dev.admin.naco.org/board/Documents/Annual%202014/PS%20Board%20Report%20annual%202014.pdf) <sup>(Document, bc0b373b-0119-487d-9ae0-2565de2fc834)</sup>
-     * [Board Of Directors Responsibilities 14-15.pdf](http://dev.admin.naco.org/board/Documents/2014-2015BoD/Board%20Of%20Directors%20Responsibilities%2014-15.pdf) <sup>(Document, f3a9de4d-c907-4951-b3bb-425f68c2603e)</sup>
-     * [Conflict-of-Interest Policy 2014-15.pdf](http://dev.admin.naco.org/board/Documents/2014-2015BoD/Conflict-of-Interest%20Policy%202014-15.pdf) <sup>(Document, 72dcd2f2-adaa-4c84-931d-918530f232b1)</sup>
-     * [Conflict-of-Interest Statement 2014-15.pdf](http://dev.admin.naco.org/board/Documents/2014-2015BoD/Conflict-of-Interest%20Statement%202014-15.pdf) <sup>(Document, 50373e47-e9b2-4bb3-b3c4-00574271adec)</sup>
-     * [Future NACo Conferences 2014 - 15.pdf](http://dev.admin.naco.org/board/Documents/2014-2015BoD/Future%20NACo%20Conferences%202014%20-%2015.pdf) <sup>(Document, 64ec84ef-ba59-435a-80e5-15646d491874)</sup>
-     * [2014-2015BoardList8-4-14.pdf](http://dev.admin.naco.org/board/Documents/2014-2015BoD/2014-2015BoardList8-4-14.pdf) <sup>(Document, 1e892af9-0798-4992-ad49-b88ee97abf9e)</sup>
-     * [Board of Directors Mtg Summary Annual 2014.pdf](http://dev.admin.naco.org/board/Documents/Annual%202014/Board%20of%20Directors%20Mtg%20Summary%20Annual%202014.pdf) <sup>(Document, 4be9e71d-b413-4a83-b9ca-64f9faa4da6f)</sup>
-     * [NACo MBS Internal QA.pdf](http://dev.admin.naco.org/board/Documents/NACo%20MBS%20Internal%20QA.pdf) <sup>(Document, b868274b-ef53-42ea-845b-e7f449e83320)</sup>
-     * [BoD Schedule-FBM2014.pdf](http://dev.admin.naco.org/board/Documents/Fall%20Board%20Meeting/BoD%20Schedule-FBM2014.pdf) <sup>(Document, ca2aefac-59da-4533-ada1-82f1bc041602)</sup>
-     * [Board Agenda Draft FBM 2014.pdf](http://dev.admin.naco.org/board/Documents/Fall%20Board%20Meeting/Board%20Agenda%20Draft%20FBM%202014.pdf) <sup>(Document, 9272da70-e4d9-4203-b054-212518b288ab)</sup>
-     * [2014-NCCAE-Directory.pdf](http://dev.admin.naco.org/board/Documents/2014-NCCAE-Directory.pdf) <sup>(Document, 4b718685-94f6-4860-9e04-995908f0eff1)</sup>
-     * [2014-15_BOD_Directory.pdf](http://dev.admin.naco.org/board/Documents/2014-2015BoD/2014-15_BOD_Directory.pdf) <sup>(Document, afdc8571-eb37-4954-b958-3981d03e818f)</sup>
-     * [2014FallBoard_AgendaPacket.pdf](http://dev.admin.naco.org/board/Documents/Fall%20Board%20Meeting/2014FallBoard_AgendaPacket.pdf) <sup>(Document, fff881a3-ebe4-49ee-8f8c-331225481380)</sup>
-     * [2015 Blueprint Master.pdf](http://dev.admin.naco.org/board/Documents/Fall%20Board%20Meeting/2015%20Blueprint%20Master.pdf) <sup>(Document, 4863db24-4214-484b-8f23-1a5212f773e9)</sup>
-     * [IT Committee Board Report - December 5, 2014 .pdf](http://dev.admin.naco.org/board/Documents/Fall%20Board%20Meeting/IT%20Committee%20Board%20Report%20-%20December%205,%202014%20.pdf) <sup>(Document, de82ad48-9235-439a-be44-3bb916b33423)</sup>
-     * [Legislative Priorities2015.pdf](http://dev.admin.naco.org/board/Documents/Fall%20Board%20Meeting/Legislative%20Priorities2015.pdf) <sup>(Document, 1faadd7f-f3da-4d1e-b859-f2635188448c)</sup>
-     * [NACo FSC Presentation - Hawaii Board Mtg 12-4 v3.pdf](http://dev.admin.naco.org/board/Documents/Fall%20Board%20Meeting/NACo%20FSC%20Presentation%20-%20Hawaii%20Board%20Mtg%2012-4%20v3.pdf) <sup>(Document, f2954a94-bedd-4ec8-a6e6-de427d29d16f)</sup>
-     * [2014_Fall_Board_Polling Results.pdf](http://dev.admin.naco.org/board/Documents/Fall%20Board%20Meeting/2014_Fall_Board_Polling%20Results.pdf) <sup>(Document, dd83459b-8122-4375-8914-e89f96551b5c)</sup>
-     * [FBM 2014 Summary.pdf](http://dev.admin.naco.org/board/Documents/Fall%20Board%20Meeting/FBM%202014%20Summary.pdf) <sup>(Document, a1b6195e-9a9e-499b-8d05-5307c2dc97c9)</sup>
-     * [2015 Blueprint Master-staff.pdf](http://dev.admin.naco.org/board/Documents/2015%20Blueprint%20Master-staff.pdf) <sup>(Document, 3d8a9454-ad6d-4d8d-b250-49c3ff2f10a5)</sup>
-     * [REG REP RULES.pdf](http://dev.admin.naco.org/board/Documents/Leg/REG%20REP%20RULES.pdf) <sup>(Document, e4b411a5-0b20-4988-aa3a-e4657f7b210c)</sup>
-     * [Votes Per County and Per State.pdf](http://dev.admin.naco.org/board/Documents/Leg/Votes%20Per%20County%20and%20Per%20State.pdf) <sup>(Document, 9b770394-eb3d-4066-90ed-386fd9b42d84)</sup>
-     * [Votes per States Only.pdf](http://dev.admin.naco.org/board/Documents/Leg/Votes%20per%20States%20Only.pdf) <sup>(Document, d4e906c0-6f60-401d-94ec-172f9eeb8b11)</sup>
-     * [County_Economic_Tracker2014_Board.pdf](http://dev.admin.naco.org/board/Documents/Leg/County_Economic_Tracker2014_Board.pdf) <sup>(Document, 3d6e48ba-82e2-4b7d-b54a-5af6ab90a653)</sup>
-     * [2015_Leg_Board_Agenda_Packet.pdf](http://dev.admin.naco.org/board/Documents/Leg/2015_Leg_Board_Agenda_Packet.pdf) <sup>(Document, 2e394382-6827-466d-b339-a7a91331bf32)</sup>
-     * [ExCmt_AgendaPacket_2015Leg.pdf](http://dev.admin.naco.org/board/Documents/Leg/ExCmt_AgendaPacket_2015Leg.pdf) <sup>(Document, 5da5aceb-317b-4aa7-aecd-ae854572ea4c)</sup>
-     * [New Weighted Vote Analysis -- 1-29-15.pdf](http://dev.admin.naco.org/board/Documents/Leg/New%20Weighted%20Vote%20Analysis%20--%201-29-15.pdf) <sup>(Document, 16dec334-43af-44ca-a198-ce6b84e1d653)</sup>
-     * [Track Changes- Guidelines for NACo 2nd V-P 2014.pdf](http://dev.admin.naco.org/board/Documents/Leg/Track%20Changes-%20Guidelines%20for%20NACo%202nd%20V-P%202014.pdf) <sup>(Document, 7947b6eb-1b96-40fc-9ecc-b92f67e3e12c)</sup>
-     * [Audit Committee Report-LC2015.pdf](http://dev.admin.naco.org/board/Documents/Leg/Audit%20Committee%20Report-LC2015.pdf) <sup>(Document, f857b8d4-b9e1-4576-babb-fafdccba2791)</sup>
-     * [2015 LegConf Board Summary.pdf](http://dev.admin.naco.org/board/Documents/Leg/2015%20LegConf%20Board%20Summary.pdf) <sup>(Document, cd7847cb-dc87-43d8-aaf6-198ecc381317)</sup>
+* [Documents](http://dev.admin.naco.org/board/Documents) <sup>(1 items, fa3113d4-43fe-4415-9a21-d7d1abbb2043)</sup>
      * [2015 WIR Board Draft Schedule.pdf](http://dev.admin.naco.org/board/Documents/WIR/2015%20WIR%20Board%20Draft%20Schedule.pdf) <sup>(Document, 61168e06-9df4-4986-b6aa-7743e85cfe11)</sup>
 
 * [Pages](http://dev.admin.naco.org/board/Pages) <sup>(1 items, f0278594-338d-4ad1-a6cb-d494fc2be1fd)</sup>
      * [Home](http://dev.admin.naco.org/board/Pages/Forms/DispForm.aspx?ID=1) <sup>(Welcome Page, 9bff2d9d-9529-403f-a84f-7163298f7b2d)</sup>
 
 ## Subsite: [About Counties](http://dev.admin.naco.org/Counties) <sup>(ba9839fb-63d1-42fb-9729-92ffc6e8be3b)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/Counties/Documents) <sup>(3 items, 4927dfb2-059f-44f8-afe5-ee2897f5c2fd)</sup>
@@ -938,6 +899,7 @@
      * [Sample Codes and Ordinances](http://dev.admin.naco.org/Counties/Pages/Forms/DispForm.aspx?ID=60) <sup>(NACo Article Page, 0639ee4d-b655-4bfa-8b77-2858787f646d)</sup>
 
 ## Subsite: [What Counties Do](http://dev.admin.naco.org/Counties/countiesdo) <sup>(f41ec9cb-61fa-4ebc-b7fd-a9f3f95fafbf)</sup>
+
 ### Lists
 
 * [CGWC Documents](http://dev.admin.naco.org/Counties/countiesdo/Documents) <sup>(14 items, 554e0c5e-083f-4bbc-8d6e-2fca2569bd9b)</sup>
@@ -1451,6 +1413,7 @@
      * [Why Counties Matter Video](http://dev.admin.naco.org/Counties/countiesdo/Video%20Library/Why%20Counties%20Matter.mp4) <sup>(NACo Document, bb0e3ac9-516c-4086-a307-070f05d04f95)</sup>
 
 ## Subsite: [Learn About Counties](http://dev.admin.naco.org/Counties/learn) <sup>(fc68f6b7-479a-4993-b8ea-95e40d7b97ce)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/Counties/learn/Documents) <sup>(1 items, d30552eb-dc9a-418d-8dae-46acda6f510c)</sup>
@@ -1467,12 +1430,14 @@
      * [Counties Work](http://dev.admin.naco.org/Counties/learn/Pages/Forms/DispForm.aspx?ID=51) <sup>(NACo Article Page, 16f1c3a8-1d83-4136-9a36-fee28c6bc916)</sup>
 
 ## Subsite: [Education](http://dev.admin.naco.org/education) <sup>(1ab8d850-df5b-4086-a032-5636c4ace438)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/education/Pages) <sup>(1 items, a5e0bd97-7dfd-40a6-95ee-14dd786ecfb1)</sup>
      * [Education and Research](http://dev.admin.naco.org/education/Pages/Forms/DispForm.aspx?ID=192) <sup>(NACo Article Page, 8b8684c5-eaa1-4723-a5e7-832369950305)</sup>
 
 ## Subsite: [Education Resources](http://dev.admin.naco.org/education/Education) <sup>(fcc4ba45-5593-420f-a253-aaf8ca4224a3)</sup>
+
 ### Lists
 
 * [Annual Presentations](http://dev.admin.naco.org/education/Education/Annual Presentations) <sup>(10 items, 6cb89a1b-2e8c-4080-be8e-6a52f77b406a)</sup>
@@ -1714,6 +1679,7 @@
      * [Monica Scamardo, Ph.D](http://dev.admin.naco.org/education/Education/Lists/Speakers Bureau/Display_New.aspx?ID=2) <sup>(Item, 9be7aecf-01b8-4892-8289-8d470a16dbe8)</sup>
 
 ## Subsite: [Legislation & Policy](http://dev.admin.naco.org/legislation) <sup>(d7d12b27-5e13-41f1-bf16-090da6a3aae8)</sup>
+
 ### Lists
 
 * [Bulletin PDFs](http://dev.admin.naco.org/legislation/Bulletin PDFs) <sup>(25 items, f3e2e01b-8bc8-40d7-ab6b-d3b709dd353d)</sup>
@@ -2137,6 +2103,7 @@
      * [Get Resources](http://dev.admin.naco.org/legislation/Lists/Waters of the US Tabs/DispForm.aspx?ID=5) <sup>(Item, 3def4d7d-8c0a-4d20-9dd7-7714347d1dd9)</sup>
 
 ## Subsite: [Policies & Steering Committees](http://dev.admin.naco.org/legislation/policies) <sup>(179b3aa1-a781-4e4c-b337-6f69cb1e7ffe)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/legislation/policies/Documents) <sup>(583 items, 55569d96-f88f-4c48-bf25-97a7008fa4be)</sup>
@@ -2758,6 +2725,7 @@
      * [2014 WIR Board of Directors Fall Meeting](http://dev.admin.naco.org/legislation/policies/Pages/Forms/DispForm.aspx?ID=52) <sup>(NACo Welcome Page, 6b40477a-5e14-47fc-9eeb-8bcaf2f59477)</sup>
 
 ## Subsite: [Rural Action Caucus](http://dev.admin.naco.org/legislation/policies/ruralaction) <sup>(8f975312-2ddd-41bd-afe7-52bea432151e)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/legislation/policies/ruralaction/Pages) <sup>(4 items, 4b295246-59d0-4feb-93a7-2b8864e4ccff)</sup>
@@ -2785,6 +2753,7 @@
      * [2014 Fall RAC Symposium - Draft Agenda](http://dev.admin.naco.org/legislation/policies/ruralaction/Documents/DRAFT%20AGENDA%20-%20Fall%20RAC%20Symposium.pdf) <sup>(NACo Document Issue Area, 98556a86-0744-4328-a84e-8f403d954381)</sup>
 
 ## Subsite: [Large Urban County Caucus](http://dev.admin.naco.org/legislation/policies/urbancaucus) <sup>(3437403b-b396-4e51-bb58-1c95e17792d6)</sup>
+
 ### Lists
 
 * [LUCC Documents](http://dev.admin.naco.org/legislation/policies/urbancaucus/Documents) <sup>(7 items, e1d50a08-da99-488e-a9df-ed209e077195)</sup>
@@ -2804,6 +2773,7 @@
      * [LUCC Symposium](http://dev.admin.naco.org/legislation/policies/urbancaucus/Pages/Forms/DispForm.aspx?ID=12) <sup>(NACo Article Page, d04a7822-cc12-42b4-8048-6e86cbc4771e)</sup>
 
 ## Subsite: [Washington Watch](http://dev.admin.naco.org/legislation/WW) <sup>(5cfea8e1-88b1-4483-824c-7583a8c42009)</sup>
+
 ### Lists
 
 * [Issue Areas](http://dev.admin.naco.org/legislation/WW/Lists/Categories) <sup>(16 items, 3b237489-008d-47c5-abec-2092a2c361dc)</sup>
@@ -3754,12 +3724,14 @@
      * [New FEMA Flood Risk Management Standard Listening Sessions and Extended Comment Period](http://dev.admin.naco.org/legislation/WW/Lists/Posts/ViewPost.aspx?ID=967) <sup>(Post, 1603ba80-7260-4e69-bc8c-2d796ed00591)</sup>
 
 ## Subsite: [Conferences](http://dev.admin.naco.org/meetings) <sup>(c54c0dfd-bbf9-4edc-9d76-e4abffda011b)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/meetings/Pages) <sup>(1 items, f9b84131-be99-4c90-ada8-c0fb84545ebf)</sup>
      * [Conferences](http://dev.admin.naco.org/meetings/Pages/Forms/DispForm.aspx?ID=2) <sup>(NACo Welcome Page, a471c233-8d3a-4075-a922-fdc9f8ac5cad)</sup>
 
 ## Subsite: [Upcoming Events and Info](http://dev.admin.naco.org/meetings/dates) <sup>(b349d7b9-d449-47b6-9fc8-05e88a7a9946)</sup>
+
 ### Lists
 
 * [Event Calendar](http://dev.admin.naco.org/meetings/dates/Lists/Event Calendar) <sup>(138 items, 0f08eeb5-e5e1-441f-8034-18f3e879f28f)</sup>
@@ -3910,6 +3882,7 @@
      * [Future Conference Dates](http://dev.admin.naco.org/meetings/dates/Pages/Forms/DispForm.aspx?ID=36) <sup>(NACo Article Page, 405385d4-a93b-4ab8-ba42-a8173a0117e4)</sup>
 
 ## Subsite: [Major Events](http://dev.admin.naco.org/meetings/participate) <sup>(b3ba332d-e3db-4536-8cbf-cacfcefdc1c5)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/meetings/participate/Pages) <sup>(3 items, 0be5de44-4815-4910-9924-921f2656d316)</sup>
@@ -3918,6 +3891,7 @@
      * [NACo Fall Board of Directors Meeting](http://dev.admin.naco.org/meetings/participate/Pages/Forms/DispForm.aspx?ID=56) <sup>(NACo Article Page, a22eea67-a574-4a4c-99bd-d0e41d4420c1)</sup>
 
 ## Subsite: [Legislative Conference](http://dev.admin.naco.org/meetings/participate/LegislativeConference) <sup>(ceb6e278-bfce-4e91-b7de-661f169d330e)</sup>
+
 ### Lists
 
 * [Leg 2015 Conf Tabs](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Lists/Leg 2015 Conf Tabs) <sup>(3 items, 2200fd56-1385-45d0-b798-50abdbea74d2)</sup>
@@ -3925,7 +3899,7 @@
      * [Featured Speakers](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Lists/Leg 2015 Conf Tabs/DispForm.aspx?ID=2) <sup>(Item, 1dd8bf28-47af-42f9-a493-6084f4c2e147)</sup>
      * [Educational Sessions](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Lists/Leg 2015 Conf Tabs/DispForm.aspx?ID=3) <sup>(Item, 9ab22c2b-7264-4d4e-9c48-0555b8185d91)</sup>
 
-* [Leg Conf Documents](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents) <sup>(25 items, 7a1559c5-1e67-409d-b918-9b6006a9c983)</sup>
+* [Leg Conf Documents](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents) <sup>(24 items, 7a1559c5-1e67-409d-b918-9b6006a9c983)</sup>
      * [2014 Leg Workshop Grid](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents/WorkshopGrid%20for%20web%20site%2012-12-13.pdf) <sup>(NACo Document, f633dd67-16bd-4985-bea2-4e5fde7dc6aa)</sup>
      * [Program-at-a-glance 1-29-14](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents/Program-at-a-glance-JAN29.pdf) <sup>(NACo Document, d8e83243-3b12-4674-9ade-566d9a319d1d)</sup>
      * [Workshop Grid 2-18-14](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents/WorkshopGridforWebsite.pdf) <sup>(NACo Document, ec899507-d7d1-478e-b2d5-058da4211707)</sup>
@@ -3933,7 +3907,6 @@
      * [Hotel Reservation Form 2015](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents/2015-LegConference-HOTEL.pdf) <sup>(NACo Document, 5a9042da-0973-44e7-9445-75427a875a05)</sup>
      * [2015 LegConference Schedule](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents/2015-LegConference-Schedule.pdf) <sup>(NACo Document, 38da5843-151c-4138-9ec5-ddce8b8e24a5)</sup>
      * [2015 LegConference Info](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents/2015-LegConference-Info.pdf) <sup>(NACo Document, 3cd04a3e-fdc7-48e5-95c6-2f437f46f60b)</sup>
-     * [Jstify Your Attendance Letter](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents/Justify%20Your%20Attendance%20Letter%20(2).docx) <sup>(NACo Document, 5d20f1c8-29b2-45bb-8634-fe5c1b31388f)</sup>
      * [Spouse/Guest Registration Form 2015](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents/SpouseGuestRegistrationForm.pdf) <sup>(NACo Document, 44bd83f3-5ce0-4555-accf-d43505817ec8)</sup>
      * [Justify Your Attendance Letter](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents/Justify%20Your%20Attendance%20Letter%20(2).pdf) <sup>(NACo Document, 612e6a8c-3b47-44c8-8dfc-4228a1a0c08b)</sup>
      * [2015 Legislative Conference Registration Form](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Documents/2015-LegConference-REGISTER.1.pdf) <sup>(NACo Document, 00741afc-a6fb-46df-848a-3fb4420bdfd0)</sup>
@@ -3962,6 +3935,7 @@
      * [Why Attend the NACo Legislative Conference](http://dev.admin.naco.org/meetings/participate/LegislativeConference/Pages/Forms/DispForm.aspx?ID=50) <sup>(NACo Article Page, 288d3585-b110-4960-9d77-bb6e8c991e75)</sup>
 
 ## Subsite: [Annual Conference](http://dev.admin.naco.org/meetings/participate/NACoAnnual) <sup>(c4f426e5-1046-47a6-9926-e33edd2dc8b9)</sup>
+
 ### Lists
 
 * [Annual Conf Documents](http://dev.admin.naco.org/meetings/participate/NACoAnnual/Documents) <sup>(29 items, 70fef607-a4d5-4960-ad73-afb2fbfa9976)</sup>
@@ -4014,6 +3988,7 @@
      * [2015 NACo Annual Conference and Exposition Sponsorship](http://dev.admin.naco.org/meetings/participate/NACoAnnual/Pages/Forms/DispForm.aspx?ID=53) <sup>(NACo Article Page, 6669181c-1ec7-40a0-8222-145fb8b1917f)</sup>
 
 ## Subsite: [Western Interstate Region Conference](http://dev.admin.naco.org/meetings/participate/WIRConference) <sup>(25ed52d2-c2c6-497d-80c7-31732f21a11e)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/meetings/participate/WIRConference/Pages) <sup>(6 items, 4d8eaa2b-bb53-4d11-b7f3-57597a0b0195)</sup>
@@ -4056,6 +4031,7 @@
      * [Educational Sessions](http://dev.admin.naco.org/meetings/participate/WIRConference/Lists/WIR15 TABS/DispForm.aspx?ID=3) <sup>(Item, 33ea4110-ba48-4ec6-bde5-e53ee91e97c9)</sup>
 
 ## Subsite: [Member Resources](http://dev.admin.naco.org/memberresources) <sup>(8a9f69a4-97e6-40cb-a7c8-8fe4e76d1020)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/memberresources/Documents) <sup>(16 items, 886cf0f9-1895-42d7-b3d5-088b8de81359)</sup>
@@ -4084,6 +4060,7 @@
      * [Membership](http://dev.admin.naco.org/memberresources/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo Welcome Page, 156a5fe7-beff-4614-a891-9240e4ed06ca)</sup>
 
 ## Subsite: [Media](http://dev.admin.naco.org/newsroom) <sup>(39da59d7-292f-4161-bbd4-5e393ea87316)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/Documents) <sup>(291 items, 305c91c2-ef81-4ac6-bbe2-050e00ed5efc)</sup>
@@ -4107,7 +4084,7 @@
      * [Shortfalls forcing counties to cut back](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/Economic_status_survey_June_2010.pdf) <sup>(NACo News Release Document, d3821502-37e3-4bb5-ae0c-852dffd176ea)</sup>
      * [American consumers saving millions on medicine costs thanks to counties](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/PDCP_July%202010.pdf) <sup>(NACo News Release Document, 54a89394-b6ce-4878-90c1-fed909d60b11)</sup>
      * [Tarrant County Judge Whitley elected NACo president](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/Tarrant%20County%20Judge%20Whitley%20elected%20NACo%20president.pdf) <sup>(NACo News Release Document, 0862e6a1-c7ac-4382-bb20-0e52c28d7f58)</sup>
-     * [PILT payments help Nevada’s Counties](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/PILT%20payments%20help%20Nevada’s%20Counties.pdf) <sup>(NACo News Release Document, f41bf5d7-634a-49f0-acc8-5b88d639aef3)</sup>
+     * [PILT payments help Nevada’s Counties](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/PILT%20payments%20help%20Nevada%20Counties.pdf) <sup>(NACo News Release Document, f41bf5d7-634a-49f0-acc8-5b88d639aef3)</sup>
      * [Washington County officials earn national Washington County officials earn national](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/UT%20Washington%20County%20-%20Courthouse%202010.pdf) <sup>(NACo News Release Document, a4523b14-d08c-4df6-ab8c-205467c73003)</sup>
      * [PowerPoint Presentation - Gold](http://dev.admin.naco.org/newsroom/Documents/Developing%20a%20Social%20Media%20Policy.pptx) <sup>(Document, 738c9499-e897-4cc2-b57e-f1500a3b6ea9)</sup>
      * [Chester County official earns national recognition for innovative governance](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/PA%20Chester%20County%20-%20Courthouse%202010.pdf) <sup>(NACo News Release Document, 849aa5f3-3f48-4243-aa9a-61781f49d821)</sup>
@@ -4371,7 +4348,7 @@
      * [Counties applaud Payments in Lieu of Taxes funding](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/PILTSRSrls1214.pdf) <sup>(NACo News Release Document, 0ab875ed-816e-4541-8b88-f7c763aaa459)</sup>
      * [Economic recovery remains sluggish across counties despite signs of national boom](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/CountyEconTracker011215RELEASE.pdf) <sup>(NACo News Release Document, fce3f007-f007-4688-a78a-0aa1ccc3b9b0)</sup>
      * [State of the Union includes key county priorities](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/SOTUstatement012015.pdf) <sup>(NACo News Release Document, eb02f769-e589-4993-92e1-d388e5088d2a)</sup>
-     * [Congressional testimony underscores concerns with “waters of the U.S.” proposal](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/Congressional%20testimony%20underscores%20local%20concerns%20with%20“waters%20of%20the%20U.S.”%20proposal.pdf) <sup>(NACo News Release Document, 0f6eb1a8-d7b5-4cd7-8a4f-a9c0a0af4a7e)</sup>
+     * [Congressional testimony underscores concerns with “waters of the U.S.” proposal](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/Congressional%20testimony%20underscores%20local%20concerns%20with%20waters%20of%20the%20US%20proposal.pdf) <sup>(NACo News Release Document, 0f6eb1a8-d7b5-4cd7-8a4f-a9c0a0af4a7e)</sup>
      * [County leaders, new video: federal policies matter to county government, residents](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/LegConfRls022115.pdf) <sup>(NACo News Release Document, 333c2ff2-e849-4b3f-8ef2-17c1d41d1e14)</sup>
      * [County leaders join effort to recognize national service](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/CNCS%20NACo%20Press%20Release%20Announcing%202015%20County%20Day%20FINAL.pdf) <sup>(NACo News Release Document, de6285c6-efd9-4e9a-83f1-ce4b9484178c)</sup>
      * [NACo recognizes Aetna for its commitment to outstanding service to counties](http://dev.admin.naco.org/newsroom/Documents/Press%20Release%20Documents/NACoCorpExcellenceAwardAetna2015.pdf) <sup>(NACo News Release Document, 55ab334c-446e-40f1-a35a-4d4e61b0d8b4)</sup>
@@ -4387,6 +4364,7 @@
      * [Social Media](http://dev.admin.naco.org/newsroom/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo Article Page, 82bbc5ac-ef29-4540-8cc9-0b9dd3c87ae7)</sup>
 
 ## Subsite: [County News](http://dev.admin.naco.org/newsroom/countynews) <sup>(c5290a46-190d-4284-906d-d7f684255251)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Pages) <sup>(2 items, 12969465-74db-4e32-a627-fea9cbcc0785)</sup>
@@ -4394,6 +4372,7 @@
      * [Threats to Public Officials](http://dev.admin.naco.org/newsroom/countynews/Pages/Forms/DispForm.aspx?ID=28) <sup>(NACo County News Article, dcb31ba0-5bdd-4bd6-b43c-e6bb1bf8bfaf)</sup>
 
 ## Subsite: [County News Archives](http://dev.admin.naco.org/newsroom/countynews/archives) <sup>(d77bfbc3-1f86-4eee-bb70-ceff7ca6451d)</sup>
+
 ### Lists
 
 * [County News Archives PDFs](http://dev.admin.naco.org/newsroom/countynews/archives/Documents) <sup>(242 items, 757f2e27-e7d0-4ecb-825b-4893290173fd)</sup>
@@ -4655,12 +4634,14 @@
      * [County News 2015](http://dev.admin.naco.org/newsroom/countynews/archives/Pages/Forms/DispForm.aspx?ID=28) <sup>(NACo Article Page, 590da937-9fc1-4f02-adbd-a62d22e6c472)</sup>
 
 ## Subsite: [Current Issue](http://dev.admin.naco.org/newsroom/countynews/Current Issue) <sup>(c99deff1-ada5-4dc4-af64-429bf3cc5aa5)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/Pages) <sup>(1 items, 88c7ff13-6e80-41f1-8601-d99f33b5c4cb)</sup>
      * [County News 2014 Annual Daily](http://dev.admin.naco.org/newsroom/countynews/Current Issue/Pages/Forms/DispForm.aspx?ID=27) <sup>(NACo County News Article, 7eeba73f-a7ec-4a63-b1e7-777e71eaa66c)</sup>
 
 ## Subsite: [Oct. 10, 2011 - Vol. 43 No. 19](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-10-11) <sup>(31fb3012-42d2-40ae-9293-1bfe3ca3ab55)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-10-11/Documents) <sup>(1 items, 7fa0618b-a8ac-44f8-afc7-46be1ca398cc)</sup>
@@ -4690,6 +4671,7 @@
      * [Profiles In Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-10-11/Pages/Forms/DispForm.aspx?ID=24) <sup>(NACo County News Article, 0570a2a1-522f-4b11-b7ad-d20106b73baf)</sup>
 
 ## Subsite: [Oct. 18, 2010 - Vol. 42 No. 19](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-18-10) <sup>(3413b528-f004-4cca-a83f-aef0caa59945)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-18-10/Documents) <sup>(1 items, 382612e0-43b6-4682-8d78-451aca772ece)</sup>
@@ -4727,6 +4709,7 @@
      * [Model Programs form the Nation's Counties](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-18-10/Pages/Forms/DispForm.aspx?ID=31) <sup>(NACo County News Article, 2c9287a1-fc6a-4020-92b6-c2180c9705c6)</sup>
 
 ## Subsite: [October 20, 2014 - Vol. 46 No. 20](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-20-2014) <sup>(6c47e995-6cbd-4b9e-9af0-dcc6d9c7348e)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-20-2014/Documents) <sup>(1 items, 7d4a53f7-416f-40d1-a774-29d37c1ed248)</sup>
@@ -4757,6 +4740,7 @@
      * [NACo on the Move](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-20-2014/Pages/Forms/DispForm.aspx?ID=24) <sup>(NACo County News Article, 6fb64719-a00c-4b3f-9842-810b10a01c2a)</sup>
 
 ## Subsite: [Oct. 21, 2013 - Vol. 45 No. 20](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-21-2013) <sup>(fcad8941-d4d2-4b38-92ed-7e40b53a5bba)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-21-2013/Documents) <sup>(1 items, f9bdb2c3-af7d-4aa4-b10a-221099b910e0)</sup>
@@ -4790,6 +4774,7 @@
      * [In Case You Missed It](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-21-2013/Pages/Forms/DispForm.aspx?ID=27) <sup>(NACo County News Article, 1c676a48-ccec-4c2a-a3bc-d978f8d7355b)</sup>
 
 ## Subsite: [Oct 22, 2012 - Vol 44 No. 20](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-22-2012) <sup>(4e8e64d5-8880-4613-8b24-ef725e0e68e0)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-22-2012/Pages) <sup>(23 items, fe601817-833e-4a5b-b45c-bbbeed73cfe2)</sup>
@@ -4818,6 +4803,7 @@
      * [EPA memo touts benefits of decentralized wastewater treatment](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-22-2012/Pages/Forms/DispForm.aspx?ID=43) <sup>(NACo County News Article, 04176f38-259b-4e62-ac31-c1b014326143)</sup>
 
 ## Subsite: [Oct. 24, 2011 Vol. 43 No. 20](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-24-11) <sup>(a2ed536c-2e4d-4c41-a62e-56b1d30f3abf)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-24-11/Documents) <sup>(1 items, 94aae2c7-1ac0-46e5-ab7e-58a004ed3f74)</sup>
@@ -4847,6 +4833,7 @@
      * [Profiles In Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-24-11/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, 6c46a309-d84b-4108-a21c-10b16cb88abf)</sup>
 
 ## Subsite: [Oct. 4, 2010 Vol. 42 No. 18](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-4-10) <sup>(d0106766-077e-4c7a-8863-63d64521e34e)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-4-10/Documents) <sup>(1 items, a5d92310-303b-4a8e-bbe9-3614524c14a8)</sup>
@@ -4874,6 +4861,7 @@
      * [NACo on the Move](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-4-10/Pages/Forms/DispForm.aspx?ID=23) <sup>(NACo County News Article, 8a8d436f-d4cb-4069-9b95-23a57b0a69a8)</sup>
 
 ## Subsite: [October 6, 2014 - Vol. 46 No. 19](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-6-2014) <sup>(e80e2447-c5b7-43f0-a6e5-e198c10ff480)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-6-2014/Documents) <sup>(1 items, fbf2eb8a-e11e-4682-ba89-d217cccea2b4)</sup>
@@ -4900,6 +4888,7 @@
      * [What's in a Seal](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-6-2014/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo County News Article, 9e1d73f0-2a6e-419d-bfd1-0a5bedc86de6)</sup>
 
 ## Subsite: [October 7, 2013 - Vol. 45 No. 19](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-7-2013) <sup>(5e4871e4-704a-4108-8da2-dd90d0a13047)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-7-2013/Documents) <sup>(1 items, 15358218-6ed3-4ce8-b163-c28b4704deb9)</sup>
@@ -4928,6 +4917,7 @@
      * [County social services battle increased heroin use](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-7-2013/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo County News Article, 0edbe2f3-d0d4-45a8-b44d-938565ba1f36)</sup>
 
 ## Subsite: [Oct. 8, 2012 - Vol. 44 No. 19](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-8-2012) <sup>(6ea4d588-bf78-4231-beb8-bdfd60ab767f)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-8-2012/Documents) <sup>(1 items, e27e541b-3b43-41a9-868c-169517bfa875)</sup>
@@ -4955,6 +4945,7 @@
      * [October 8, 2012 - Vol. 44 No. 19](http://dev.admin.naco.org/newsroom/countynews/Current Issue/10-8-2012/Pages/Forms/DispForm.aspx?ID=23) <sup>(NACo Article Page, bc18c2a9-2a08-44c7-9fb6-0135885c9671)</sup>
 
 ## Subsite: [Nov. 1, 2010 Vol. 42 No. 20](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-1-10) <sup>(c204bf07-5293-4d51-b877-20026ba522bd)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-1-10/Documents) <sup>(1 items, 94b66e9e-6a4c-490b-bd75-fdbb8aa01437)</sup>
@@ -4986,6 +4977,7 @@
      * [Take Time to Vote: Halloween Doors](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-1-10/Pages/Forms/DispForm.aspx?ID=27) <sup>(NACo County News Article, 6fc93cec-09a0-4f41-af3b-f7630de374fc)</sup>
 
 ## Subsite: [Nov. 15, 2010 Vol. 42 No. 21](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-15-10) <sup>(92175ac2-d215-4fca-bea2-8902cb762812)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-15-10/Documents) <sup>(3 items, dc0a93b0-12b5-4a31-82db-8187a7e74c9c)</sup>
@@ -5017,6 +5009,7 @@
      * [Correction ](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-15-10/Pages/Forms/DispForm.aspx?ID=23) <sup>(NACo County News Article, b6af01f0-03af-42ce-bf63-8ab7ab0d357e)</sup>
 
 ## Subsite: [Nov. 17, 2014 - Vol. 46 No. 22](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-17-2014) <sup>(0f670fbd-7d05-41d2-a09f-01a45b791eef)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-17-2014/Documents) <sup>(2 items, b85b7f8f-b38e-4183-83ab-19ef5f02a7a7)</sup>
@@ -5047,6 +5040,7 @@
      * [Hot Topics: Juvenile Justice](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-17-2014/Pages/Forms/DispForm.aspx?ID=21) <sup>(NACo County News Article, 68f49a31-830b-44c6-b6eb-c1b1d039df24)</sup>
 
 ## Subsite: [Nov. 18, 2013 - Vol. 45 No. 22](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-18-2013) <sup>(3026d0ad-3a15-491c-b72b-24d69afbc52b)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-18-2013/Documents) <sup>(1 items, cc920818-8ada-4f74-8a07-04dac6a043ca)</sup>
@@ -5077,6 +5071,7 @@
      * [Solutions Spotlight](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-18-2013/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo County News Article, b7d5e0c6-9d32-45e7-bdcf-5cd01daad7cf)</sup>
 
 ## Subsite: [Nov. 19, 2012 - Vol. 44 No. 22](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-19-2012) <sup>(ae483dda-098b-41c5-8445-271415350232)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-19-2012/Documents) <sup>(1 items, 7c4a7e04-5d96-483c-ab6a-fb2668e4d7c6)</sup>
@@ -5104,6 +5099,7 @@
      * [In Case You Missed It](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-19-2012/Pages/Forms/DispForm.aspx?ID=30) <sup>(NACo County News Article, 9940883b-0ce4-4b8f-a6c3-a872ed9dea3f)</sup>
 
 ## Subsite: [Nov. 21, 2011 Vol. 43 No. 22](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-21-11) <sup>(55c17231-6a23-4c5a-a5cf-a5d457b2ed67)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-21-11/Documents) <sup>(1 items, 325c2029-ead8-4cc1-9fb0-c9077d9844a2)</sup>
@@ -5132,6 +5128,7 @@
      * [Profiles In Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-21-11/Pages/Forms/DispForm.aspx?ID=24) <sup>(NACo County News Article, bfdb283e-4150-422a-8deb-d6b8f99fb724)</sup>
 
 ## Subsite: [Jan. 12, 2015 - Vol. 47 No. 1](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-12-2015) <sup>(ec83e77f-c444-45e4-922f-5399757f5c24)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-12-2015/Documents) <sup>(1 items, b5ee7c70-d68b-4b6f-aaf2-1cf1b5b58e9b)</sup>
@@ -5159,6 +5156,7 @@
      * [Tracker Article Links](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-12-2015/Pages/Forms/DispForm.aspx?ID=19) <sup>(NACo County News Article, 7a1c8825-904b-47e3-a28d-36ffc20ed426)</sup>
 
 ## Subsite: [Nov. 29, 2010 - Vol. 42 No. 22](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-29-10) <sup>(62717e32-21b0-4bc3-a6d9-168c3a52ef80)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-29-10/Documents) <sup>(1 items, 4164bc16-0026-4401-a1b2-e03df5333b35)</sup>
@@ -5186,6 +5184,7 @@
      * [This Month in County News](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-29-10/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo County News Article, 5abd1ab6-92a3-48d5-bdd1-c4836cc6c686)</sup>
 
 ## Subsite: [Jan. 13, 2014 - Vol. 46 No. 1](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-13-14) <sup>(a1f1dab1-d40e-4acc-a142-529df1617bc0)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-13-14/Documents) <sup>(1 items, bb7960c3-5abf-45bc-a1c5-2f4e882ee1c3)</sup>
@@ -5219,6 +5218,7 @@
      * [Volunteer firefighters, EMTs exempt from ACA](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-13-14/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, 11f15368-f7a7-463a-a5cf-fcd7f41663de)</sup>
 
 ## Subsite: [Nov. 3, 2014 - Vol. 46 No. 21](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-3-2014) <sup>(1aad269b-7c53-438c-ac00-997dd3b0ca05)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-3-2014/Documents) <sup>(1 items, fd85d003-7155-4162-93c8-d94256477af4)</sup>
@@ -5245,6 +5245,7 @@
      * [Profiles in Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-3-2014/Pages/Forms/DispForm.aspx?ID=18) <sup>(NACo County News Article, 7e468c8a-7dd5-4a1e-9475-75058795087e)</sup>
 
 ## Subsite: [Jan. 14, 2013 - Vol. 45 No. 1](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-14-13) <sup>(daaf7221-16d5-4062-9a88-0d0a1063bbde)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-14-13/Documents) <sup>(2 items, 817c401b-8b11-41cd-956a-136a0911b20e)</sup>
@@ -5282,6 +5283,7 @@
      * [Exploring Effective Congressional Communications Strategies](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-14-13/Pages/Forms/DispForm.aspx?ID=29) <sup>(NACo County News Article, bd8af026-ae69-4a3a-bc58-2cccad96908d)</sup>
 
 ## Subsite: [Nov. 4, 2013 - Vol. 45 No. 22](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-4-2013) <sup>(0832c60c-b9a8-4bc3-ae13-ef56825c7c41)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-4-2013/Documents) <sup>(1 items, 059f2413-ead4-4439-a6ce-3e55a7fcced8)</sup>
@@ -5311,6 +5313,7 @@
      * [PILT presentation provides tool for education, advocacy](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-4-2013/Pages/Forms/DispForm.aspx?ID=21) <sup>(NACo County News Article, 8bf09257-21fe-43ad-b63d-52a26eb2bb68)</sup>
 
 ## Subsite: [Nov. 5, 2012 - Vol 44 No 21](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-5-12) <sup>(1865e90d-b107-40e5-a8a7-2d2df34709c7)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-5-12/Documents) <sup>(1 items, 2f8685d6-0e99-4626-afe0-476250dcb769)</sup>
@@ -5338,6 +5341,7 @@
      * [Pa. county commissioner wants tank for the memories](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-5-12/Pages/Forms/DispForm.aspx?ID=40) <sup>(NACo County News Article, 243e5162-0ca3-4fc0-b928-0bc697f30bd2)</sup>
 
 ## Subsite: [Jan. 16, 2012 - Vol. 44 No. 1](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-16-12) <sup>(0ab16292-0f4b-48ef-938b-a4a570ca3733)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-16-12/Documents) <sup>(2 items, c29e5a9f-7b8e-42dd-a90e-9fd4e63beb2e)</sup>
@@ -5370,6 +5374,7 @@
      * [Job Market / Classifieds](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-16-12/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, f2d16eb7-3bae-40b7-8ad5-77c9b6177bf5)</sup>
 
 ## Subsite: [Jan. 17, 2011 - Vol. 43 No. 1](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-17-11) <sup>(fb0e1bab-17bd-4ba7-a019-4613ed4a2b26)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-17-11/Documents) <sup>(1 items, d37724da-53e5-46f6-9424-c66e014c6eb6)</sup>
@@ -5402,6 +5407,7 @@
      * [Profiles In Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-17-11/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, 1224cba7-6ae7-4188-bb25-8fff8ff5ffed)</sup>
 
 ## Subsite: [Nov. 7, 2011 Vol. 43 No. 21](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-7-11) <sup>(b2f8c6f4-1706-47f0-ba78-3850ca2b5fa9)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-7-11/Documents) <sup>(2 items, 5204057d-eab6-4ef8-9954-160b907a6923)</sup>
@@ -5435,6 +5441,7 @@
      * [GIS day Nov. 16](http://dev.admin.naco.org/newsroom/countynews/Current Issue/11-7-11/Pages/Forms/DispForm.aspx?ID=28) <sup>(NACo County News Article, 689d2b1b-7eb0-46bf-b317-61afe857684e)</sup>
 
 ## Subsite: [Dec. 1, 2014 - Vol. 46 No. 23](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-1-2014) <sup>(6f0fb577-79d2-42ee-98f7-fc033bbd7a00)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-1-2014/Documents) <sup>(1 items, 8e1dfa11-6072-4e76-8fcc-26815c70a9ab)</sup>
@@ -5463,6 +5470,7 @@
      * [NACo on the Move](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-1-2014/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo County News Article, fd53b2be-04d0-4f40-9bf0-2ef94110a9dd)</sup>
 
 ## Subsite: [Dec. 13, 2010 Vol. 42  No.23](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-13-10) <sup>(4272c34e-cf36-434c-8f9d-9d3cd59e8d34)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-13-10/Documents) <sup>(1 items, fdac8a2d-8d0e-41d9-9956-ac8b85a95cad)</sup>
@@ -5493,6 +5501,7 @@
      * [The H.R. Doctor Is In](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-13-10/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, 749b6b02-c51c-46a0-ac1b-4e68a67b0f39)</sup>
 
 ## Subsite: [Dec. 15, 2014 - Vol. 46 No. 24](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-15-14) <sup>(bb123753-d28c-40d8-aecd-006143456da7)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-15-14/Documents) <sup>(2 items, b156c309-7358-44ab-99dd-a3cae5be1be9)</sup>
@@ -5528,6 +5537,7 @@
      * [NACo on the Move](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-15-14/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, de66cd8a-6ec7-4504-af77-0a0ae7aee90c)</sup>
 
 ## Subsite: [Dec. 16, 2013 - Vol. 45 No. 24](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-16-13) <sup>(b75c51b4-36d5-402c-a61f-6e9d1a9ef4e5)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-16-13/Pages) <sup>(22 items, d03100d0-3ee0-415c-8a3b-fed54dd83f1e)</sup>
@@ -5555,6 +5565,7 @@
      * [In Case You Missed It](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-16-13/Pages/Forms/DispForm.aspx?ID=24) <sup>(NACo County News Article, 19b2b5a2-2c4e-49c1-b01b-d3a35828aec5)</sup>
 
 ## Subsite: [Dec. 17, 2012 - Vol. 44 No. 24](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-17-12) <sup>(75b81b5b-6e7b-4f99-881a-850af2943821)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-17-12/Documents) <sup>(2 items, 0cf1e58a-2155-43ac-a2af-40293e00f64d)</sup>
@@ -5586,6 +5597,7 @@
      * [New name, same service tradition](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-17-12/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo County News Article, 6251f21c-3200-475b-985b-08290a822f5b)</sup>
 
 ## Subsite: [Dec. 19, 2011 - Vol. 43 No. 24](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-19-11) <sup>(cb58943f-d132-498e-9597-893a05cc17b9)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-19-11/Documents) <sup>(1 items, d579aec2-5824-4e55-8fac-5b38cbade70c)</sup>
@@ -5614,6 +5626,7 @@
      * [What's In a Seal?](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-19-11/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, 83cf7110-760c-4c99-8d39-a14dc34e3677)</sup>
 
 ## Subsite: [Dec. 2, 2013 - Vol. 45 No. 23](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-2-2013) <sup>(377efacd-f88f-4ec3-b5e7-1d5d2618f175)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-2-2013/Documents) <sup>(1 items, 78e806b8-ad92-4dd5-a7ea-c79c47dd73dd)</sup>
@@ -5641,6 +5654,7 @@
      * [What's in a Seal?](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-2-2013/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo County News Article, 2577a00e-b595-4e7b-bf55-7cb01078a067)</sup>
 
 ## Subsite: [December 3, 2012 - Vo. 44 No. 23](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-3-12) <sup>(b676e74f-48ee-4132-888c-820ea35f5115)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-3-12/Pages) <sup>(21 items, 2baa518d-d398-4bf9-b2a2-172ed485ff9e)</sup>
@@ -5667,6 +5681,7 @@
      * [HHS releases proposed rules fleshing out health law](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-3-12/Pages/Forms/DispForm.aspx?ID=24) <sup>(NACo County News Article, 447006e4-925d-4f90-a841-7d436ab255a5)</sup>
 
 ## Subsite: [Dec. 5, 2011  Vol. 43 No. 23](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-5-11) <sup>(1a5e9aaa-62b3-4a6e-a919-7f2b831a3fe9)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-5-11/Documents) <sup>(1 items, 9e28236d-d144-4cce-8d8b-230a5a7d2895)</sup>
@@ -5693,6 +5708,7 @@
      * [News to Use ... or Pass Along](http://dev.admin.naco.org/newsroom/countynews/Current Issue/12-5-11/Pages/Forms/DispForm.aspx?ID=21) <sup>(NACo County News Article, 5453b6c6-3618-4513-9253-a3ef1af01cea)</sup>
 
 ## Subsite: [Jan. 26, 2015 - Vol. 47 No. 2](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-26-2015) <sup>(317dc5a6-0211-497a-9e84-96b778f9ecae)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-26-2015/Documents) <sup>(1 items, 920bdb23-e020-43b0-8e21-889c7ed3a844)</sup>
@@ -5726,6 +5742,7 @@
      * [Pa. county pioneers pipeline tracking](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-26-2015/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, 5baaed3a-bec5-4da6-b561-4db78eca99b3)</sup>
 
 ## Subsite: [Jan.  27, 2014 - Vol. 46 No. 2](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-27-2014) <sup>(c8221b73-9ec1-4983-8d16-ded67fcbece5)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-27-2014/Documents) <sup>(1 items, c485f9fb-b53c-4102-8260-f649fd8e2e1a)</sup>
@@ -5758,6 +5775,7 @@
      * [Counties win in farm bill conference report](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-27-2014/Pages/Forms/DispForm.aspx?ID=28) <sup>(NACo County News Article, 646f8544-9650-4cdd-90c9-e32c98483e28)</sup>
 
 ## Subsite: [Jan. 28, 2013 - Vol. 45 No. 2](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-28-13) <sup>(d51186b4-bb03-4e41-9698-76dfe0eec348)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-28-13/Documents) <sup>(2 items, f0ecaab1-3f15-4716-8af6-8b64757894ed)</sup>
@@ -5791,6 +5809,7 @@
      * [Update: Senators unveil bi-partisan immigration reform proposal](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-28-13/Pages/Forms/DispForm.aspx?ID=24) <sup>(NACo County News Article, bc532228-469d-4318-a3c3-f393119a58e8)</sup>
 
 ## Subsite: [Jan. 30, 2012 - Vol. 44 No. 2](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-30-12) <sup>(45c7c3a7-25d1-487a-8e81-5eadc252a7bf)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-30-12/Documents) <sup>(1 items, cc1e8288-a208-4457-86d4-cb809935d342)</sup>
@@ -5821,6 +5840,7 @@
      * [Job Market / Classifieds](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-30-12/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, d1b7d3c0-ee10-425b-8fca-9cea5750615a)</sup>
 
 ## Subsite: [Jan. 31, 2011 Vol. 43 No. 2](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-31-11) <sup>(6e3e3743-71ec-4d35-b029-f2d51195d9fa)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-31-11/Pages) <sup>(22 items, 04ec0bfc-2a3c-453e-a4c2-98f9b52246b5)</sup>
@@ -5848,6 +5868,7 @@
      * [Salt Lake County mayor keeps door open to new ideas](http://dev.admin.naco.org/newsroom/countynews/Current Issue/1-31-11/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, ba434d42-31d3-42ff-b57b-d3083ad2fb32)</sup>
 
 ## Subsite: [Feb. 10, 2014 - Vol. 46 No. 3](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-10-2014) <sup>(e333fa18-da91-4fbc-9ce4-13723c02bef7)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-10-2014/Documents) <sup>(2 items, 400ecdef-5d41-407a-b6e9-706107634857)</sup>
@@ -5878,6 +5899,7 @@
      * [What's in a Seal?](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-10-2014/Pages/Forms/DispForm.aspx?ID=21) <sup>(NACo County News Article, f53fa3f2-c82d-430d-b9ac-e6cb74d8ab9a)</sup>
 
 ## Subsite: [Feb. 11, 2013 - Vol. 45 No. 3](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-11-13) <sup>(f618f8ad-ad14-4337-9c99-b73d2842b010)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-11-13/Documents) <sup>(1 items, 3070e5de-65ba-4788-bec3-0beb5ca804c4)</sup>
@@ -5911,6 +5933,7 @@
      * [2013 NACo Second Vice President Candidates - Tim Josi](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-11-13/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, 0b0121ac-7791-4c4d-984c-d3890cad2356)</sup>
 
 ## Subsite: [Feb. 13, 2012 - Vol. 44 No. 4](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-13-12) <sup>(ebc2a273-f85e-4127-88cc-876435e72445)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-13-12/Documents) <sup>(1 items, d8504ec7-920a-4f95-831f-6045da083592)</sup>
@@ -5938,6 +5961,7 @@
      * [What's In a Seal?](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-13-12/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo County News Article, c6edb65c-ac21-4584-be0b-90ea548ae4af)</sup>
 
 ## Subsite: [Feb. 14, 2011 - Vol. 43 No. 3](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-14-11) <sup>(1d9dbc60-9d73-4c7e-8b5a-012ecfc7a34d)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-14-11/Documents) <sup>(2 items, 018aaf81-3b7e-4fe7-bd0b-53125954e36f)</sup>
@@ -5970,6 +5994,7 @@
      * [Job Market / Classifieds](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-14-11/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, dfb089a3-e2e9-4181-b89a-7dc9b5c68bc0)</sup>
 
 ## Subsite: [Feb. 23, 2015 - Vol. 47, No. 4](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-23-2015) <sup>(1b05babf-f6b5-4dd9-a1f6-ab3c77cdc587)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-23-2015/Documents) <sup>(3 items, 4f95b0a0-7805-4ced-b7c4-03873817404a)</sup>
@@ -5995,6 +6020,7 @@
      * [Hot Topics: Public Lands](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-23-2015/Pages/Forms/DispForm.aspx?ID=16) <sup>(NACo County News Article, 71f4a20c-cea9-4b78-8600-c563333071d0)</sup>
 
 ## Subsite: [Feb. 24, 2014 - Vol. 46 No. 4](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-24-2014) <sup>(d564b851-623a-4405-8dd7-eafa45a9c88e)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-24-2014/Documents) <sup>(1 items, 8f57bee4-b455-4c54-a678-c5bb99cfc6ea)</sup>
@@ -6026,6 +6052,7 @@
      * [Profiles in Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-24-2014/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, 64439ccd-edc5-40e0-bdac-e5a95b13a308)</sup>
 
 ## Subsite: [Feb. 25, 2013 - Vol. 45 No. 4](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-25-13) <sup>(9f462973-1971-4cce-bd0c-731a4787a0b1)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-25-13/Pages) <sup>(26 items, c071d593-d4a4-4be9-b789-e2a49c95d1ba)</sup>
@@ -6057,6 +6084,7 @@
      * [March 5, 2013 - Washington, D.C.](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-25-13/Pages/Forms/DispForm.aspx?ID=28) <sup>(NACo Article Page, c7d2ba80-2def-4113-9ac7-85bb212c824e)</sup>
 
 ## Subsite: [Feb. 27, 2012  Vol. 44 No. 4](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-27-12) <sup>(d6975e20-79d3-4696-8ed2-fd3786919e9e)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-27-12/Documents) <sup>(1 items, 9a9c7bda-788e-4a4c-8a7c-6977d5133ca6)</sup>
@@ -6091,6 +6119,7 @@
      * [2012 County Courthouse Award Applications Available](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-27-12/Pages/Forms/DispForm.aspx?ID=30) <sup>(NACo County News Article, 0847fe47-2655-4e0e-9213-714ab6843a71)</sup>
 
 ## Subsite: [Feb. 28, 2011 - Vol. 43 No. 4](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-28-11) <sup>(e78b2556-e426-4354-a063-6b687c8ec98a)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-28-11/Documents) <sup>(2 items, c6cca26f-9c6d-4057-8b10-e365439f1178)</sup>
@@ -6121,6 +6150,7 @@
      * [What's In a Seal?](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-28-11/Pages/Forms/DispForm.aspx?ID=23) <sup>(NACo County News Article, ed0e8522-33f9-460e-b935-f29787202a97)</sup>
 
 ## Subsite: [Feb. 9, 2015 - Vol. 47, No. 3](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-9-2015) <sup>(0feb47fd-42fe-45ee-93c7-dd10336d4808)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-9-2015/Documents) <sup>(1 items, 53fec18d-6e61-40a0-9250-3e346e2eadeb)</sup>
@@ -6149,6 +6179,7 @@
      * [State-to-State](http://dev.admin.naco.org/newsroom/countynews/Current Issue/2-9-2015/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo County News Article, 3caa6c93-b2c4-4fcc-b72e-3c6068ec68a7)</sup>
 
 ## Subsite: [March 10, 2014 - Vol. 46 No. 5](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-10-2014) <sup>(e3b904b1-996f-4bb4-b687-08d7fa1fc0cc)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-10-2014/Documents) <sup>(2 items, a53e6195-b96a-406c-8dec-7f62bc2e9c24)</sup>
@@ -6178,6 +6209,7 @@
      * [Congressional backers, NACo muster support for MAP-21](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-10-2014/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo County News Article, 04af2623-bf57-4e2c-80b1-4a140a886459)</sup>
 
 ## Subsite: [March 11, 2013 - Vol. 45 No. 5](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-11-2013) <sup>(d1b52bbe-115c-4a06-9e3c-ea9b44405cc1)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-11-2013/Documents) <sup>(2 items, 227b2c75-0ba3-48c6-b308-f51753178a13)</sup>
@@ -6205,6 +6237,7 @@
      * [New NACo policies adopted at D.C. conference](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-11-2013/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo County News Article, b5cca7b9-3236-4024-9b63-86eff8ab6f11)</sup>
 
 ## Subsite: [March 12, 2012 - Vol. 44 No. 5](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-12-12) <sup>(853a60f0-6aab-451d-8af9-6c930daa7f62)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-12-12/Documents) <sup>(1 items, e0dbbb43-6b87-4f8e-b825-9d46fec00b97)</sup>
@@ -6230,6 +6263,7 @@
      * [Job Market / Classifieds](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-12-12/Pages/Forms/DispForm.aspx?ID=19) <sup>(NACo County News Article, b02d71cd-b598-466f-b1e3-b01e73bbd8fc)</sup>
 
 ## Subsite: [March 14, 2011 Vol. 43 No. 5](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-14-11) <sup>(4cd1a29a-b4b1-4499-ae6c-e96f69879c82)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-14-11/Documents) <sup>(1 items, 6e2a2ee8-ed34-4939-be39-e7a235a65272)</sup>
@@ -6257,6 +6291,7 @@
      * [NACo argues against CDBG cuts](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-14-11/Pages/Forms/DispForm.aspx?ID=23) <sup>(NACo Article Page, 2756c043-0c96-4f31-a547-b28c4bc7070b)</sup>
 
 ## Subsite: [March 23, 2015 - Vol. 27, No. 6](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-23-2015) <sup>(f5c54c63-52b9-48b8-b159-2986354b2511)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-23-2015/Documents) <sup>(2 items, 8f83b8ef-c754-4574-a42b-f6f3bedaf6bf)</sup>
@@ -6285,6 +6320,7 @@
      * [What's in a Seal?](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-23-2015/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo County News Article, 90d6f615-959d-4ab1-ad66-0b222606ba38)</sup>
 
 ## Subsite: [March 24, 2014 - Vol. 46 No.6](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-24-2014) <sup>(0aef4d2c-2c18-484c-a228-944896fd67be)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-24-2014/Documents) <sup>(2 items, 338d99b7-b93b-46f1-8789-7e4aefc4dd70)</sup>
@@ -6318,6 +6354,7 @@
      * [Profiles in Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-24-2014/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, 03460f70-0068-48b2-bf4a-9100e1773387)</sup>
 
 ## Subsite: [March 25, 2013 Vol. 45 No. 6](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-25-2013) <sup>(9cd089e0-9aba-4788-be57-b1c93cd713e4)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-25-2013/Documents) <sup>(3 items, 24a14139-1d88-48a7-b566-8556d86546cc)</sup>
@@ -6346,6 +6383,7 @@
      * [2013 Legislative Conference After-Action Report](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-25-2013/Pages/Forms/DispForm.aspx?ID=18) <sup>(NACo County News Article, 6c843e35-a2e9-447a-a67b-d6d4fe59069d)</sup>
 
 ## Subsite: [March 26, 2012 - Vol. 44 No. 6](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-26-12) <sup>(9c1dfd29-5112-4f80-aa07-a6b432e4ec24)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-26-12/Documents) <sup>(3 items, a1d3336f-07bf-4193-b71a-736f1e2c478b)</sup>
@@ -6380,6 +6418,7 @@
      * [The H.R. Doctor Is In](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-26-12/Pages/Forms/DispForm.aspx?ID=28) <sup>(NACo County News Article, ae126b43-35cf-475c-a8d3-67e9dd7e5799)</sup>
 
 ## Subsite: [March 28, 2011 - Vol. 43 No. 6](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-28-11) <sup>(5a7d7da1-b528-4a6e-b327-6bb256703e3c)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-28-11/Documents) <sup>(2 items, 4ea0a2c4-2c62-48a3-9555-9245b4f968c8)</sup>
@@ -6409,6 +6448,7 @@
      * [NACo on the Move](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-28-11/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo County News Article, f5ea92cc-942c-447a-90c5-dfde6ed0735d)</sup>
 
 ## Subsite: [March 9, 2015 - Vol. 47, No. 5](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-9-2015) <sup>(acddfd31-f471-481b-804b-450a2b300e06)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-9-2015/Documents) <sup>(1 items, e9eadc3a-31d0-4709-87fd-24e537c3ffcb)</sup>
@@ -6441,6 +6481,7 @@
      * [EPA-needs-do-over-on-‘Waters-of-the-U-S-’-rule.aspx](http://dev.admin.naco.org/newsroom/countynews/Current Issue/3-9-2015/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, e040d8c1-ae16-445e-81ee-436760440013)</sup>
 
 ## Subsite: [April 11, 2011 Vol. 43 No. 7](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-11-11) <sup>(1ae004d6-d60c-4aa9-a767-ac2951a9202b)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-11-11/Pages) <sup>(19 items, a948bbf0-9648-472c-9b63-e5299cfe5a21)</sup>
@@ -6465,6 +6506,7 @@
      * [Job Market / Classifieds](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-11-11/Pages/Forms/DispForm.aspx?ID=21) <sup>(NACo County News Article, 0b874560-b960-46ea-b005-2644929bf626)</sup>
 
 ## Subsite: [April 21, 2014 - Vol. 46 No. 8](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-21-2014) <sup>(1a725db4-76dd-4dec-b145-97319ea3340d)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-21-2014/Documents) <sup>(2 items, 3074a12e-4abf-4ec1-9711-2870a02309a9)</sup>
@@ -6502,6 +6544,7 @@
      * [Profiles in Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-21-2014/Pages/Forms/DispForm.aspx?ID=30) <sup>(NACo County News Article, 5a4b3726-8129-4105-9f51-634b1d7b95bc)</sup>
 
 ## Subsite: [April 22, 2013 - Vol. 45 No. 8](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-22-2013) <sup>(1adaf0bf-69ca-4197-9324-de8adb54d6c7)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-22-2013/Documents) <sup>(1 items, 06514e4e-712b-4faf-bad0-59ceab99f263)</sup>
@@ -6535,6 +6578,7 @@
      * [Complex path to reform unveiled in bipartisan immigration bill](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-22-2013/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, 22319972-6121-4068-ad2c-3885d4b6b1f6)</sup>
 
 ## Subsite: [April 23, 2012 - Vol. 44 No. 8](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-23-2012) <sup>(daaa556e-3712-42ec-825d-c823267a3c5a)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-23-2012/Pages) <sup>(19 items, d41256c2-f174-44ff-94b5-ced3e2659b99)</sup>
@@ -6559,6 +6603,7 @@
      * [What's In a Seal?](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-23-2012/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo County News Article, e68553b2-3af3-4a28-bbbc-739293d93b3d)</sup>
 
 ## Subsite: [April 25, 2011 - Vol. 43 No. 8](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-25-11) <sup>(180639ff-bd78-4772-8bc1-725079a703c2)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-25-11/Documents) <sup>(1 items, 36b0b7b8-ce28-4ac4-8bb5-8d794a3bcb73)</sup>
@@ -6590,6 +6635,7 @@
      * [In Case You Missed it](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-25-11/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, f2b561b6-c061-45ab-9e6f-8e92cdad2f57)</sup>
 
 ## Subsite: [April 7, 2014 -Vol. 46 No. 7](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-7-2014) <sup>(cfdbd470-c752-45c6-9486-ae77e63a3175)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-7-2014/Pages) <sup>(28 items, 576e5592-624d-4e54-8f5a-f1d588304563)</sup>
@@ -6623,6 +6669,7 @@
      * [President’s budget proposes consolidation of DHS state and local grants](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-7-2014/Pages/Forms/DispForm.aspx?ID=29) <sup>(NACo County News Article, 83678d45-1b55-4023-901c-bbd99aac93d1)</sup>
 
 ## Subsite: [April 8, 2013 - Vol. 45 No. 7](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-8-2013) <sup>(f6708358-63b2-430d-9a35-87b2edec2935)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-8-2013/Documents) <sup>(1 items, c64ce8f1-8320-4b82-a4f5-df8564de2489)</sup>
@@ -6658,6 +6705,7 @@
      * [Affiliate News](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-8-2013/Pages/Forms/DispForm.aspx?ID=27) <sup>(NACo County News Article, bbd735cf-4329-4768-82d7-a3313ae125f8)</sup>
 
 ## Subsite: [April 9, 2012 - Vol. 44 No. 7](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-9-2012) <sup>(80407794-0ee0-4758-b138-073dd04e3944)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-9-2012/Documents) <sup>(2 items, a0712bca-353e-414b-ba69-6ed4b842f875)</sup>
@@ -6686,6 +6734,7 @@
      * [Power2Give set to help local art](http://dev.admin.naco.org/newsroom/countynews/Current Issue/4-9-2012/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo County News Article, 73272097-781f-4dd9-9a58-b6f8b41f7a82)</sup>
 
 ## Subsite: [May 10, 2010 Volume 42 No. 9](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-10-10) <sup>(ab39b0da-7d31-4477-a636-a01ebd093592)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-10-10/Pages) <sup>(18 items, b3c21f79-d204-4cb2-85f1-e657589d2e28)</sup>
@@ -6709,6 +6758,7 @@
      * [Vol. 42 No. 9, May 10, 2010](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-10-10/Pages/Forms/DispForm.aspx?ID=27) <sup>(NACo Welcome Page, 71cbfcc9-dc75-46a8-bd93-4a80dcfaf105)</sup>
 
 ## Subsite: [May 19, 2014 - Vol. 46 No. 10](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-19-2014) <sup>(16286a74-ff83-445d-b7ed-ca96a226ce7d)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-19-2014/Documents) <sup>(1 items, ab7e8506-d324-4427-abb7-bd4b20f718cb)</sup>
@@ -6737,6 +6787,7 @@
      * [State to State](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-19-2014/Pages/Forms/DispForm.aspx?ID=21) <sup>(NACo County News Article, 32b1ae3d-bb84-463b-9c10-2e9b817ae15d)</sup>
 
 ## Subsite: [May 20, 2013 Vol. 45 No. 10](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-20-2013) <sup>(188cb619-3dc9-467e-939c-113e257b562e)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-20-2013/Documents) <sup>(1 items, f68688a7-ac6e-46d4-911f-fd122cafdf56)</sup>
@@ -6778,6 +6829,7 @@
      * [Cleveland County, Okla. takes brunt of a "grinder" tornado](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-20-2013/Pages/Forms/DispForm.aspx?ID=36) <sup>(NACo County News Article, 9dacb103-4bea-4ad8-91ff-40f4ba67162e)</sup>
 
 ## Subsite: [May 21, 2012  Vol. 44 No. 10](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-21-2012) <sup>(d1e19f1a-b38e-487a-ae48-0a309aa27ec7)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-21-2012/Documents) <sup>(1 items, 2ecfbaa1-2d50-4e47-9ae4-94ef1d187d71)</sup>
@@ -6813,6 +6865,7 @@
      * [What's In a Seal?](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-21-2012/Pages/Forms/DispForm.aspx?ID=32) <sup>(NACo County News Article, 7ccb07b5-bb2b-4b3b-a269-008973bdb27e)</sup>
 
 ## Subsite: [May 23, 2011  Vol. 43 No. 10](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-23-11) <sup>(3732d287-6c43-4284-af4a-75813dfb6566)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-23-11/Documents) <sup>(1 items, d92f5705-b242-4d67-ae11-6e5933d2e921)</sup>
@@ -6843,6 +6896,7 @@
      * [What's In a Seal?](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-23-11/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, d12765b1-550e-49c6-8e8a-062fd9df7d4b)</sup>
 
 ## Subsite: [May 24, 2010 Volume 42 No. 10](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-24-10) <sup>(2b6479ec-f712-4ac3-b7a4-b2e056b64d7e)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-24-10/Pages) <sup>(13 items, 7af01625-95a1-4505-ab5d-4532c9d8d83b)</sup>
@@ -6861,6 +6915,7 @@
      * [Vol. 42 No. 10, May 24, 2010](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-24-10/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo Welcome Page, 51e54f52-84fc-4d60-bb96-47c8c2304c67)</sup>
 
 ## Subsite: [May 5, 2014 - Vol. 46 No. 9](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-5-2014) <sup>(8834111a-bea5-46bd-ba4e-bb1571c6d1cc)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-5-2014/Documents) <sup>(1 items, c186b5e4-5a76-4605-b6be-8ec64f386713)</sup>
@@ -6893,6 +6948,7 @@
      * [Proposed GROW AMERICA Act could modernize transportation policy](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-5-2014/Pages/Forms/DispForm.aspx?ID=24) <sup>(NACo County News Article, 345212c6-0744-43c3-ae38-26b8279c9d94)</sup>
 
 ## Subsite: [May 6, 2013 - Vol. 45 No. 9](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-6-2013) <sup>(ef2f03f8-9eba-4cd4-984e-250b0cfd1f2d)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-6-2013/Documents) <sup>(1 items, cccaf6fe-c699-4ef9-8a7b-ee5e76fdb56e)</sup>
@@ -6930,6 +6986,7 @@
      * [MEMORANDUM: 2013–2014 Presidential Leadership and Committee Appointments](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-6-2013/Pages/Forms/DispForm.aspx?ID=33) <sup>(NACo County News Article, 51bca54d-d143-4883-ab76-508e40361092)</sup>
 
 ## Subsite: [May 7, 2012 - Vol. 44 No. 9](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-7-2012) <sup>(2370424d-2c94-466f-8acd-d17153ea5881)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-7-2012/Documents) <sup>(2 items, 46c629e8-efc9-4d56-b023-e76441a5469a)</sup>
@@ -6962,6 +7019,7 @@
      * [Profiles In Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-7-2012/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, 5cdf0eba-46b3-4240-ba62-b69c6c29bde1)</sup>
 
 ## Subsite: [May 9, 2011 - Vol. 43 No. 9](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-9-11) <sup>(67e5bfd7-f725-411f-a40e-20e29c45e6fe)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-9-11/Documents) <sup>(1 items, 270bb9c2-442f-46fd-8065-6a2cef30b365)</sup>
@@ -6993,6 +7051,7 @@
      * [Job Market / Classifieds](http://dev.admin.naco.org/newsroom/countynews/Current Issue/5-9-11/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, 453bfc33-3ef9-486d-8d11-ae352c8a94d1)</sup>
 
 ## Subsite: [June 16, 2014 - Vol. 46, No. 12](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-16-2014) <sup>(63cdbc27-a86f-481f-89cd-c993f2c70737)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-16-2014/Documents) <sup>(4 items, bc2f991f-31f5-48a5-912e-f90729c9c69c)</sup>
@@ -7028,6 +7087,7 @@
      * [High court issues qualified immunity rulings favorable to counties](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-16-2014/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, a3edf100-b677-4432-803e-cdbf28e69cdf)</sup>
 
 ## Subsite: [June 17, 2013 - Vol. 45 No. 12](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-17-2013) <sup>(a27b77fc-d76a-4b0c-b228-6babd5f0bafc)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-17-2013/Documents) <sup>(2 items, 1e4a1bf3-32dd-4c79-ba56-6a43a7ff993a)</sup>
@@ -7058,6 +7118,7 @@
      * [2013 NACo Election Vote State-by-State Allocations](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-17-2013/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo County News Article, faa8a885-31b0-4192-ac10-673b9ad2f2c0)</sup>
 
 ## Subsite: [June 18, 2012 - Vol. 44 No. 12](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-18-12) <sup>(3a1a5ad4-7f92-47d5-bbb4-e178b3c32af8)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-18-12/Documents) <sup>(1 items, 925bc5c9-e8c5-4454-9916-c05b0c27d983)</sup>
@@ -7091,6 +7152,7 @@
      * [Job Market/Classifieds](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-18-12/Pages/Forms/DispForm.aspx?ID=28) <sup>(NACo County News Article, e66118ca-a428-46c2-950f-1b0a267d3710)</sup>
 
 ## Subsite: [June 20, 2011 - Vol. 43 No. 12](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-20-11) <sup>(b8258848-490d-483d-8693-2df21f608983)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-20-11/Documents) <sup>(2 items, 09792aa6-d17c-47b9-9ed1-d3d3d7f772cb)</sup>
@@ -7116,6 +7178,7 @@
      * [Donald Larson, commissioner, Brookings County, S.D.](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-20-11/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo County News Article, a9bd16a0-4210-4fe0-9176-cfe498216ed3)</sup>
 
 ## Subsite: [June 2, 2014 - Vol. 26 No. 11](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-2-2014) <sup>(8b3d40d5-644d-44ac-89a1-8b87633caf77)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-2-2014/Documents) <sup>(2 items, 37b79934-03f2-45f6-b781-dab5e451e3d0)</sup>
@@ -7146,6 +7209,7 @@
      * [NACo on the Move](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-2-2014/Pages/Forms/DispForm.aspx?ID=21) <sup>(NACo County News Article, c1dbe999-3e83-4431-b643-377c4b20e641)</sup>
 
 ## Subsite: [June 30, 2014 - Vol. 45 No.13](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-30-2014) <sup>(6af82029-fb86-467a-94cc-49d3193a5528)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-30-2014/Pages) <sup>(22 items, 62379c98-4332-4ea1-bc3b-7358fbfaa932)</sup>
@@ -7173,6 +7237,7 @@
      * [Bryan Desloge](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-30-2014/Pages/Forms/DispForm.aspx?ID=28) <sup>(NACo County News Article, d9033590-4022-456d-afa1-d1cf80fc8f59)</sup>
 
 ## Subsite: [June 3, 2013 - Vol. 45 No. 11](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-3-2013) <sup>(266ea285-329e-44a9-a5c2-205eaad4352c)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-3-2013/Documents) <sup>(1 items, c62f7340-4dbd-4238-a2d6-d2e336037aa8)</sup>
@@ -7211,6 +7276,7 @@
      * [Board approves adding medical services to prescription program](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-3-2013/Pages/Forms/DispForm.aspx?ID=30) <sup>(NACo County News Article, 75377464-3faa-4396-84cf-54f0f9f2b84f)</sup>
 
 ## Subsite: [June 4, 2012 - Vol. 44 No. 11](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-4-12) <sup>(8270d209-259f-406c-9c55-b48683eaa0e5)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-4-12/Documents) <sup>(1 items, b77bc489-ae26-4858-820a-c519f429331b)</sup>
@@ -7237,6 +7303,7 @@
      * [Model Programs from the Nation's Counties](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-4-12/Pages/Forms/DispForm.aspx?ID=23) <sup>(NACo County News Article, 1a14910e-d336-41f1-a760-0c7d5c54159b)</sup>
 
 ## Subsite: [June 6, 2011 - Vol. 43 No. 11](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-6-11) <sup>(31243072-d5b4-4b99-8a52-6fef96dbedfc)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-6-11/Documents) <sup>(1 items, 7c3f703f-1f60-4a15-91c1-4fc6a8f8c0e2)</sup>
@@ -7265,6 +7332,7 @@
      * [What's In a Seal?](http://dev.admin.naco.org/newsroom/countynews/Current Issue/6-6-11/Pages/Forms/DispForm.aspx?ID=24) <sup>(NACo County News Article, 607d333e-c823-48cc-9724-2bb3941e9bd0)</sup>
 
 ## Subsite: [July 1, 2013 - Vol. 45 No. 13](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-1-2013) <sup>(216f9b10-f77d-4451-aea9-a224477f9e36)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-1-2013/Documents) <sup>(3 items, 7213f1fd-13e0-4ee6-8c3c-48c468b40877)</sup>
@@ -7305,6 +7373,7 @@
      * [Research News](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-1-2013/Pages/Forms/DispForm.aspx?ID=30) <sup>(NACo County News Article, 454e20d3-ecaa-4410-b8c2-d71f1a845bd1)</sup>
 
 ## Subsite: [July 14, 2014 - Vol. 45 No. 14](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-14-2014) <sup>(2140edd9-4941-497c-8275-d7d150e90856)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-14-2014/Documents) <sup>(2 items, de8118b1-0548-4b43-aba8-d69d01585a39)</sup>
@@ -7331,6 +7400,7 @@
      * [The Road Ahead for Counties: Transportation Challenges and Opportunities](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-14-2014/Pages/Forms/DispForm.aspx?ID=23) <sup>(NACo County News Article, e4b800eb-6e4e-4b66-bcda-0dd2101771f8)</sup>
 
 ## Subsite: [July 15, 2013 Vol. 45 No. 14](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-15-2013) <sup>(78bc9173-b396-4742-9636-bec9090c30cf)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-15-2013/Documents) <sup>(3 items, 5198ea5b-5a37-48a8-9469-6246322cc65a)</sup>
@@ -7363,6 +7433,7 @@
      * [Outgoing President Rodgers describes NACo experience](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-15-2013/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, c66ca64e-9fe9-4d99-9a83-90890944ea74)</sup>
 
 ## Subsite: [July 16, 2012 - Vol. 44 No. 14](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-16-12) <sup>(3f9ec3b9-4e26-45ea-aedb-d7ff2c0e1b79)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-16-12/Pages) <sup>(19 items, b027cb6c-62b2-4e80-a5e4-bfc0ba42ea7a)</sup>
@@ -7387,6 +7458,7 @@
      * [Balancing cost and safety when it comes to drunk drivers](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-16-12/Pages/Forms/DispForm.aspx?ID=23) <sup>(NACo County News Article, dc3ca7b6-91f2-40dd-9e62-2137afc49a20)</sup>
 
 ## Subsite: [July 18, 2011 - Vol. 43 No. 14](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-18-11) <sup>(b8fa8de7-6ff5-4f0c-b174-632516d56d3f)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-18-11/Documents) <sup>(1 items, 249c26cb-47a8-4d88-ac53-29a0afc7dc83)</sup>
@@ -7416,6 +7488,7 @@
      * [Research News](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-18-11/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, c54524c7-bb80-4f43-849f-1f2ce60d7226)</sup>
 
 ## Subsite: [July 19, 2010 - Vol. 42 No. 14](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-19-10) <sup>(66cadf0f-4b55-4b0c-a8ab-ec7324df68e6)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-19-10/Documents) <sup>(2 items, 446e5db4-21b2-4f6e-a2d3-bdc5925aca09)</sup>
@@ -7445,6 +7518,7 @@
      * [Valerie Brown reflects on her NACo presidency](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-19-10/Pages/Forms/DispForm.aspx?ID=22) <sup>(NACo County News Article, ed7f59a3-2380-4a66-aab5-6783dbf8f017)</sup>
 
 ## Subsite: [July 2, 2012  Vol. 44 No. 13](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-2-12) <sup>(0bc22210-e293-44bf-a874-819948acbb38)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-2-12/Documents) <sup>(1 items, 06a38712-1334-427f-9e4f-a79c156c9cef)</sup>
@@ -7473,6 +7547,7 @@
      * [Profiles In Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-2-12/Pages/Forms/DispForm.aspx?ID=23) <sup>(NACo County News Article, 7b56fc6f-bd55-45b5-b9c5-b0e00e661615)</sup>
 
 ## Subsite: [July 4, 2011 Vol. 43 No. 13](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-4-11) <sup>(31581e47-13e8-4c24-a696-ae843d1c1ebd)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-4-11/Documents) <sup>(1 items, 6d467402-b3da-42cd-8d41-1f12894bf826)</sup>
@@ -7502,6 +7577,7 @@
      * [NACo on the Move](http://dev.admin.naco.org/newsroom/countynews/Current Issue/7-4-11/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, dd83f825-a404-434c-a223-31f49149bd98)</sup>
 
 ## Subsite: [August 25, 2014 - Vol. 46 No. 16](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-25-2014) <sup>(9d6993a7-7932-4350-ba49-67fbb65e195b)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-25-2014/Documents) <sup>(2 items, 44ac0943-c363-488b-a86e-e6d1b3a48dc9)</sup>
@@ -7531,6 +7607,7 @@
      * [Program provides youths with mental first aid](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-25-2014/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo County News Article, 7904b800-9bbb-4946-9eff-98aceede96a6)</sup>
 
 ## Subsite: [August 26, 2013 - Vol. 45 No. 16](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-26-2013) <sup>(62ad76cb-2c24-425e-a94f-5a46a07a3c5a)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-26-2013/Documents) <sup>(2 items, befa9423-b409-4c13-85bd-f1834dffb376)</sup>
@@ -7567,6 +7644,7 @@
      * [Congress faces uphill climb after recess](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-26-2013/Pages/Forms/DispForm.aspx?ID=29) <sup>(NACo County News Article, 7159c641-d6cb-484a-9ca5-75585ced6dde)</sup>
 
 ## Subsite: [August 27, 2012 - Vol. 44 No. 16](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-27-12) <sup>(e482a1b9-2fef-47b9-8c43-fa3b364d4663)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-27-12/Documents) <sup>(1 items, 082f3270-42ec-49db-aa74-efbfbfb768bf)</sup>
@@ -7594,6 +7672,7 @@
      * [What's In a Seal?](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-27-12/Pages/Forms/DispForm.aspx?ID=23) <sup>(NACo County News Article, 0a25f7ba-4b29-4421-ab28-1518b089045f)</sup>
 
 ## Subsite: [August 29, 2011 - Vol. 43 No. 16](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-29-11) <sup>(96c21b68-56a2-4482-8891-bad3693ce9eb)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-29-11/Documents) <sup>(1 items, 9949933c-8add-4912-87b9-88deab60912a)</sup>
@@ -7627,6 +7706,7 @@
      * [Profiles in Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-29-11/Pages/Forms/DispForm.aspx?ID=28) <sup>(NACo County News Article, d2fc91e6-3da3-4574-a9db-f287b81576fb)</sup>
 
 ## Subsite: [Aug. 4, 2014 - Vol. 46 No. 15](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-4-2014) <sup>(6a5eed01-ec2a-428e-9d33-a592283b40c9)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-4-2014/Documents) <sup>(3 items, 9cb2a6bc-4755-4288-a7cb-e2437dea78c4)</sup>
@@ -7657,6 +7737,7 @@
      * [News From the Nations Counties](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-4-2014/Pages/Forms/DispForm.aspx?ID=23) <sup>(NACo County News Article, ba93b86b-efcc-4a49-8c51-bbf21a73ab6c)</sup>
 
 ## Subsite: [August 5, 2013 - Vol. 45 No. 15](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-5-2013) <sup>(5289e15a-36d1-41e8-874f-43aa6e3e7e52)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-5-2013/Documents) <sup>(2 items, 93845235-d288-4d00-958e-cb1e2790e9fb)</sup>
@@ -7685,6 +7766,7 @@
      * [Profiles in Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-5-2013/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, 4da3be2b-b610-4669-95d7-89c810e29c68)</sup>
 
 ## Subsite: [August 6, 2012 - Vol. 44, No. 15](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-6-12) <sup>(ad823f14-5bd3-4459-96f4-0cc01b97037d)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-6-12/Documents) <sup>(4 items, dcb23d83-8561-4ae1-ad36-63d60c2313ae)</sup>
@@ -7723,6 +7805,7 @@
      * [Enterprise content management system clears way](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-6-12/Pages/Forms/DispForm.aspx?ID=31) <sup>(NACo County News Article, efffed59-2738-4d35-a6d4-3d1a15981983)</sup>
 
 ## Subsite: [August 8, 2011 - Vol. 43 No.15](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-8-11) <sup>(d0e3a34a-0eec-44b8-b38e-6a227940d5ea)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-8-11/Documents) <sup>(2 items, 086b193e-18a9-4b22-a5cb-1afb454591b7)</sup>
@@ -7753,6 +7836,7 @@
      * [2011 Conference Photo Spread](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-8-11/Pages/Forms/DispForm.aspx?ID=26) <sup>(NACo County News Article, 542f29e6-ca0d-46e8-92a8-be25613d87da)</sup>
 
 ## Subsite: [August 9, 2010 Vol. 42 No. 15](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-9-10) <sup>(f9960201-87b5-43e3-afd0-c04c1f105d85)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-9-10/Documents) <sup>(1 items, bee77b68-15f0-4f30-acc0-c6580f84a78e)</sup>
@@ -7783,6 +7867,7 @@
      * [Model Programs form the Nation's Counties](http://dev.admin.naco.org/newsroom/countynews/Current Issue/8-9-10/Pages/Forms/DispForm.aspx?ID=27) <sup>(NACo County News Article, e0258748-938b-4d5b-9ea4-4e2a8f2cbf7e)</sup>
 
 ## Subsite: [Sept. 10, 2012 - Vol. 44 No. 17](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-10-2012) <sup>(c2af43b6-41e2-41e8-a78f-cb219a93102e)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-10-2012/Documents) <sup>(1 items, 102b1d2d-f6ce-430c-888a-6a18d4962599)</sup>
@@ -7813,6 +7898,7 @@
      * [King County seeks input on project management practices](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-10-2012/Pages/Forms/DispForm.aspx?ID=25) <sup>(NACo County News Article, 777a3909-fe33-43ff-9b34-c7ce8a8e2f7a)</sup>
 
 ## Subsite: [Sept. 12, 2011  Vol. 43 No. 17](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-12-11) <sup>(b3b893f9-09d0-4696-bd39-1950381e120d)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-12-11/Documents) <sup>(2 items, 3848dd61-2fe0-46c0-b9a3-6a942c9dd3c1)</sup>
@@ -7840,6 +7926,7 @@
      * [The H.R. Doctor Is In](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-12-11/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo County News Article, 9b661efc-0f9a-4002-a529-ba0517bc1201)</sup>
 
 ## Subsite: [Sept. 20, 2010 - Vol. 42 No. 17](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-20-10) <sup>(bad545c3-1580-42af-b21c-fedfad5ef661)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-20-10/Documents) <sup>(1 items, f60fe461-b404-49b3-9180-cb3d06a61e21)</sup>
@@ -7867,6 +7954,7 @@
      * [FSC News](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-20-10/Pages/Forms/DispForm.aspx?ID=21) <sup>(NACo County News Article, 60425d12-9b57-42d3-9269-36ebd2e44021)</sup>
 
 ## Subsite: [Sept. 22, 2014 - Vol. 46 No. 18](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-22-2014) <sup>(cf9f54ba-7702-4546-90a9-7c44dccf33a5)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-22-2014/Documents) <sup>(1 items, a2587790-1ea3-4171-ab15-055bdb1bda5d)</sup>
@@ -7897,6 +7985,7 @@
      * [NACo on the Move](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-22-2014/Pages/Forms/DispForm.aspx?ID=24) <sup>(NACo County News Article, d88886e2-8d26-4e1e-acbb-1befa55865c4)</sup>
 
 ## Subsite: [Sept. 23, 2013 - Vol. 45  No. 18](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-23-2013) <sup>(dd60c8a6-faec-487c-b63d-26f5074ab682)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-23-2013/Pages) <sup>(27 items, 45a2b709-b041-4e5d-a3aa-57b28a246e40)</sup>
@@ -7929,6 +8018,7 @@
      * [Profiles In Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-23-2013/Pages/Forms/DispForm.aspx?ID=27) <sup>(NACo County News Article, 3059f627-7e90-4daa-8758-1210639c1e95)</sup>
 
 ## Subsite: [Sept. 24, 2012 - Vol. 44 No. 18](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-24-2012) <sup>(6bad462a-bede-4c90-a4aa-48a6bf3b415c)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-24-2012/Documents) <sup>(2 items, d65e3aaf-fc84-42f7-835e-1d5f15cc1e5e)</sup>
@@ -7956,6 +8046,7 @@
      * [NACo on the Move](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-24-2012/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo County News Article, 3f4e1288-4305-4c9b-a93a-0f921094f1fb)</sup>
 
 ## Subsite: [Sept. 26, 2011 Vol. 43 No. 18](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-26-11) <sup>(73803349-9b6d-4127-98d6-5be7fe2c1ac5)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-26-11/Documents) <sup>(1 items, cab56fac-2ab0-4371-95df-1407f3d68723)</sup>
@@ -7985,6 +8076,7 @@
      * [Financial Services News](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-26-11/Pages/Forms/DispForm.aspx?ID=24) <sup>(NACo County News Article, 0c2bcf2d-f009-48a4-b8ee-e60110f19453)</sup>
 
 ## Subsite: [Sept. 6, 2010 - Vol. 42 No. 16](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-6-10) <sup>(a0ee5f38-34ff-4ac0-bdcc-2d357a14150e)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-6-10/Documents) <sup>(1 items, ad7929ab-a776-4bc2-96e9-3b797c158a0d)</sup>
@@ -8019,6 +8111,7 @@
      * [Model Programs form the Nation's Counties](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-6-10/Pages/Forms/DispForm.aspx?ID=29) <sup>(NACo County News Article, 3e916b56-6b72-47fb-9803-1909749c1170)</sup>
 
 ## Subsite: [Sept. 8, 2014 - Vol. 46 No.17](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-8-2014) <sup>(cee0de52-216f-46a6-b9a6-aa222f890dd4)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-8-2014/Documents) <sup>(2 items, 58325613-234a-4c0e-a9a4-2663243d3b6c)</sup>
@@ -8046,6 +8139,7 @@
      * [Iowa supervisor saves assessor from gunman in courthouse](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-8-2014/Pages/Forms/DispForm.aspx?ID=18) <sup>(NACo County News Article, 74db75d6-f2b3-49e9-ad8d-af123d24899d)</sup>
 
 ## Subsite: [Sept. 9, 2013 - Vol. 45 No. 17](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-9-2013) <sup>(579d0e2f-f906-4d22-ab74-625d3a8ed03f)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-9-2013/Documents) <sup>(1 items, cdc037fa-f640-4031-b004-9cd0bde33b64)</sup>
@@ -8075,6 +8169,7 @@
      * [Profiles in Service](http://dev.admin.naco.org/newsroom/countynews/Current Issue/9-9-2013/Pages/Forms/DispForm.aspx?ID=21) <sup>(NACo County News Article, a2601046-a976-491b-9af9-062bed1adf4d)</sup>
 
 ## Subsite: [June 21, 2010 County News](http://dev.admin.naco.org/newsroom/countynews/Current Issue/countynews6-21-10) <sup>(d1bf1211-a463-45f7-acc8-dd53d8304315)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/Current Issue/countynews6-21-10/Documents) <sup>(1 items, 5b2f9566-3d7a-4436-a8b8-5d0c16e4ed41)</sup>
@@ -8099,6 +8194,7 @@
      * [Verizon offers to partner with rural wireless companies](http://dev.admin.naco.org/newsroom/countynews/Current Issue/countynews6-21-10/Pages/Forms/DispForm.aspx?ID=21) <sup>(NACo County News Article, 104598e5-5f94-483f-b880-c3b43afa07b2)</sup>
 
 ## Subsite: [July 5, 2010 Vol. 42 No. 13](http://dev.admin.naco.org/newsroom/countynews/Current Issue/July5,2010countynews) <sup>(afcf0ead-e504-4923-8cc5-91ced7f64e46)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/July5,2010countynews/Pages) <sup>(18 items, 168685b3-5de7-4a42-a824-3cd7cc4e74b5)</sup>
@@ -8122,6 +8218,7 @@
      * [EPA pesticides permit program moves forward](http://dev.admin.naco.org/newsroom/countynews/Current Issue/July5,2010countynews/Pages/Forms/DispForm.aspx?ID=20) <sup>(NACo County News Article, 6964085c-608f-4b35-a54b-03816cbd3285)</sup>
 
 ## Subsite: [Templates](http://dev.admin.naco.org/newsroom/countynews/Current Issue/template) <sup>(fcc0585a-b758-4b4b-95ad-2ab9427a4916)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/countynews/Current Issue/template/Pages) <sup>(4 items, eaa1d4f0-833c-47f8-aa8d-95d780f7e3c4)</sup>
@@ -8131,6 +8228,7 @@
      * [test right](http://dev.admin.naco.org/newsroom/countynews/Current Issue/template/Pages/Forms/DispForm.aspx?ID=5) <sup>(NACo County News Article, e57f78e2-c359-4a80-8446-39ac5ddb88a5)</sup>
 
 ## Subsite: [County News Editorial and Advertising Information](http://dev.admin.naco.org/newsroom/countynews/editorial) <sup>(279c6602-ec2c-421d-bbc0-9dc52638f5e4)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/newsroom/countynews/editorial/Documents) <sup>(2 items, 3b6a6f60-3357-44b4-a352-7a81ba938d6d)</sup>
@@ -8145,6 +8243,7 @@
      * [Tell Your County's Story](http://dev.admin.naco.org/newsroom/countynews/editorial/Pages/Forms/DispForm.aspx?ID=16) <sup>(NACo Article Page, ea9e2434-b5a9-407c-885b-aa45b0215343)</sup>
 
 ## Subsite: [Publications](http://dev.admin.naco.org/newsroom/pubs) <sup>(7ef55b64-07cc-41c7-8c08-83a923a8f9b7)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/newsroom/pubs/Pages) <sup>(6 items, f42b4665-c831-437b-83d0-4e21e21b52d0)</sup>
@@ -8306,6 +8405,7 @@
      * [Waste Energy Recovery: Renewable Energy from County Landfills](http://dev.admin.naco.org/newsroom/pubs/Documents/WasteEnergy_FINAL.pdf) <sup>(NACo Publication, 8a9ea5c9-924e-4148-ae4b-2244dcee3fa2)</sup>
 
 ## Subsite: [County Solutions](http://dev.admin.naco.org/programs) <sup>(711fd30d-030f-4954-9a18-b9d6ba2b4a2b)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/programs/Documents) <sup>(2 items, 737f3d46-7da0-4826-a2de-4a7430fe4024)</sup>
@@ -8325,6 +8425,7 @@
      * [County Solutions](http://dev.admin.naco.org/programs/Pages/Forms/DispForm.aspx?ID=2) <sup>(NACo Welcome Page, 036db50b-173e-458e-8b23-b4184bc227dd)</sup>
 
 ## Subsite: [Practice Areas](http://dev.admin.naco.org/programs/csd) <sup>(c20f0132-0d2e-4a0a-9dc3-53685bc21316)</sup>
+
 ### Lists
 
 * [2015 Innovation Challenge Tabs](http://dev.admin.naco.org/programs/csd/Lists/2015 Innovation Challenge Tabs) <sup>(5 items, ca8196b8-422b-4e47-a5de-633cf921c489)</sup>
@@ -11356,7 +11457,7 @@
      * [Mr. Don Edwards - Alameda County, CA](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2011%20Presentations/Don%20Edwards%20-%20Alameda%20County,%20CA.pdf) <sup>(NACo Document, e220a8d1-79b8-45fe-bee7-0324e99c07e8)</sup>
      * [Bill Burgess - NSGIC Activities Report.pdf](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2012%20Presentations/Bill%20Burgess%20-%20NSGIC%20Activities%20Report.pdf) <sup>(NACo Document, 5af2b849-75b3-48a6-aced-539c03a461e1)</sup>
      * [Mr. Jack Clegg - Johnson County, KS](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2011%20Presentations/Jack%20Clegg%20-%20Johnson%20County,%20KS.pdf) <sup>(NACo Document, c11b4dc4-ab9c-4d77-ba99-76e016c2b88d)</sup>
-     * [Peter O’Rourke - Building Geospatial Preparedness Nationwide.pdf](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2012%20Presentations/Peter%20O’Rourke%20-%20Building%20Geospatial%20Preparedness%20Nationwide.pdf) <sup>(NACo Document, c64d120b-6554-478f-8002-624684b12251)</sup>
+     * [Peter O’Rourke - Building Geospatial Preparedness Nationwide.pdf](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2012%20Presentations/Peter%20ORourkeBuildingGeospatialPreparedness%20Nationwide.pdf) <sup>(NACo Document, c64d120b-6554-478f-8002-624684b12251)</sup>
      * [Mr. Jon Walton - San Francisco, CA](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2011%20Presentations/Jon%20Walton%20-%20San%20Francisco,%20CA.pdf) <sup>(NACo Document, db15817f-5c89-4ef3-9ecb-61abca94e4f0)</sup>
      * [Richard Leadbeater - Gov 2.0 - Envisioning the Future of Delivering Government Services.pdf](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2012%20Presentations/Richard%20Leadbeater%20-%20Gov%202.0%20-%20Envisioning%20the%20Future%20of%20Delivering%20Government%20Services.pdf) <sup>(NACo Document, 817f4b14-61d2-4a8d-baed-bd277897432e)</sup>
      * [Tom Conry - National Capital Region Geospatial Data Exchange.pdf](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2012%20Presentations/Tom%20Conry%20-%20National%20Capital%20Region%20Geospatial%20Data%20Exchange.pdf) <sup>(NACo Document, 61683320-cf93-40b2-866a-ac848f5ec7a0)</sup>
@@ -11384,7 +11485,7 @@
      * [March 4, 2011 CIO Forum Agenda](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2011%20Presentations/CIO%20Forum%20Agenda.pdf) <sup>(Document, a0e7c763-34e2-4730-925c-b3f1258a3143)</sup>
      * [March 5, 2011 Technology Summit - Steve Pociask - The Economy and the Benefits of IT](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2011%20Presentations/Technology%20Summit%20-%20Steve%20Pociask%20-%20The%20Economy%20and%20Benefits%20of%20IT.pdf) <sup>(Document, 853ac55c-4630-4301-b6b2-1736d2ab74f8)</sup>
      * [March 5, 2011 Technology Summit Agenda](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2011%20Presentations/Technology%20Summit%20Agenda.pdf) <sup>(Document, ad9a9bbe-0b27-4f96-976f-144de2b1e23e)</sup>
-     * [Lori Cary-Kothera - NOAA’s Digital Coast - Data and Tools You Can Use.pdf](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2012%20Presentations/Lori%20Cary-Kothera%20-%20NOAA’s%20Digital%20Coast%20-%20Data%20and%20Tools%20You%20Can%20Use.pdf) <sup>(NACo Document, b6ef6a77-08eb-4717-8da0-b1956c3b7620)</sup>
+     * [Lori Cary-Kothera - NOAA’s Digital Coast - Data and Tools You Can Use.pdf](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2012%20Presentations/Lori%20Cary-Kothera%20-%20NOAAs%20Digital%20Coast%20-%20Data%20and%20Tools%20You%20Can%20Use.pdf) <sup>(NACo Document, b6ef6a77-08eb-4717-8da0-b1956c3b7620)</sup>
      * [Phil Bertolini - NACo Application Store.pdf](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2012%20Presentations/Phil%20Bertolini%20-%20NACo%20Application%20Store.pdf) <sup>(NACo Document, eb2975ce-0027-473d-a928-2e0a855cb3a4)</sup>
      * [Richard Leadbeater - Citizen Engagement.pdf](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2012%20Presentations/Richard%20Leadbeater%20-%20Citizen%20Engagement.pdf) <sup>(NACo Document, 0e20be70-d0b4-4212-9873-cfed20fb96e8)</sup>
      * [Tom Conry - Northern Virginia Regional Routable Centerline Project.pdf](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2012%20Presentations/Tom%20Conry%20-%20Northern%20Virginia%20Regional%20Routable%20Centerline%20Project.pdf) <sup>(NACo Document, 6ce49ff5-077a-42f2-985c-bdefbccc41d7)</sup>
@@ -11445,6 +11546,7 @@
      * [Counties Open Government Partnership Proposal - Hans Riemer and Sonny Segal.pdf](http://dev.admin.naco.org/programs/csd/Technology%20Documents/2013%20Leg%20-%20IT%20Committee/Counties%20Open%20Government%20Partnership%20Proposal%20-%20Hans%20Riemer%20and%20Sonny%20Segal.pdf) <sup>(Document, ffc19282-1654-4b09-8a22-033895e9e820)</sup>
 
 ## Subsite: [County Solutions Blog](http://dev.admin.naco.org/programs/CSI) <sup>(6e398872-21fb-41d1-b6c1-cb4b50751509)</sup>
+
 ### Lists
 
 * [Categories](http://dev.admin.naco.org/programs/CSI/Lists/Categories) <sup>(19 items, a199a5c1-7b91-41bf-a308-a912c3259e2d)</sup>
@@ -11681,12 +11783,14 @@
      * [Managing Integrity and Civility Leadership Series](http://dev.admin.naco.org/programs/CSI/Lists/Posts/ViewPost.aspx?ID=241) <sup>(Post, d54d3a61-3347-4125-a517-3ff2a97e600d)</sup>
 
 ## Subsite: [Find a Grant](http://dev.admin.naco.org/programs/grants) <sup>(082fdf6a-547b-4eee-9c48-dfc4f0e4dac7)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/programs/grants/Pages) <sup>(1 items, ebe4ca18-dc95-4701-8ecc-e6da82c78395)</sup>
      * [Find a Grant](http://dev.admin.naco.org/programs/grants/Pages/Forms/DispForm.aspx?ID=2) <sup>(NACo Article Page, 5b7400f8-3b7a-4ab2-b1c4-742ea38ff787)</sup>
 
 ## Subsite: [Hire Quality Staff](http://dev.admin.naco.org/programs/jobsonline) <sup>(0f841247-bb73-4a60-a01e-7d0cc02068c2)</sup>
+
 ### Lists
 
 * [Pages](http://dev.admin.naco.org/programs/jobsonline/Pages) <sup>(27 items, 2ea1250b-739e-49f0-b410-8d90e42f54b6)</sup>
@@ -11719,6 +11823,7 @@
      * [Executive Director](http://dev.admin.naco.org/programs/jobsonline/Pages/Forms/DispForm.aspx?ID=1097) <sup>(NACo Jobs Page, c6fb4ad3-5408-41ba-8bcb-fa9f63e048af)</sup>
 
 ## Subsite: [Awards  Programs](http://dev.admin.naco.org/programs/recognition) <sup>(c11e2dbb-2013-4f5c-9434-a010312dc35a)</sup>
+
 ### Lists
 
 * [Award Documents](http://dev.admin.naco.org/programs/recognition/Documents) <sup>(6 items, f5434b3f-4fb3-49dd-8838-b67becd6ddbf)</sup>
@@ -11741,6 +11846,7 @@
      * [Arts and Culture Form](http://dev.admin.naco.org/programs/recognition/Pages/Forms/DispForm.aspx?ID=27) <sup>(NACo Welcome Page, 74d8c5e3-ef3e-4bca-b84d-301fb294315a)</sup>
 
 ## Subsite: [Cost-Saving Tools](http://dev.admin.naco.org/programs/residents) <sup>(4e5f8889-a353-4c83-b11d-761caf8cbbd3)</sup>
+
 ### Lists
 
 * [NACo Documents](http://dev.admin.naco.org/programs/residents/Documents) <sup>(113 items, 93aeae0f-4dee-4c7e-a5a7-4a2c1eb83ca6)</sup>
@@ -11872,6 +11978,7 @@
      * [NACo Prescription & Health Discount Program](http://dev.admin.naco.org/programs/residents/Pages/Forms/DispForm.aspx?ID=194) <sup>(NACo Article Page, cd95a04e-8728-47b3-8e37-080c007685fd)</sup>
 
 ## Subsite: [Research Center](http://dev.admin.naco.org/research) <sup>(f0fb17d3-c80e-4646-84a5-fbbb592667f9)</sup>
+
 ### Lists
 
 * [Documents](http://dev.admin.naco.org/research/Documents) <sup>(63 items, fd651eb8-496e-4370-a534-e1fee86724f1)</sup>
@@ -11963,6 +12070,7 @@
      * [Publications](http://dev.admin.naco.org/research/Lists/Surveys and Publications/DispForm.aspx?ID=2) <sup>(Item, cadea406-142c-4f57-ad5b-af9ef8b88960)</sup>
 
 ## Subsite: [County Research Connections](http://dev.admin.naco.org/research/CRC) <sup>(eaf933a0-2c50-4bbc-bd4c-b10b4c8f2866)</sup>
+
 ### Lists
 
 * [Categories](http://dev.admin.naco.org/research/CRC/Lists/Categories) <sup>(14 items, c0f9dfcf-e9bd-4fe8-b1be-fd53050af856)</sup>
@@ -12019,10 +12127,9 @@
 
 __Total site collection lists:__ 378
 
-__Total site collection list items:__ 10782
+__Total site collection list items:__ 10732
 
-__Unique site collection content types:__ NACo Welcome Page <sup>(59)</sup>, Audio <sup>(7)</sup>, Page <sup>(2)</sup>, County News Issue Document <sup>(129)</sup>, Event <sup>(139)</sup>, NACo Document Issue Area <sup>(597)</sup>, Post <sup>(1171)</sup>, NACo Document CSD Tags <sup>(600)</sup>, NACo News Release Document <sup>(284)</sup>, NACo Publication <sup>(148)</sup>, Welcome Page <sup>(2)</sup>, [blank] <sup>(49)</sup>, NACo CSD Content Type <sup>(328)</sup>, NACo Article Page <sup>(519)</sup>, NACo Newsletter <sup>(25)</sup>, Item <sup>(1770)</sup>, NACo Jobs Page <sup>(26)</sup>, NACo Document <sup>(1111)</sup>, Document <sup>(1406)</sup>, NACo County News Article <sup>(2410)</sup>
+__Unique site collection content types:__ NACo Welcome Page <sup>(59)</sup>, Audio <sup>(7)</sup>, Page <sup>(2)</sup>, County News Issue Document <sup>(129)</sup>, Event <sup>(139)</sup>, NACo Document Issue Area <sup>(597)</sup>, Post <sup>(1171)</sup>, NACo Document CSD Tags <sup>(600)</sup>, NACo News Release Document <sup>(284)</sup>, NACo Publication <sup>(148)</sup>, Welcome Page <sup>(2)</sup>, [blank] <sup>(49)</sup>, NACo CSD Content Type <sup>(328)</sup>, NACo Article Page <sup>(519)</sup>, NACo Newsletter <sup>(25)</sup>, Item <sup>(1770)</sup>, NACo Jobs Page <sup>(26)</sup>, NACo Document <sup>(1110)</sup>, Document <sup>(1357)</sup>, NACo County News Article <sup>(2410)</sup>
 
-__Unique file types:__ .aspx <sup>(3026)</sup>, .mp4 <sup>(6)</sup>, .xls <sup>(1)</sup>, .docx <sup>(76)</sup>, .flv <sup>(1)</sup>, .pdf <sup>(4423)</sup>, .pps <sup>(1)</sup>, .ppt <sup>(22)</sup>, .odp <sup>(1)</sup>, .mp3 <sup>(18)</sup>, .pptx <sup>(43)</sup>, .wmv <sup>(2)</sup>, .doc <sup>(30)</sup>
-
+__Unique file types:__ .aspx <sup>(3026)</sup>, .mp4 <sup>(6)</sup>, .xls <sup>(1)</sup>, .docx <sup>(75)</sup>, .flv <sup>(1)</sup>, .pdf <sup>(4374)</sup>, .pps <sup>(1)</sup>, .ppt <sup>(22)</sup>, .odp <sup>(1)</sup>, .mp3 <sup>(18)</sup>, .pptx <sup>(43)</sup>, .wmv <sup>(2)</sup>, .doc <sup>(30)</sup>
 
