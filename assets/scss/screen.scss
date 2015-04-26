@@ -74,21 +74,18 @@ main {
 
 footer {
   @extend %FontDefault;
-  background: lighten($color-black, 20);
+  @include background-image(linear-gradient(lighten($color-black, 15), $color-black));
   color: $color-white;
-  padding: ($margin * .50) 0;
+  padding: ($margin * .50) 0 ($margin * 6) 0;
 
   * {
     color: $color-white;
   }
 }
 
-h1, h2, h3, h4 {
-  @extend %FontHeader;
-}
+h1, h2, h3, h4 { @extend %FontHeader; }
 
-p { margin-bottom: ($margin * .50); }
-
+p { margin-bottom: ($margin * .50);  }
 p:last-child { margin-bottom: 0; }
 
 i, em, cite { font-style: italic; }
