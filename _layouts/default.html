@@ -2,10 +2,11 @@
   <div class="container">
     <div class="row">
       <article class="col-md-8">
+        <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
         {{ content }}
       </article>
       <aside class="col-md-4">
-        Sidebar content goes here.
+        <p>Sidebar content goes here.</p>
 
       </aside>
     </div>
