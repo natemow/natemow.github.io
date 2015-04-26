@@ -10,6 +10,7 @@ header { background: #676767; color: white; padding: 15px 0; }
 header * { color: white; }
 
 main { background: white; border-top: solid 3px #343434; border-bottom: solid 3px #343434; padding: 15px 0; }
+main aside { display: none; }
 main aside:after { content: ""; display: table; clear: both; }
 
 footer { background: #676767; color: white; padding: 15px 0; }

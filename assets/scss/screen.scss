@@ -68,6 +68,7 @@ main {
 
   aside {
     @include clearfix();
+    display: none;
   }
 }
 
