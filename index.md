@@ -1,9 +1,8 @@
 ---
+title: Hello world.
 ---
 
 
-
-## Hello world.
 
 Here is some intro copy. Here is some intro copy. Here is some intro copy. Here is some intro copy. Here is some intro copy.
 
