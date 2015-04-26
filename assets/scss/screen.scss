@@ -54,9 +54,7 @@ header {
   color: $color-white;
   padding: ($margin * .50) 0;
 
-  * {
-    color: $color-white;
-  }
+  * { color: $color-white; }
 }
 
 main {
@@ -78,9 +76,7 @@ footer {
   color: $color-white;
   padding: ($margin * .50) 0 ($margin * 6) 0;
 
-  * {
-    color: $color-white;
-  }
+  * { color: $color-white; }
 }
 
 h1, h2, h3, h4 { @extend %FontHeader; }
