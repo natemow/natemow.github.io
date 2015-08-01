@@ -1,5 +1,6 @@
 # Build cruft.
-.sass-cache
+assets/.sass-cache
 
 # IDE cruft.
+nbproject
 
