@@ -1,26 +1,47 @@
 <!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="author" content="{{ site.author }}">
-    <meta name="description" content="{{ site.description }}">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/screen.css">
-    <!-- HTML5 element support for IE6-8 -->
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
+<html lang="en" class="default mono">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{{ site.title }}</title>
+<link href="/assets/css/styles.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+  <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!--
+             _                                                 _          _   _                          _
+            | |                                               | |        | | | |                        | |
+ _ __   __ _| |_ ___ _ __ ___   _____      __  _ __ ___   __ _| | _____  | |_| |__   ___    ___ ___   __| | ___ ____
+| '_ \ / _` | __/ _ \ '_ ` _ \ / _ \ \ /\ / / | '_ ` _ \ / _` | |/ / _ \ | __| '_ \ / _ \  / __/ _ \ / _` |/ _ \_  /
+| | | | (_| | ||  __/ | | | | | (_) \ V  V /  | | | | | | (_| |   <  __/ | |_| | | |  __/ | (_| (_) | (_| |  __// /
+|_| |_|\__,_|\__\___|_| |_| |_|\___/ \_/\_/   |_| |_| |_|\__,_|_|\_\___|  \__|_| |_|\___|  \___\___/ \__,_|\___/___|
+-->
+</head>
 <body>
-<header>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <a href="/">{{ site.title }}</a>
+  <header id="header">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-7 col-md-offset-1 col-lg-7 col-lg-offset-1">
+          <a href="#header" class="logo" rel="home">{{ site.title }}</a>
+          <p class="tagline">53 6f 6e 6f 20 69 6c 20 73 63 68 65 72 6e 6f 2e 20 53 6f 6e 6f 20 6c 61 20 70 65 73 74 69 6c 65 6e 7a 61 2e 20 53 6f 6e 6f 20 6c 61 20 53 61 6e 74 61 20 53 65 64 65 2e 20 53 6f 6e 6f 20 6c 65 20 66 65 63 69 20 64 61 6c 20 53 69 67 6e 6f 72 65 2e  </p>
+          <div class="theme hidden-xs">
+            theme --color=[<a href="#" class="default">black</a>|<a href="#" class="invert">white</a>|<a href="#" class="seizure">seizure</a>] --font=[<a href="#" class="mono">mono</a>|<a href="#" class="sans">sans</a>]
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <div class="messages">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-7 col-md-offset-1 col-lg-7 col-lg-offset-1">
+          <p class="seizure">www \m/ solo!!!</p>
+        </div>
       </div>
     </div>
   </div>
-</header>
+  <div class="container" id="page">
+    <main class="row">
+      <section class="col-sm-12 col-md-7 col-md-offset-1 col-lg-7 col-lg-offset-1">

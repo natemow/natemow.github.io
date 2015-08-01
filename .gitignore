@@ -1,9 +1,5 @@
-.DS_Store
-.idea*
+# Build cruft.
 .sass-cache
 
-nbproject
-xhprof
-docroot/FirePHPCore
+# IDE cruft.
 
-template.html

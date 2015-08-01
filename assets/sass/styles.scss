@@ -1,0 +1,222 @@
+@import url("//fonts.googleapis.com/css?family=Ubuntu+Mono:400,700");
+
+@import "bootstrap-compass";
+@import "bootstrap-variables";
+@import "bootstrap";
+
+@import "compass/typography/text/replacement";
+@import "compass/css3/images";
+@import "compass/css3/opacity";
+@import "compass/css3/transition";
+
+@import "mixins";
+
+$header-height: ($line-height-computed * 2) + 1;
+
+// Generate sprites
+@import "sprites/*.png"; /**/
+@include all-sprites-sprites;
+
+pre {
+  height: 200px;
+  width: 1170px; }
+h1, h2, h3, h4 {
+  clear: both;
+  margin: 0;
+  text-transform: uppercase; }
+hr {
+  clear: both;
+  width: 100%;
+  margin: ($line-height-computed / 2) 0; }
+ul, ol {
+  list-style: none outside none;
+  margin-left: 0;
+  padding: 0;
+
+  &.main-menu {
+    text-transform: uppercase; }
+  li {
+    @include clearfix();
+
+    .bullet {
+      display: block;
+      padding: 0 8px; }
+  }
+
+  &.spaced {
+    li {
+      .bullet {
+        margin: 0 0 ($line-height-computed / 2) 0; }
+      &:last-child .bullet {
+        margin: 0 0 0 0; }
+    }
+  }
+}
+
+.hidden {
+  @include element-invisible(); }
+
+a.popover-source { }
+.popover-target { @include element-invisible(); }
+.popover-content { overflow: hidden; }
+
+
+html {
+  @include background-image(linear-gradient(right bottom, black 60%, $gray-darker));
+
+  &.invert {
+    -webkit-filter: invert(100%);
+
+    .no-invert * {
+      -webkit-filter: invert(100%); }
+  }
+  &.mono body {
+    font-family: $font-family-monospace; }
+  &.sans body {
+    font-family: $font-family-sans-serif;
+
+    h2 span {
+      @include hide-text(); }
+  }
+
+  body {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAFUlEQVQIW2NkwAEYyZL4j00X6UYBAElcAQYPXd+JAAAAAElFTkSuQmCC) repeat 0 0;
+    color: $gray-lighter;
+
+    #page.container {
+      overflow: hidden;
+      position: relative; }
+  }
+}
+
+#header {
+  height: $header-height;
+  padding: ($line-height-computed / 2) 0;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+
+  a.logo {
+    display: block;
+    @include hide-text;
+    @extend .sprites-natemow;
+    height: sprites-sprite-height(natemow);
+    width: sprites-sprite-width(natemow);
+    margin: -10px 0 0 0;
+    position: absolute;
+    z-index: 2; }
+
+  p.tagline {
+    @include opacity(.15);
+    margin: ((-$line-height-computed / 2) + 1) 0 0 0;
+    position: absolute;
+    z-index: 1; }
+
+  .theme {
+    margin: ($line-height-computed / 2) ($grid-gutter-width / 2) 0 0;
+    position: absolute;
+    right: 0;
+    z-index: 2;
+    a.active {
+      color: #8AE234; }
+  }
+}
+
+.messages {
+  color: white;
+  display: none;
+  margin: $header-height 0 0 0;
+  padding: ($line-height-computed / 2) 0;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+
+  *:last-child {
+    margin-bottom: 0; }
+
+  .seizure {
+    font-size: ($font-size-base * 3);
+    text-align: center; }
+}
+
+main {
+  margin: $header-height 0 0 0;
+
+  > section {
+    &:first-child {
+      border-left: solid 1px $gray-darker;
+      border-right: solid 0px #200;
+
+      h2 {
+        span {
+          clear: both;
+          display: block; }
+      }
+    }
+  }
+
+  ul.articles {
+    > li > a {
+      text-transform: capitalize; }
+    .article {
+      display: none;
+      padding-left: 24px; }
+  }
+
+  .line-numbers {
+    color: $gray-darker;
+    display: block;
+    left: 0;
+    margin-left: -($grid-gutter-width);
+    position: absolute;
+    text-align: right;
+    top: 0; }
+  .physician {
+    @include opacity(.05);
+    background: url(../img/physician.png) no-repeat 0 0 transparent;
+    display: block;
+    height: 700px;
+    margin: 0 0 0 -60px;
+    position: fixed;
+    width: 310px; }
+}
+
+.soapbox {
+  @include clearfix();
+  // Hardset height here so cool line number JS calc doesn't get hosed.
+  height: ($line-height-computed * 7);
+  overflow: hidden;
+
+  hr {
+    border: 0;
+    margin: 0; }
+  a {
+    @include hide-text();
+    display: block;
+    float: left;
+    margin: 0 ($grid-gutter-width / 2) ($line-height-computed / 2) 0; }
+  .gpl {
+    @extend .sprites-gplv3;
+    height: sprites-sprite-height(gplv3);
+    width: sprites-sprite-width(gplv3); }
+  .fsf-member {
+    background: url("//static.fsf.org/nosvn/associate/fsf-11793.png") no-repeat 0 0;
+    height: 43px;
+    width: 180px; }
+  .drupal-member {
+    @extend .sprites-drupal-member;
+    height: sprites-sprite-height(drupal-member);
+    width: sprites-sprite-width(drupal-member); }
+  .children-international {
+    @extend .sprites-children-international;
+    height: sprites-sprite-height(children-international);
+    width: sprites-sprite-width(children-international); }
+  .aclu {
+    @extend .sprites-aclu;
+    height: sprites-sprite-height(aclu);
+    width: sprites-sprite-width(aclu); }
+  .linux {
+    @extend .sprites-linux;
+    height: sprites-sprite-height(linux);
+    width: sprites-sprite-width(linux); }
+}

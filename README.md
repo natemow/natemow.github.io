@@ -1,3 +1,3 @@
 # natemow.github.io
 
-GitHub pages repo.
+[natemow.github.io](http://natemow.github.io/)
