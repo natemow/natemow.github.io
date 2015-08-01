@@ -17,9 +17,6 @@ $header-height: ($line-height-computed * 2) + 1;
 @import "sprites/*.png"; /**/
 @include all-sprites-sprites;
 
-pre {
-  height: 200px;
-  width: 1170px; }
 h1, h2, h3, h4 {
   clear: both;
   margin: 0;
