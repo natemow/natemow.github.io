@@ -1,5 +1,5 @@
 ---
-title: Hello world
+title: Hello, world
 ---
 
 
@@ -9,7 +9,7 @@ title: Hello world
 
 ## Introduction
 
-Hello world. This README documents {% include brand.html %}. If you happen to be a <a href="http://en.wikipedia.org/wiki/Programmer">programmer</a> or <a href="http://en.wikipedia.org/wiki/Heavy_metal_music">metalhead</a>, we hope you enjoy its design hilarity; if you are not those things, we hope you still find {% include brand.html %} to be a useful tool despite its poor visual appeal.
+Hello, world. This README documents {% include brand.html %}. If you happen to be a <a href="http://en.wikipedia.org/wiki/Programmer">programmer</a> or <a href="http://en.wikipedia.org/wiki/Heavy_metal_music">metalhead</a>, we hope you enjoy its design hilarity; if you are not those things, we hope you still find {% include brand.html %} to be a useful tool despite its poor visual appeal.
 
 ## History
 
