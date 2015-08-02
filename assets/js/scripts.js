@@ -29,18 +29,6 @@
 
       var $menu = $('ol.main-menu', context);
 
-      $.each($('h1', context), function(ix, e) {
-        var $self = $(e);
-
-        // Format headers.
-        var wrapper = '';
-        for (var i=0; i < 87; i++) {
-          wrapper += '-';
-        }
-        $self
-          .html('<span>' + wrapper + '</span>' + $self.text() + '<span>' + wrapper + '</span>');
-      });
-
       $.each($('h2', context), function(ix, e) {
         var $self = $(e);
 
