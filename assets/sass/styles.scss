@@ -84,7 +84,6 @@ a.popover-source { }
 
 html {
   @include background-image(linear-gradient(right bottom, black 60%, $gray-darker));
-  height: 100%;
 
   &.invert {
     -webkit-filter: invert(100%);
@@ -104,7 +103,6 @@ html {
   body {
     background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAFUlEQVQIW2NkwAEYyZL4j00X6UYBAElcAQYPXd+JAAAAAElFTkSuQmCC) repeat 0 0;
     color: $gray-lighter;
-    height: 100%;
 
     #page.container {
       overflow: hidden;
