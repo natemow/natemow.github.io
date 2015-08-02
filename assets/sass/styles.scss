@@ -26,8 +26,7 @@ h1, h2, h3, h4 {
 h1, span.brand {
   color: $green;
   font-weight: bold;
-  letter-spacing: ($line-height-computed / 12);
-  text-transform: uppercase; }
+  letter-spacing: ($line-height-computed / 12); }
 h1 {
   margin: 0 0 ($line-height-computed / 2) 0; }
 hr {
