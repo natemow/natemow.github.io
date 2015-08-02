@@ -15,7 +15,6 @@
       this.bindMainMenu(context, settings);
       this.formatLists(context, settings);
       this.setLineNumbers(context, settings);
-      this.switchTheme(context, settings);
       this.bindContent(context, settings);
 
     },
@@ -89,92 +88,6 @@
         .height($main.height())
         .html(lines);
 
-    },
-    switchTheme: function(context, settings) {
-      if ($.browser.webkit) {
-
-        var setActive = function(context, settings) {
-          $('header .theme a', context)
-            .removeClass('active')
-            .each(function() {
-              var $self = $(this);
-              $self.toggleClass(($('html').hasClass($self.prop('class')) ? 'active' : ''))
-            });
-        };
-
-        var getSeizure = function() {
-
-          var seizure = theme.seizure;
-
-          if (!seizure) {
-            var seizure = setInterval(function() {
-              setTimeout(function() {
-                $('html').toggleClass('invert');
-              }, settings.theme.seizureInterval);
-            }, settings.theme.seizureInterval);
-
-            theme.seizure = seizure;
-          }
-
-          return seizure;
-        };
-
-        setActive(context, settings);
-
-        /*
-        $('header .theme a', context)
-          .click(function(evt) {
-            evt.preventDefault();
-
-            var $self = $(this);
-            var $class = $self.prop('class');
-            var $html = $self
-              .parents('html');
-
-            // Add this back to header's div.theme to bring back black|white|seizure:
-            // theme --color=[<a href="#" class="default">black</a>|<a href="#" class="invert">white</a>|<a href="#" class="seizure">seizure</a>]
-            if ($self.hasClass('default') || $self.hasClass('invert')) {
-              clearInterval(theme.seizure);
-              theme.seizure = null;
-
-              $html
-                .removeClass('seizure invert');
-              $('.messages', context)
-                .hide();
-            }
-
-            // Add this back to header's div.theme to bring back mono|sans:
-            // --font=[<a href="#" class="mono">mono</a>|<a href="#" class="sans">sans</a>]
-            if ($self.hasClass('mono')) {
-              $html.removeClass('sans'); }
-            if ($self.hasClass('sans')) {
-              $html.removeClass('mono'); }
-            if ($self.hasClass('default')) {
-              $html.removeClass('invert seizure'); }
-            if ($self.hasClass('invert')) {
-              $html.removeClass('default seizure'); }
-            if ($self.hasClass('seizure')) {
-              $html.removeClass('default invert');
-
-              var seizure = getSeizure();
-
-              $('.messages', context)
-                .fadeIn(settings.theme.seizureInterval * 4)
-                .fadeOut(4000);
-            }
-
-            $html
-              .addClass($class)
-              .removeClass('active');
-
-            setActive(context, settings);
-          });
-        */
-
-        return;
-      }
-
-      $('header .theme').hide();
     },
     bindContent: function(context, settings) {
 
