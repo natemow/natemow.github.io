@@ -17,12 +17,6 @@
       this.setLineNumbers(context, settings);
       this.switchTheme(context, settings);
       this.bindContent(context, settings);
-      this.preLoad(context, settings);
-
-    },
-    preLoad: function(context, settings) {
-
-      // this.doSeize(context, settings);
 
     },
     bindMainMenu: function(context, settings) {
@@ -59,13 +53,11 @@
         });
 
       // "Top" scrolly for homepage.
-      if (window.location.pathname === '/') {
-        $('header a.logo', context)
-          .click(function(evt) {
-            evt.preventDefault();
-            scrollMain(0);
-          });
-      }
+      $('header a.logo', context)
+        .click(function(evt) {
+          evt.preventDefault();
+          scrollMain(0);
+        });
 
     },
     formatLists: function(context, settings) {
@@ -74,7 +66,6 @@
         var $self = $(this);
         var $bullet = $(document.createElement('span'))
           .addClass('bullet pull-left')
-          //.height($self.height())
           .text('*');
 
         $self

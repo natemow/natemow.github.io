@@ -1,10 +1,9 @@
 ---
 title: Codeception + CI PHP project generator
+url_github: https://github.com/natemow/codeception-ci-generator
 ---
 
 
-
-[View on GitHub](https://github.com/natemow/codeception-ci-generator)
 
 This is a shell installer that will create a PHP stub project that has [Codeception](http://codeception.com/) testing, [TravisCI](https://travis-ci.org/) and/or [CircleCI](https://circleci.com/) continuous integration baked in. Just grab and run `codeception-ci-generator.sh` to experience the magic:
 
@@ -47,4 +46,3 @@ And to use `performSweetNewAction` in a test, do this:
       }
 
     }
-

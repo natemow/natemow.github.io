@@ -1,11 +1,9 @@
 ---
 title: Hello, world
+url_github: https://github.com/natemow/natemow.github.io
 ---
 
 
-
-## Contents of this file
-<ol class="main-menu"></ol>
 
 ## Introduction
 
@@ -35,14 +33,6 @@ Here is some stuff that {% include brand.html %} supports. {% include brand.html
 Here is some stuff that {% include brand.html %} does not support. {% include brand.html %} does not want you to support this stuff either.
 
 \# TODO: Add stuff that is not supported.
-
-## Resources
-
-Click the World Wide Web hyperlinks below to learn more about the {% include brand.html %} project:
-
-* {{ site.title }}@<a href="https://github.com/{{ site.title }}" class="blink">GitHub</a> &lt;-- CLICK HERE TODAY!!!
-* {{ site.title }}@<a href="https://www.drupal.org/u/{{ site.title }}" class="blink">Drupal</a> &lt;-- CLICK HERE TODAY!!!
-* {{ site.title }}@<a href="https://www.linkedin.com/in/{{ site.title }}" class="blink warning">LinkedIn</a> &lt;-- CLICK HERE TODAY!!!
 
 <!--
 # CHANGELOG
