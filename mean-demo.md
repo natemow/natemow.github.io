@@ -6,6 +6,8 @@ title: MEAN demo
 
 [View on GitHub](https://github.com/natemow/mean_demo)
 
+This is a demo project illustrating full stack JavaScript development using the common `MEAN` setup.
+
 ## Server
 
 **M**ongoDB, **N**ode.js, **E**xpress
