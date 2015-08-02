@@ -121,6 +121,8 @@ html {
   z-index: 1;
 
   a.logo {
+    border: 0;
+    outline: none;
     display: block;
     @include hide-text;
     @extend .sprites-natemow;
