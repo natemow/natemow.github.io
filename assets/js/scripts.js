@@ -34,11 +34,11 @@
 
         // Format headers.
         var wrapper = '';
-        for (var i=0; i < 80; i++) {
+        for (var i=0; i < 87; i++) {
           wrapper += '-';
         }
         $self
-          .html($self.text() + '<span>' + wrapper + '</span>');
+          .html('<span>' + wrapper + '</span>' + $self.text() + '<span>' + wrapper + '</span>');
       });
 
       $.each($('h2', context), function(ix, e) {
