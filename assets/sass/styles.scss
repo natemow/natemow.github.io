@@ -74,7 +74,9 @@ ul, ol {
     }
   }
 }
-
+a {
+  border: 0;
+  outline: 0; }
 .hidden {
   @include element-invisible(); }
 
