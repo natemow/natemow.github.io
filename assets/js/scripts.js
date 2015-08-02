@@ -13,7 +13,7 @@
     attach: function(context, settings) {
 
       this.bindMainMenu(context, settings);
-      this.formatLists(context, settings);
+      // this.formatLists(context, settings);
       this.setLineNumbers(context, settings);
       this.switchTheme(context, settings);
       this.bindContent(context, settings);
