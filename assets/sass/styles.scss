@@ -37,7 +37,7 @@ hr {
   margin: ($line-height-computed * .50) 0; }
 pre {
   @include border-radius(3px);
-  background: $gray-darker;
+  @include background-image(linear-gradient(right bottom, black 60%, $gray-darker));
   border: 0;
   color: $gray-lighter;
   font-size: $font-size-base;
