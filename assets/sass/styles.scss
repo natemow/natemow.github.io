@@ -7,6 +7,7 @@
 @import "compass/typography/text/replacement";
 @import "compass/css3/images";
 @import "compass/css3/opacity";
+@import "compass/css3/border-radius";
 @import "compass/css3/transition";
 
 @import "mixins";
@@ -32,12 +33,18 @@ hr {
   width: 100%;
   margin: ($line-height-computed / 2) 0; }
 pre {
+  @include border-radius(($line-height-computed / 12));
+
   background: $gray-lighter;
   border: 0;
   color: $gray;
   font-size: $font-size-base;
   margin: 0 0 ($line-height-computed / 2) 0;
   padding: ($line-height-computed / 2);
+}
+code {
+  @include border-radius(($line-height-computed / 12));
+  padding: 1px 3px;
 }
 ul, ol {
   list-style: none outside none;
