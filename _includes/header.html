@@ -2,9 +2,15 @@
 <html lang="en" class="default mono">
 <head>
 <meta charset="utf-8">
+<title>{% if page.title %}{{ page.title }}{% endif %} | {{ site.title }}</title>
+<meta name="keywords" content="{% if page.title %}{{ page.title }}{% endif %}, {{ site.title }}" />
+<meta name="description" content="{{ site.description }}" />
+<meta property="og:url" content="http://www.naco.org/naco" />
+<meta property="og:site_name" content="NACo" />
+<meta property="og:description" content="NACo" />
+<meta property="og:title" content="NACo" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>{% if page.title %}{{ page.title }}{% endif %} | {{ site.title }}</title>
 <link href="/assets/css/styles.css" rel="stylesheet" type="text/css" />
 <!--[if lt IE 9]>
   <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>

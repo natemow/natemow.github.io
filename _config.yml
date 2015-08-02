@@ -1,6 +1,6 @@
 # Site settings.
 title: natemow
-description: natemow
+description: This README was initially created more or less as a programming sandbox, resume and sometimes-blog for a person called {{ site.author }}.
 author: Nate Mow
 defaults:
   -
