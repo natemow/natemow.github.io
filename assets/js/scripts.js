@@ -70,7 +70,7 @@
     },
     formatLists: function(context, settings) {
 
-      $.each($('ul li, ol li', context), function() {
+      $.each($('main section ul li, main section ol li', context), function() {
         var $self = $(this);
         var $bullet = $(document.createElement('span'))
           .addClass('bullet pull-left')
