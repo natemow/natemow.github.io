@@ -136,11 +136,13 @@ html {
 
   .theme {
     margin: ($line-height-computed * .50) 0 0 0;
+    /*
     position: absolute;
     right: 0;
     z-index: 2;
     a.active {
       color: $green; }
+    */
   }
 }
 

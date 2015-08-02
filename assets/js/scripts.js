@@ -121,6 +121,7 @@
 
         setActive(context, settings);
 
+        /*
         $('header .theme a', context)
           .click(function(evt) {
             evt.preventDefault();
@@ -168,6 +169,7 @@
 
             setActive(context, settings);
           });
+        */
 
         return;
       }
