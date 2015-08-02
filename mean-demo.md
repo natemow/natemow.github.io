@@ -4,6 +4,8 @@ title: MEAN demo
 
 
 
+[View on GitHub](https://github.com/natemow/mean_demo)
+
 ## Server
 * **M**ongoDB, **N**ode.js, **E**xpress
   * All API requests require a valid token issued at login through [`middleware.js`](https://github.com/natemow/mean_demo/blob/master/app/server/middleware.js).
