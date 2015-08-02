@@ -18,7 +18,9 @@
 
         {{ content }}
 
+        {% if page.url != '/' %}
         <h2>Resources</h2>
+        {% endif %}
         {% include nav.html %}
 
         <span class="line-numbers"></span>

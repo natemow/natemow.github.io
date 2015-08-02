@@ -34,7 +34,7 @@ Here is some stuff that {% include brand.html %} does not support. {% include br
 
 \# TODO: Add stuff that is not supported.
 
-## Further reading
+## Resources
 
 Click the World Wide Web hyperlinks below to learn more about the {% include brand.html %} project:
 
