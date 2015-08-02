@@ -219,9 +219,9 @@ main {
     height: sprites-sprite-height(gplv3);
     width: sprites-sprite-width(gplv3); }
   .fsf-member {
-    background: url("//static.fsf.org/nosvn/associate/fsf-11793.png") no-repeat 0 0;
-    height: 43px;
-    width: 180px; }
+    @extend .sprites-fsf-member;
+    height: sprites-sprite-height(fsf-member);
+    width: sprites-sprite-width(fsf-member); }
   .drupal-member {
     @extend .sprites-drupal-member;
     height: sprites-sprite-height(drupal-member);
