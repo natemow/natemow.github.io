@@ -1,5 +1,5 @@
 ---
-title: LICENSE
+title: LICENSE: Free, as in Freedom.
 ---
 
 

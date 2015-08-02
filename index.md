@@ -43,7 +43,3 @@ Click the World Wide Web hyperlinks below to learn more about the {{ site.title 
 * {{ site.title }}@<a href="https://github.com/{{ site.title }}" class="blink">GitHub</a> &lt;-- CLICK HERE TODAY!!!
 * {{ site.title }}@<a href="https://www.drupal.org/u/{{ site.title }}" class="blink">Drupal</a> &lt;-- CLICK HERE TODAY!!!
 * {{ site.title }}@<a href="https://www.linkedin.com/in/{{ site.title }}" class="blink warning">LinkedIn</a> &lt;-- CLICK HERE TODAY!!!
-
-## License
-
-[Free, as in Freedom.](/LICENSE)
