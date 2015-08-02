@@ -38,7 +38,7 @@ Here is some stuff that {% include brand.html %} does not support. {% include br
 
 ## Resources
 
-Click the World Wide Web hyperlinks below to learn more about the {{ site.title }} project:
+Click the World Wide Web hyperlinks below to learn more about the {% include brand.html %} project:
 
 * {{ site.title }}@<a href="https://github.com/{{ site.title }}" class="blink">GitHub</a> &lt;-- CLICK HERE TODAY!!!
 * {{ site.title }}@<a href="https://www.drupal.org/u/{{ site.title }}" class="blink">Drupal</a> &lt;-- CLICK HERE TODAY!!!
