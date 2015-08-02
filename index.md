@@ -9,19 +9,19 @@ title: Hello world
 
 ## Introduction
 
-Hello world. This README documents {{ site.title }}. If you happen to be a <a href="http://en.wikipedia.org/wiki/Programmer">programmer</a> or <a href="http://en.wikipedia.org/wiki/Heavy_metal_music">metalhead</a>, we hope you enjoy its design hilarity; if you are not those things, we hope you still find {{ site.title }} to be a useful tool despite its poor visual appeal.
+Hello world. This README documents {% include brand.html %}. If you happen to be a <a href="http://en.wikipedia.org/wiki/Programmer">programmer</a> or <a href="http://en.wikipedia.org/wiki/Heavy_metal_music">metalhead</a>, we hope you enjoy its design hilarity; if you are not those things, we hope you still find {% include brand.html %} to be a useful tool despite its poor visual appeal.
 
 ## History
 
-The {{ site.title }} README first came online in 1999; the project itself was first conceived in 1978. Both the README and project have been intermittently offline since.
+The {% include brand.html %} README first came online in 1999; the project itself was first conceived in 1978. Both the README and project have been intermittently offline since.
 
-The README was initially created more or less as a programming sandbox, resume and sometimes-blog for a person called Nate Mow. The README may continue to retain some of those features in current and future iterations.
+The README was initially created more or less as a programming sandbox, resume and sometimes-blog for a person called {{ site.author }}. The README may continue to retain some of those features in current and future iterations.
 
-Over the years, the {{ site.title }} project has slowly evolved in to we are not exactly sure what yet.
+Over the years, the {% include brand.html %} project has slowly evolved in to we are not exactly sure what yet.
 
 ## Support
 
-Here is some stuff that {{ site.title }} supports. {{ site.title }} wants you to support this stuff too if you are able. Because the stuff is good and good stuff is not bad.
+Here is some stuff that {% include brand.html %} supports. {% include brand.html %} wants you to support this stuff too if you are able. Because the stuff is good and good stuff is not bad.
 
 <div class="soapbox no-invert">
   <a class="aclu" href="https://www.aclu.org">American Civil Liberties Union</a>
@@ -32,7 +32,7 @@ Here is some stuff that {{ site.title }} supports. {{ site.title }} wants you to
   <a class="drupal-member" href="https://association.drupal.org/membership">Drupal Association</a>
 </div>
 
-Here is some stuff that {{ site.title }} does not support. {{ site.title }} does not want you to support this stuff either.
+Here is some stuff that {% include brand.html %} does not support. {% include brand.html %} does not want you to support this stuff either.
 
 \# TODO: Add stuff that is not supported.
 

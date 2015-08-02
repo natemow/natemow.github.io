@@ -12,6 +12,7 @@
 
 @import "mixins";
 
+$green: #8AE234;
 $header-height: ($line-height-computed * 2) + 1;
 
 // Generate sprites
@@ -22,10 +23,11 @@ h1, h2, h3, h4 {
   clear: both;
   margin: 0;
   text-transform: uppercase; }
-h1 {
-  color: #8AE234;
+h1, span.brand {
+  color: $green;
   font-weight: bold;
-  letter-spacing: ($line-height-computed / 6);
+  letter-spacing: ($line-height-computed / 6); }
+h1 {
   margin: 0 0 ($line-height-computed / 2) 0; }
 hr {
   border-top: 1px dashed $gray-lighter;
@@ -138,7 +140,7 @@ html {
     right: 0;
     z-index: 2;
     a.active {
-      color: #8AE234; }
+      color: $green; }
   }
 }
 
