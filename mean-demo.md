@@ -5,6 +5,8 @@ url_github: https://github.com/natemow/mean_demo
 
 
 
+## Introduction
+
 This is a demo project illustrating full stack JavaScript development using the common `MEAN` setup.
 
 ## Server
