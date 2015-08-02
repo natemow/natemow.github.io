@@ -24,9 +24,10 @@ h1, h2, h3, h4 {
 h1 {
   font-weight: bold; }
 hr {
+  border-top: 1px dashed $gray-lighter;
   clear: both;
   width: 100%;
-  margin: ($line-height-computed / 2) 0; }
+  margin: (($line-height-computed / 2) + 1) 0; }
 ul, ol {
   list-style: none outside none;
   margin-left: 0;
@@ -62,6 +63,7 @@ a.popover-source { }
 
 html {
   @include background-image(linear-gradient(right bottom, black 60%, $gray-darker));
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAFUlEQVQIW2NkwAEYyZL4j00X6UYBAElcAQYPXd+JAAAAAElFTkSuQmCC) repeat 0 0;
 
   &.invert {
     -webkit-filter: invert(100%);
@@ -79,7 +81,6 @@ html {
   }
 
   body {
-    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAFUlEQVQIW2NkwAEYyZL4j00X6UYBAElcAQYPXd+JAAAAAElFTkSuQmCC) repeat 0 0;
     color: $gray-lighter;
 
     #page.container {
