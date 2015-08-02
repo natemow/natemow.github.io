@@ -73,7 +73,7 @@
       $.each($('ul li, ol li', context), function() {
         var $self = $(this);
         var $bullet = $(document.createElement('span'))
-          //.addClass('bullet pull-left')
+          .addClass('bullet pull-left')
           //.height($self.height())
           .text('*');
 
