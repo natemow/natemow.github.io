@@ -34,7 +34,7 @@
 
         // Format headers.
         var wrapper = '';
-        for (var i=0; i < 651; i++) {
+        for (var i=0; i < 80; i++) {
           wrapper += '-';
         }
         $self
