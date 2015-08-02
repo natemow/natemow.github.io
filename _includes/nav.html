@@ -1,16 +1,8 @@
 <nav role="navigation">
-  <ol class="main-menu">
-    {% if page.url_github %}<li><a href="{{ page.url_github }}">View on GitHub</a></li>{% endif %}
+  <ul>
+    {% if page.url_github %}<li><a href="{{ page.url_github }}" target="_blank">View on GitHub</a></li>{% endif %}
     {% for p in site.pages %}
     <li><a{% if p.url == page.url %} class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
     {% endfor %}
-  </ol>
-
-  <p>Click the World Wide Web hyperlinks below to learn more about the {% include brand.html %} project:</p>
-
-  <ul>
-    <li>{{ site.title }}@<a href="https://github.com/{{ site.title }}" class="blink">GitHub</a> &lt;-- CLICK HERE TODAY!!!</li>
-    <li>{{ site.title }}@<a href="https://www.drupal.org/u/{{ site.title }}" class="blink">Drupal</a> &lt;-- CLICK HERE TODAY!!!</li>
-    <li>{{ site.title }}@<a href="https://www.linkedin.com/in/{{ site.title }}" class="blink warning">LinkedIn</a> &lt;-- CLICK HERE TODAY!!!</li>
   </ul>
 </nav>
