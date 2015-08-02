@@ -74,7 +74,7 @@ ul, ol {
     }
   }
 }
-a {
+a, a:link, a:visited, a:hover, a:active {
   border: 0;
   outline: none; }
 .hidden {
