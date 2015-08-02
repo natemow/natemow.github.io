@@ -52,6 +52,14 @@
           .html($self.text() + '<span>' + wrapper + '</span>');
       });
 
+      // Add non-scrolly links to menu
+      var $menu_item = $(document.createElement('li'));
+      var $menu_link = $(document.createElement('a'))
+        .prop('href', '/CHANGELOG')
+        .html('CHANGELOG');
+      $menu_item.append($menu_link);
+      $menu.append($menu_item);
+
       $('a[href*=#]', $menu)
         .click(function(evt) {
           evt.preventDefault();

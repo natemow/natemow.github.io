@@ -42,12 +42,8 @@ Click the World Wide Web hyperlinks below to learn more about the {{ site.title 
 
 * {{ site.title }}@<a href="https://github.com/{{ site.title }}" class="blink">GitHub</a> &lt;-- CLICK HERE TODAY!!!
 * {{ site.title }}@<a href="https://www.drupal.org/u/{{ site.title }}" class="blink">Drupal</a> &lt;-- CLICK HERE TODAY!!!
-* {{ site.title }}@<a href="https://www.facebook.com/nate.mow.7" class="blink warning" title="WARNING: YOU ARE ATTEMPTING TO ACCESS A WORLD WIDE WEBSITE THAT MAY BE TRYING TO BRING ABOUT THE DECAY OF CIVILIZATION. ARE YOU SURE YOU WANT TO CONTINUE?">Facebook</a> &lt;-- CLICK HERE TODAY!!!
+* {{ site.title }}@<a href="https://www.linkedin.com/in/{{ site.title }}" class="blink warning">LinkedIn</a> &lt;-- CLICK HERE TODAY!!!
 
 ## License
 
 [Free, as in Freedom.](LICENSE)
-
-## Changelog
-
-* 2014-08-04 @{{ site.title }}: Added [Codeception + CI PHP project generator](codeception-ci-generator) project page.
