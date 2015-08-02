@@ -37,7 +37,7 @@ hr {
   margin: ($line-height-computed * .50) 0; }
 pre {
   @include border-radius(3px);
-  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAFUlEQVQIW2NkwAEYyZL4j00X6UYBAElcAQYPXd+JAAAAAElFTkSuQmCC) repeat -1px 0 $gray-darker;
+  background: $gray-darker;
   border: 0;
   color: $gray-lighter;
   font-size: $font-size-base;
