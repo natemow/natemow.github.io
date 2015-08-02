@@ -20,7 +20,7 @@ Supported project types:
 * [Drupal 8.x](https://www.drupal.org/project/drupal)
 * [Phalcon 1.3.x (using Vökuró sample)](https://github.com/phalcon/vokuro)
 
-### Tests
+## Tests
 
 To make a new action available to `$I` (the test actor) across "cests", add your function to `tests/_support/ActorProject.php`:
 
