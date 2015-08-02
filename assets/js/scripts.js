@@ -130,6 +130,8 @@
             var $html = $self
               .parents('html');
 
+            // Add this back to header's div.theme to bring back black|white|seizure:
+            // theme --color=[<a href="#" class="default">black</a>|<a href="#" class="invert">white</a>|<a href="#" class="seizure">seizure</a>]
             if ($self.hasClass('default') || $self.hasClass('invert')) {
               clearInterval(theme.seizure);
               theme.seizure = null;
