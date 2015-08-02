@@ -57,14 +57,16 @@
           evt.preventDefault();
           scrollMain($(this.hash).offset().top - $('main', context).offset().top);
         });
-      $('header a.logo', context)
-        .click(function(evt) {
-          evt.preventDefault();
-          scrollMain(0);
 
-          $('.article', context)
-            .slideUp();
-        });
+      // "Top" scrolly for homepage.
+      if (window.location.pathname === '/') {
+        $('header a.logo', context)
+          .click(function(evt) {
+            evt.preventDefault();
+            scrollMain(0);
+          });
+      }
+
     },
     formatLists: function(context, settings) {
 
