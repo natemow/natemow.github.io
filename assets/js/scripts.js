@@ -17,7 +17,6 @@
       this.setLineNumbers(context, settings);
       this.switchTheme(context, settings);
       this.bindContent(context, settings);
-      this.bindTooltips(context, settings);
       this.preLoad(context, settings);
 
     },
@@ -118,11 +117,10 @@
             var seizure = setInterval(function() {
               setTimeout(function() {
                 $('html').toggleClass('invert');
-              }, settings.natemow.seizureInterval);
-            }, settings.natemow.seizureInterval);
+              }, settings.theme.seizureInterval);
+            }, settings.theme.seizureInterval);
 
             theme.seizure = seizure;
-            console.log('seizing');
           }
 
           return seizure;
@@ -163,7 +161,7 @@
               var seizure = getSeizure();
 
               $('.messages', context)
-                .fadeIn(settings.natemow.seizureInterval * 4)
+                .fadeIn(settings.theme.seizureInterval * 4)
                 .fadeOut(4000);
             }
 
@@ -197,48 +195,10 @@
         }
       });
 
-      $('.articles > li > a', context)
-        .click(function(evt) {
-          evt.preventDefault();
-
-          var $self = $(this);
-          var $article = $('.article' + this.hash, $self.parent('li'));
-
-          $('.article', $self.parents('.articles'))
-            .slideUp();
-
-          if (!$article.is(':visible')) {
-            $article
-              .slideDown(function() {
-                scrollMain($(this).offset().top - $('main', context).offset().top - 18);
-              });
-          }
-        });
-
-    },
-    bindTooltips: function(context, settings) {
-
-      $('.popover-source', context)
-        .click(function(evt) {
-          evt.preventDefault();
-
-          var $self = $(this);
-          $self.attr('title', escape($self.text()));
-          $self.attr('data-content', $($self.prop('rel')).html())
-        })
-        .popover({
-          placement : 'top',
-          html : true
-        });
-
     }
   };
 
   var context = $('body');
-  theme.attach(context, {
-    natemow : {
-      seizureInterval: 50
-    }
-  });
+  theme.attach(context, settings);
 
 })(jQuery);
