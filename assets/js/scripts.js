@@ -13,7 +13,7 @@
     attach: function(context, settings) {
 
       this.bindMainMenu(context, settings);
-      // this.formatLists(context, settings);
+      this.formatLists(context, settings);
       this.setLineNumbers(context, settings);
       this.switchTheme(context, settings);
       this.bindContent(context, settings);
@@ -70,11 +70,11 @@
     },
     formatLists: function(context, settings) {
 
-      $.each($('main section ul li, main section ol li', context), function() {
+      $.each($('ul li, ol li', context), function() {
         var $self = $(this);
         var $bullet = $(document.createElement('span'))
-          .addClass('bullet pull-left')
-          .height($self.height())
+          //.addClass('bullet pull-left')
+          //.height($self.height())
           .text('*');
 
         $self
