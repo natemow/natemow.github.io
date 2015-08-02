@@ -1,5 +1,6 @@
 ---
 title: MEAN demo
+description: This is a demo project illustrating full stack JavaScript development using the common 'MEAN' setup.
 url_github: https://github.com/natemow/mean_demo
 ---
 
