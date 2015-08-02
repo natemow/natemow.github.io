@@ -135,14 +135,13 @@ html {
     z-index: 1; }
 
   .theme {
-    margin: ($line-height-computed * .50) 0 0 0;
-    /*
+    margin: ($line-height-computed * .50) 15px 0 0;
+
     position: absolute;
     right: 0;
     z-index: 2;
     a.active {
       color: $green; }
-    */
   }
 }
 
