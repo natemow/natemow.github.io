@@ -76,7 +76,7 @@ ul, ol {
 }
 a {
   border: 0;
-  outline: 0; }
+  outline: none; }
 .hidden {
   @include element-invisible(); }
 
