@@ -28,25 +28,25 @@ h1, span.brand {
   font-weight: bold;
   letter-spacing: ($line-height-computed / 12); }
 h1 {
-  margin: 0 0 ($line-height-computed / 2) 0; }
+  margin: 0 0 ($line-height-computed * .50) 0; }
 hr {
   border-top: 1px dashed $gray-lighter;
   clear: both;
   width: 100%;
-  margin: ($line-height-computed / 2) 0; }
+  margin: ($line-height-computed * .50) 0; }
 pre {
   @include border-radius(3px);
 
-  background: $gray-lighter;
+  background: $gray-darker;
   border: 0;
-  color: $gray;
+  color: $gray-lighter;
   font-size: $font-size-base;
-  margin: 0 0 ($line-height-computed / 2) 0;
-  padding: ($line-height-computed / 2);
+  margin: 0 0 ($line-height-computed * .50) 0;
+  padding: ($line-height-computed * .50);
 }
 code {
   @include border-radius(3px);
-  background: $gray-lighter;
+  background: $gray-darker;
   padding: 1px 3px;
 }
 ul, ol {
@@ -67,7 +67,7 @@ ul, ol {
   &.spaced {
     li {
       .bullet {
-        margin: 0 0 ($line-height-computed / 2) 0; }
+        margin: 0 0 ($line-height-computed * .50) 0; }
       &:last-child .bullet {
         margin: 0 0 0 0; }
     }
@@ -84,6 +84,7 @@ a.popover-source { }
 
 html {
   @include background-image(linear-gradient(right bottom, black 60%, $gray-darker));
+  height: 100%;
 
   &.invert {
     -webkit-filter: invert(100%);
@@ -103,6 +104,7 @@ html {
   body {
     background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAFUlEQVQIW2NkwAEYyZL4j00X6UYBAElcAQYPXd+JAAAAAElFTkSuQmCC) repeat 0 0;
     color: $gray-lighter;
+    height: 100%;
 
     #page.container {
       overflow: hidden;
@@ -112,7 +114,7 @@ html {
 
 #header {
   height: $header-height;
-  padding: ($line-height-computed / 2) 0;
+  padding: ($line-height-computed * .50) 0;
   position: fixed;
   width: 100%;
   z-index: 1;
@@ -129,13 +131,13 @@ html {
 
   p.tagline {
     @include opacity(.15);
-    margin: ((-$line-height-computed / 2) + 1) 0 0 0;
+    margin: ((-$line-height-computed *.50) + 1) 0 0 0;
     position: absolute;
     z-index: 1; }
 
   .theme {
     display: none;
-    margin: ($line-height-computed / 2) 0 0 0;
+    margin: ($line-height-computed * .50) 0 0 0;
     position: absolute;
     right: 0;
     z-index: 2;
@@ -148,7 +150,7 @@ html {
   color: white;
   display: none;
   margin: $header-height 0 0 0;
-  padding: ($line-height-computed / 2) 0;
+  padding: ($line-height-computed * .50) 0;
   position: fixed;
   width: 100%;
   z-index: 1;
@@ -208,7 +210,7 @@ main {
     @include hide-text();
     display: block;
     float: left;
-    margin: 0 ($grid-gutter-width / 2) ($line-height-computed / 2) 0; }
+    margin: 0 ($grid-gutter-width / 2) ($line-height-computed * .50) 0; }
   .gpl {
     @extend .sprites-gplv3;
     height: sprites-sprite-height(gplv3);
