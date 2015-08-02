@@ -157,6 +157,8 @@
                 .hide();
             }
 
+            // Add this back to header's div.theme to bring back mono|sans:
+            // --font=[<a href="#" class="mono">mono</a>|<a href="#" class="sans">sans</a>]
             if ($self.hasClass('mono')) {
               $html.removeClass('sans'); }
             if ($self.hasClass('sans')) {

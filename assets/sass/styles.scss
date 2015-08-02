@@ -112,7 +112,7 @@ html {
     z-index: 1; }
 
   .theme {
-    margin: ($line-height-computed / 2) ($grid-gutter-width / 2) 0 0;
+    margin: ($line-height-computed / 2) 0 0 0;
     position: absolute;
     right: 0;
     z-index: 2;
