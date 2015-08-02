@@ -33,7 +33,7 @@ hr {
   width: 100%;
   margin: ($line-height-computed / 2) 0; }
 pre {
-  @include border-radius(($line-height-computed / 12));
+  @include border-radius(3px);
 
   background: $gray-lighter;
   border: 0;
@@ -43,7 +43,8 @@ pre {
   padding: ($line-height-computed / 2);
 }
 code {
-  @include border-radius(($line-height-computed / 12));
+  @include border-radius(3px);
+  background: $gray-lighter;
   padding: 1px 3px;
 }
 ul, ol {
