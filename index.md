@@ -9,7 +9,7 @@ title: Hello world.
 
 ## Introduction
 
-Hello world. This README documents {{ site.title }}. If you happen to be a <a href="http://en.wikipedia.org/wiki/Programmer">programmer</a> or <a href="http://en.wikipedia.org/wiki/Heavy_metal_music">metal head</a>, we hope you enjoy its design and comedic value; if you are not those things, we hope you still find {{ site.title }} to be a useful tool despite its poor visual appeal.
+Hello world. This README documents {{ site.title }}. If you happen to be a <a href="http://en.wikipedia.org/wiki/Programmer">programmer</a> or <a href="http://en.wikipedia.org/wiki/Heavy_metal_music">metalhead</a>, we hope you enjoy its design hilarity; if you are not those things, we hope you still find {{ site.title }} to be a useful tool despite its poor visual appeal.
 
 ## History
 
@@ -46,4 +46,4 @@ Click the World Wide Web hyperlinks below to learn more about the {{ site.title 
 
 ## License
 
-[Free, as in Freedom.](LICENSE)
+[Free, as in Freedom.](/LICENSE)
