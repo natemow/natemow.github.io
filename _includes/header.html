@@ -2,13 +2,14 @@
 <html lang="en" class="default mono">
 <head>
   <meta charset="utf-8" />
-  <title>{% if page.title %}{{ page.title }}{% endif %} | {{ site.title }} {{ site.author }}</title>
-  <meta name="keywords" content="{% if page.title %}{{ page.title }}, {% endif %}{{ site.title }}, {{ site.author }}" />
-  <meta name="description" content="{{ site.title }} {{ site.author }} - {% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <title>{% if page.title %}{{ page.title }}{% endif %} | {{ site.title }}{{ site.author }}</title>
+  <meta name="keywords" content="{% if page.title %}{{ page.title }}, {% endif %}{{ site.title }}, Nate Mow" />
+  <meta name="description" content="{{ site.title }}{{ site.author }} - {% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
-  <meta property="og:site_name" content="{{ site.title }} {{ site.author }}" />
-  <meta property="og:description" content="{{ site.title }} {{ site.author }} - {% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-  <meta property="og:title" content="{{ site.title }} {{ site.author }}" />
+  <meta property="og:site_name" content="{{ site.title }}{{ site.author }}" />
+  <meta property="og:description" content="{{ site.title }}{{ site.author }} - {% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:title" content="{{ site.title }}{{ site.author }}" />
+  <meta property="og:type" content="profile" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link href="/assets/css/styles.css" rel="stylesheet" type="text/css" />
