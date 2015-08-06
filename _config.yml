@@ -3,7 +3,6 @@ baseurl: http://natemow.github.io
 title: natemow
 description: This README was initially created more or less as a programming sandbox, resume and sometimes-blog for a person called &quot;Nate Mow&quot;.
 author: , aka &quot;Nate Mow&quot;
-author_actual: Nate Mow
 defaults:
   -
     scope:

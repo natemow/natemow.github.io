@@ -2,12 +2,11 @@
   <script type="text/javascript">
   var settings = {
     site: {
-      title: "{{ site.title }}",
-      description: "{{ site.description }}",
-      author: "{{ site.author_actual }}"
+      title: "{% if page.title %}{{ page.title }}{% endif %} | {{ site.title }}{{ site.author }}",
+      description: "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
     },
     page: {
-      title: "{{ page.title }}"
+      title: "{% if page.title %}{{ page.title }}{% endif %} | {{ site.title }}{{ site.author }}"
     },
     theme: { }
   };
