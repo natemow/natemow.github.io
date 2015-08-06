@@ -1,7 +1,7 @@
 <nav>
-  <ul>
-    {% if page.url_github %}<li><a href="{{ page.url_github }}" target="_blank">View on GitHub</a></li>{% endif %}
-    {% for p in site.pages %}{% if p.url != page.url %}<li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
-    {% endif %}{% endfor %}
-  </ul>
-</nav>
+      <ul>
+        {% if page.url_github %}<li><a href="{{ page.url_github }}" target="_blank">View on GitHub</a></li>{% endif %}
+        {% for p in site.pages %}{% if p.url != page.url %}<li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+        {% endif %}{% endfor %}
+      </ul>
+    </nav>
