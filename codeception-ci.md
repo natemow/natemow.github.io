@@ -22,7 +22,9 @@ Supported project types:
 * [Drupal 8.x](https://www.drupal.org/project/drupal)
 * [Phalcon 1.3.x (using Vökuró sample)](https://github.com/phalcon/vokuro)
 
-## Tests
+## Writing Tests
+
+The generator creates a `SampleCest` class to help get you started. The "cest" test development pattern laid out by the generator is by no means the only way to use Codeception, but does represent the most extensible and straightforward approach I've found so far.
 
 To make a new action available to `$I` (the test actor) across "cests", add your function to `tests/_support/ActorProject.php`:
 
