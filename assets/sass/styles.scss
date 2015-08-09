@@ -39,6 +39,7 @@ hr {
   width: 100%;
   margin: ($line-height-computed * .50) 0; }
 pre {
+  @include opacity(.80);
   @include border-radius(3px);
   background: $gray-darker;
   border: 0;
@@ -178,7 +179,7 @@ main {
     background: url(../img/physician.png) no-repeat 0 0 transparent;
     display: block;
     height: 700px;
-    margin: $header-height 0 0 -90px;
+    margin: $header-height 0 0 -72px;
     position: absolute;
     z-index: -1;
     width: 310px; }
