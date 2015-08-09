@@ -14,7 +14,8 @@
 
 $green: #8AE234;
 $cyan: $link-color;
-$header-height: ($line-height-computed * 2) + 1;
+$stripe: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAGCAYAAAACEPQxAAAAEUlEQVQIW2NkYGBgYMRB/AcAAYYBBnc9HSMAAAAASUVORK5CYII=';
+$header-height: ($line-height-computed * 2);
 
 // Generate sprites
 @import "sprites/*.png"; /**/
@@ -81,13 +82,7 @@ a, a:link, a:visited, a:hover, a:active {
 .hidden {
   @include element-invisible(); }
 
-a.popover-source { }
-.popover-target { @include element-invisible(); }
-.popover-content { overflow: hidden; }
-
-
 html {
-  @include background-image(linear-gradient(right bottom, black 60%, $gray-darker));
 
   &.invert {
     -webkit-filter: invert(100%);
@@ -105,7 +100,8 @@ html {
   }
 
   body {
-    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAFUlEQVQIW2NkwAEYyZL4j00X6UYBAElcAQYPXd+JAAAAAElFTkSuQmCC) repeat 0 0;
+    background: url($stripe) repeat 0 0 #111;
+    
     color: $gray-lighter;
 
     #page.container {
@@ -150,23 +146,6 @@ html {
   }
 }
 
-.messages {
-  color: white;
-  display: none;
-  margin: $header-height 0 0 0;
-  padding: ($line-height-computed * .50) 0;
-  position: fixed;
-  width: 100%;
-  z-index: 1;
-
-  *:last-child {
-    margin-bottom: 0; }
-
-  .seizure {
-    font-size: ($font-size-base * 3);
-    text-align: center; }
-}
-
 main {
   margin: $header-height 0 0 0;
 
@@ -192,13 +171,18 @@ main {
     text-align: right;
     top: 0; }
   .physician {
-    @include opacity(.05);
+    @include hide-text;
+    @include opacity(.04);
     background: url(../img/physician.png) no-repeat 0 0 transparent;
     display: block;
     height: 700px;
     margin: 0 0 0 -90px;
     position: fixed;
     width: 310px; }
+}
+
+footer {
+  padding: ($line-height-computed * .50) 0;
 }
 
 .soapbox {

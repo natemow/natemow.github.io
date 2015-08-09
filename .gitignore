@@ -4,3 +4,4 @@ assets/.sass-cache
 # IDE cruft.
 nbproject
 
+template.html
