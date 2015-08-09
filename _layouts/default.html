@@ -5,7 +5,10 @@
         <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
 
         <h2>Contents of this file</h2>
-        <ol class="main-menu"></ol>
+        <ol class="main-menu">
+          {% if page.url_demo %}<li><a href="{{ page.url_demo }}" target="_blank">View demo</a></li>{% endif %}
+          {% if page.url_github %}<li><a href="{{ page.url_github }}" target="_blank">View on GitHub</a></li>{% endif %}
+        </ol>
 
 {{ content }}
         {% if page.url != '/' %}<h2>Resources</h2>{% endif %}
