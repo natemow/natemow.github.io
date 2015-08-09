@@ -39,7 +39,7 @@ hr {
   width: 100%;
   margin: ($line-height-computed * .50) 0; }
 pre {
-  @include opacity(.80);
+  @include opacity(.60);
   @include border-radius(3px);
   background: $gray-darker;
   border: 0;
