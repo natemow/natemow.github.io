@@ -104,7 +104,7 @@ html {
 
   body {
     background: url($stripe) repeat 0 0 #111;
-    
+
     color: $gray-lighter;
 
     #page.container {
@@ -134,7 +134,7 @@ html {
 
   p.tagline {
     @include opacity(.15);
-    margin: ((-$line-height-computed *.50) + 1) 0 0 0;
+    margin: (-$line-height-computed *.50) 0 0 0;
     position: absolute;
     z-index: 1; }
 
@@ -179,7 +179,7 @@ main {
     background: url(../img/physician.png) no-repeat 0 0 transparent;
     display: block;
     height: 700px;
-    margin: $header-height 0 0 0;
+    margin: 0;
     position: fixed;
     z-index: -1;
     width: 310px; }
