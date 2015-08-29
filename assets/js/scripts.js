@@ -22,7 +22,7 @@
     },
     bindMainMenu: function(context, settings) {
 
-      var $menu = $('main section ol.main-menu', context);
+      var $menu = $('main section .main-menu', context);
 
       $.each($('h2', context), function(ix, e) {
         var $self = $(e);
