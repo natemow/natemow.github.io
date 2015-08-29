@@ -14,10 +14,11 @@
 
         {% if page.tags.first == "blog" %}
 
-        <p>{% if page.previous != nil %}<a href="{{ page.previous.url }}">Previous</a>{% endif %} {% if page.next != nil %}<a href="{{ page.next.url }}">Next</a>{% endif %}</p>
+        <p>{% for t in page.tags %}{{ if t != 'blog' }}{{ t }}{{ if t != page.tags.last }}, {{ endif }}{{ endif }}{% endfor %}</p>
 
-        <h2>More musings</h2>
+          <h2>More musings</h2>
           {% include nav-blog.html %}
+
         {% endif %}
 
         {% if page.url != '/' %}<h2>Resources</h2>{% endif %}
