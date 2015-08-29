@@ -13,6 +13,9 @@
 {{ content }}
 
         {% if page.tags.first == "blog" %}
+
+        <p><a href="{{ page.previous }}">Previous</a> | <a href="{{ page.next }}">Next</a></p>
+
         <h2>More musings</h2>
           {% include nav-blog.html %}
         {% endif %}
