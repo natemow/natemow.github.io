@@ -6,7 +6,7 @@ author: aka &quot;Nate Mow&quot;
 defaults:
   -
     scope:
-      type: ""
+      pages: ""
     values:
       layout: default
 
