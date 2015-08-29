@@ -1,4 +1,4 @@
 <ul>
-  {% for p in site.posts %}<li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% for p in site.posts %}<li><a href="{{ p.url }}">{{ p.date }} {{ p.title }}</a></li>
   {% endfor %}
 </ul>
