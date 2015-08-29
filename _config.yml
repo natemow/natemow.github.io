@@ -6,10 +6,10 @@ author: aka &quot;Nate Mow&quot;
 defaults:
   -
     scope:
-      pages: ""
+      pages: "" # Denotes all pages.
     values:
       layout: default
 
 # Build settings.
 markdown: kramdown
-permalink: pretty
+permalink: /:year/:month/:title
