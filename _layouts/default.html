@@ -14,7 +14,7 @@
 
         {% if page.tags.first == "blog" %}
 
-        <p><a href="{{ page.previous }}">Previous</a> | <a href="{{ page.next }}">Next</a></p>
+        <p>{% if page.previous != nil %}<a href="{{ page.previous.url }}">Previous</a> | {% endif %} {% if page.next != nil %}<a href="{{ page.next.url }}">Next</a>{% endif %}</p>
 
         <h2>More musings</h2>
           {% include nav-blog.html %}
