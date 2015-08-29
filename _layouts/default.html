@@ -14,6 +14,7 @@
 
         {% if page.tags.first == "blog" %}
 
+          <h2>Tags</h2>
           <p>{{ page.tags | join: ', ' | remove_first: "blog, " }}</p>
 
           <h2>More musings</h2>
