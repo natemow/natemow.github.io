@@ -1,6 +1,7 @@
 ---
 title: AngularJS and Firebase
 description: This is a demo project illustrating 3-way data binding using AngularJS and Firebase.
+tags: blog, AngularJS, Firebase
 url_demo: https://popping-heat-9563.firebaseapp.com/
 ---
 
