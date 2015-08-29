@@ -11,12 +11,13 @@
         </ol>
 
 {{ content }}
-        {% if page.url != '/' %}<h2>Resources</h2>{% endif %}
 
         {% if page.tags.first == "blog" %}
+        <h2>More musings</h2>
           {% include nav-blog.html %}
         {% endif %}
 
+        {% if page.url != '/' %}<h2>Resources</h2>{% endif %}
         {% include nav.html %}
         <span class="line-numbers"></span>
       </section>
