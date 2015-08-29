@@ -1,7 +1,9 @@
+/**
+ * Helper script for theme.
+ */
 
 (function ($) {
-  jQuery.browser = {};
-  jQuery.browser.webkit = /webkit/.test(navigator.userAgent.toLowerCase());
+  'use strict';
 
   var scrollMain = function(top) {
     $('html, body').animate({
@@ -9,7 +11,7 @@
     }, 500);
   };
 
-  theme = {
+  var theme = {
     attach: function(context, settings) {
 
       this.bindMainMenu(context, settings);
@@ -61,7 +63,7 @@
     },
     formatLists: function(context, settings) {
 
-      $.each($('ul li, ol li', context), function() {
+      $.each($('ul li', context), function() {
         var $self = $(this);
         var $bullet = $(document.createElement('span'))
           .addClass('bullet pull-left')
@@ -77,15 +79,16 @@
       // Populate "line numbers" element.
       var $main = $('main', context);
       var $lines = $('.line-numbers', $main);
-      var lines = '';
+
       // 18 is the calculated line height set by Bootstrap.
+      var lines = '<ol>';
       var count = Math.round($main.height() / 18);
       for (var i=1; i < (count + 1); i++) {
-        lines += i + '<br />';
+        lines += '<li>' + i + '</li>';
       }
+      lines += '</ol>';
 
       $lines
-        .height($main.height())
         .html(lines);
 
     },

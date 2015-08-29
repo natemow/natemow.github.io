@@ -41,10 +41,3 @@ Click the World Wide Web hyperlinks below to learn more about the {% include bra
 * {{ site.title }}@<a href="https://github.com/{{ site.title }}" class="blink">GitHub</a> &lt;-- CLICK HERE TODAY!!!
 * {{ site.title }}@<a href="https://www.drupal.org/u/{{ site.title }}" class="blink">Drupal</a> &lt;-- CLICK HERE TODAY!!!
 * {{ site.title }}@<a href="https://www.linkedin.com/in/{{ site.title }}" class="blink warning">LinkedIn</a> &lt;-- CLICK HERE TODAY!!!
-
-<!--
-# CHANGELOG
-
-* 2015-09-01 @{{ site.title }}: Added [Codeception + CI PHP project generator](/codeception-ci-generator) project page.
-* 2015-09-01 @{{ site.title }}: Added sweet new Jekyll theme.
- -->
