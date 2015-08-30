@@ -2,7 +2,7 @@
 title: Codeception + CI PHP project generator
 description: This is a shell installer that will create a PHP stub project that has Codeception testing, TravisCI and/or CircleCI continuous integration baked in.
 tags: [ blog, Codeception, PHP unit testing, continuous integration ]
-url_github: https://github.com/natemow/codeception-ci-generator
+project_url: https://github.com/natemow/codeception-ci-generator
 ---
 
 ## Introduction
