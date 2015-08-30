@@ -6,9 +6,9 @@ audio: /assets/audio/Ogpissd5.mp3
 
 ## Introduction
 
-I don't even know where to begin with actual words; lots of clues embedded in various places if you care to decipher them.
+I don't even know where to begin with actual words; some clues have been embedded in various places if you care to decipher them.
 
-But it is funny to pretend that {% include brand.html %} is a brand, product or corporation and not a living, breathing meatbag (though {% include brand.html %} does not think the reverse is funny). As such, the human known as "Nate Mow" has prepared the following statements to support his not-actually-a-brand-product-or-corporation:
+BUT - it *is* funny to pretend that {% include brand.html %} is a brand, product or corporation and not a living, breathing meatbag (though {% include brand.html %} does not think the reverse is funny). As such, the human known as "Nate Mow" has prepared the following statements to support his not-actually-a-brand-product-or-corporation:
 
 ### STATEMENT #1
 {% include brand.html %} requires 3 inputs at all times in order to value itself at all: [1] meaningful work, [2] satisfaction in a job well done and [3] occassional affection and/or comraderie so that it feels pretty and remembers that there is more to life than bullets [1] and [2].
