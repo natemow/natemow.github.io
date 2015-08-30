@@ -51,7 +51,7 @@
           <ul class="menu">
             <li>{{ site.title }}@<a href="https://github.com/{{ site.title }}" class="blink">GitHub</a> &lt;-- CLICK HERE TODAY!!!</li>
             <li>{{ site.title }}@<a href="https://www.drupal.org/u/{{ site.title }}" class="blink">Drupal</a> &lt;-- CLICK HERE TODAY!!!</li>
-            <li>{{ site.title }}@<a href="https://www.linkedin.com/in/{{ site.title }}" class="blink warning">LinkedIn</a> &lt;-- CLICK HERE TODAY!!!</li>
+            <li>{{ site.title }}@<a href="https://www.linkedin.com/in/{{ site.title }}" class="blink">LinkedIn</a> &lt;-- CLICK HERE TODAY!!!</li>
           </ul>{% endif %}
           <ul class="menu">
             {% for p in site.pages %}{% if p.url != page.url %}<li><a href="{% if p.url == "" %}/{% else %}{{ p.url }}{% endif %}">{{ p.title }}</a></li>{% endif %}{% endfor %}
