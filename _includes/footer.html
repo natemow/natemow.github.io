@@ -21,7 +21,7 @@
       description: "{% if page.description %}{{ page.description }} Brought to you by {{ site.title }}, {{ site.author }}.{% else %}{{ site.description }}{% endif %}"
     },
     page: {
-      title: "{% if page.title %}{{ page.title }}{% endif %} | {{ site.title }}, {{ site.author }}",
+      title: "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
       audio: "{% if page.audio %}{{ page.audio }}{% endif %}"
     },
     theme: { }
