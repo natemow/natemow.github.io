@@ -13,8 +13,6 @@
 // Generate sprites
 @import "sprites/*.png"; /**/
 @include all-sprites-sprites;
-@import "template/*.png"; /**/
-@include all-template-sprites;
 
 $green: #8AE234;
 $cyan: $link-color;
@@ -127,9 +125,9 @@ html {
     outline: none;
     display: block;
     @include hide-text;
-    @extend .template-natemow;
-    height: template-sprite-height(natemow);
-    width: template-sprite-width(natemow);
+    background: url(../img/natemow.png) no-repeat 0 0 transparent;
+    height: 49px;
+    width: 170px;
     margin: -10px 0 0 0;
     position: absolute;
     z-index: 2; }
@@ -176,11 +174,7 @@ main {
   .physician {
     @include hide-text;
     @include opacity(.04);
-    @extend .template-physician;
-    height: template-sprite-height(physician);
-    width: template-sprite-width(physician);
-    background-repeat: no-repeat;
-    background-color: transparent;
+    background: url(../img/physician.png) no-repeat 0 0 transparent;
     display: block;
     height: 700px;
     margin: 0;
