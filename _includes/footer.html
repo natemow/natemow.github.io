@@ -6,8 +6,14 @@
         </div>
       </div>
     </div>
+    {% if page.audio %}
+    <div class="clearfix sr-only">
+      <audio id="player" controls="controls" type="audio/mp3"></audio>
+    </div>
+    {% endif %}
   </footer>
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script type="text/javascript" src="/assets/js/mediaelement/mediaelement-and-player.min.js"></script>
   <script type="text/javascript">
   var settings = {
     site: {
@@ -16,11 +22,12 @@
     },
     page: {
       title: "{% if page.title %}{{ page.title }}{% endif %} | {{ site.title }}, {{ site.author }}"
+      audio: "{% if page.audio %}{{ page.audio }}{% endif %}"
     },
     theme: { }
   };
   </script>
-  <script type="text/javascript" src="/assets/js/scripts.js"></script>
+  <script type="text/javascript" src="/assets/js/app.js"></script>
   <script type="text/javascript">
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

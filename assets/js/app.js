@@ -3,6 +3,7 @@
  */
 
 (function ($) {
+
   'use strict';
 
   var scrollMain = function(top) {
@@ -94,6 +95,7 @@
     },
     bindContent: function(context, settings) {
 
+      // Do blinky stuff.
       var n = 0;
       var blink = setInterval(function() {
         setTimeout(function() {
@@ -109,6 +111,15 @@
           return false;
         }
       });
+
+      // Do soundy stuff.
+      if ($('#player').length && settings.page.audio.length) {
+        var random = [Math.floor(Math.random() * settings.page.audio.length)];
+        var player = new MediaElementPlayer('#player', {  });
+        player.media.src = settings.page.audio;
+        player.pause();
+        player.play();
+      }
 
     }
   };
