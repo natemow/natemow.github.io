@@ -4,4 +4,5 @@ assets/.sass-cache
 # IDE cruft.
 nbproject
 
-index.html
+# Pending stuff.
+_drafts/*

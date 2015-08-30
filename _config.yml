@@ -11,5 +11,6 @@ defaults:
       layout: default
 
 # Build settings.
+exclude: [vendor]
 markdown: kramdown
 permalink: pretty
