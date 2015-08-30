@@ -7,7 +7,19 @@ defaults:
   -
     scope:
       pages: "" # Denotes all pages.
-      type: [ pages, posts, drafts ]
+      type: "pages"
+    values:
+      layout: default
+  -
+    scope:
+      pages: "" # Denotes all pages.
+      type: "posts"
+    values:
+      layout: default
+  -
+    scope:
+      pages: "" # Denotes all pages.
+      type: "drafts"
     values:
       layout: default
 
