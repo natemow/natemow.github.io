@@ -13,15 +13,11 @@
 
 {{ content }}
 
-        {% if page.tags.first == "blog" %}
+        {% if page.tags.first == "blog" %}<h2>Tags</h2>
+        <p>{{ page.tags | join: ', ' | remove_first: "blog, " }}</p>
 
-          <h2>Tags</h2>
-          <p>{{ page.tags | join: ', ' | remove_first: "blog, " }}</p>
-
-          <h2>More posts</h2>
-          {% include nav-blog.html %}
-
-        {% endif %}
+        <h2>More posts</h2>
+        {% include nav-blog.html %}{% endif %}
 
         </div>
 
