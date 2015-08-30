@@ -1,7 +1,5 @@
 <nav>
           <ul>
-            {% if page.project_demo_url %}<li><a href="{{ page.project_demo_url }}" target="_blank">View demo</a></li>{% endif %}
-            {% if page.project_url %}<li><a href="{{ page.project_url }}" target="_blank">View main project page</a></li>{% endif %}
             {% for p in site.pages %}{% if p.url != page.url %}<li><a href="{% if p.url == "" %}/{% else %}{{ p.url }}{% endif %}">{{ p.title }}</a></li>
             {% endif %}{% endfor %}</ul>
         </nav>
