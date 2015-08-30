@@ -10,7 +10,7 @@ Hello, world. This README documents {% include brand.html %}. If you happen to b
 
 The {% include brand.html %} README first came online in 1999; the project itself was first conceived in 1978. Both the README and project have been intermittently offline since.
 
-The README was initially created more or less as a programming sandbox, resume and sometimes-blog for a human called "Nate Mow". The README may continue to retain some of those features in current and future iterations.
+The README was initially created more or less as a programming and design sandbox, resume and sometimes-blog for a human called "Nate Mow". The README may continue to retain some of those features in current and future iterations.
 
 Over the years, the {% include brand.html %} project has slowly evolved in to we are not exactly sure what yet.
 
