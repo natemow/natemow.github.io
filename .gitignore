@@ -1,5 +1,7 @@
 # Build cruft.
-assets/.sass-cache
+.sass-cache
+vendor/*
+Gemfile.lock
 
 # IDE cruft.
 nbproject

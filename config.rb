@@ -4,13 +4,13 @@ require 'bootstrap-sass'
 
 # Set this to the root of your project when deployed:
 http_path = "/assets"
-css_dir = "css"
-sass_dir = "sass"
-images_dir = "img"
-javascripts_dir = "js"
+css_dir = "/assets/css"
+sass_dir = "/assets/sass"
+images_dir = "/assets/img"
+javascripts_dir = "/assets/js"
 
 # To enable relative paths to assets via compass helper functions. Uncomment:
-relative_assets = true
+# relative_assets = true
 
 output_style = :compressed
 sourcemap = true

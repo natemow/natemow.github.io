@@ -10,7 +10,9 @@ defaults:
     values:
       layout: default
 
-# Build settings.
+# Handling reading.
 exclude: [vendor]
+
+# Conversion.
 markdown: kramdown
 permalink: pretty
