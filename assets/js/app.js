@@ -83,7 +83,7 @@
           .addClass('bullet pull-left')
           .text('*');
 
-        if (!$self.parent().hasClass('nav')) {
+        if (!$self.parent().hasClass('menu')) {
           var html = '<span class="content pull-left">' + $self.html() + '</span>';
           $self.html(html);
         }
