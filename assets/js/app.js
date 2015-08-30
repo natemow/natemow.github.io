@@ -83,7 +83,7 @@
           .addClass('bullet pull-left')
           .text('*');
 
-        if ($($self, $('section .content')).length) {
+        if ($('section .content', context).find($self).length) {
           var html = '<span class="content pull-left">' + $self.html() + '</span>';
           $self.html(html);
         }
