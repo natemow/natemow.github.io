@@ -9,11 +9,6 @@ defaults:
       pages: "" # Denotes all pages.
     values:
       layout: default
-    scope:
-      path: "blarg"
-      type: "posts"
-    values:
-      category: "blarg"
 
 # Build settings.
 markdown: kramdown
