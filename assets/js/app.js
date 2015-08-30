@@ -15,9 +15,9 @@
   var theme = {
     attach: function(context, settings) {
 
+      this.bindMainMenu(context, settings);
       this.formatLists(context, settings);
       this.setLineNumbers(context, settings);
-      this.bindMainMenu(context, settings);
       this.bindContent(context, settings);
 
     },
