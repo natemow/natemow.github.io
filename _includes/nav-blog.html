@@ -1,4 +1,4 @@
-<ul class="menu">
+  <ul class="menu">
             {% for p in site.posts %}<li><a href="{{ p.url }}">{{ p.date | remove: " 00:00:00 +0000" }} | {{ p.title }}</a></li>
             {% endfor %}
           </ul>
