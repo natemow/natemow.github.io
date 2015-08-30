@@ -4,7 +4,8 @@
   {% include meta.html %}
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link href="/assets/css/styles.css" rel="stylesheet" type="text/css" />{% if page.audio %}
+  <link href="/assets/css/styles.css" rel="stylesheet" type="text/css" />{% if page.url == '/' %}
+  <link href="/assets/css/home.css" rel="stylesheet" type="text/css" />{% endif %}{% if page.audio %}
   <link href="/assets/js/mediaelement/mediaelementplayer.min.css" rel="stylesheet" type="text/css" />{% endif %}
   {% include favicon.html %}
   <!--[if lt IE 9]>

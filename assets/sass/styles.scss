@@ -3,23 +3,16 @@
 @import "bootstrap-compass";
 @import "bootstrap-variables";
 @import "bootstrap";
-
 @import "compass/typography/text/replacement";
-@import "compass/css3/images";
 @import "compass/css3/opacity";
 @import "compass/css3/border-radius";
 @import "compass/css3/transition";
-
 @import "mixins";
 
 $green: #8AE234;
 $cyan: $link-color;
 $stripe: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAGCAYAAAACEPQxAAAAEUlEQVQIW2NkYGBgYMRB/AcAAYYBBnc9HSMAAAAASUVORK5CYII=';
 $header-height: ($line-height-computed * 2);
-
-// Generate sprites
-@import "sprites/*.png"; /**/
-@include all-sprites-sprites;
 
 h1, h2, h3, h4 {
   clear: both;
@@ -127,9 +120,9 @@ html {
     outline: none;
     display: block;
     @include hide-text;
-    @extend .sprites-natemow;
-    height: sprites-sprite-height(natemow);
-    width: sprites-sprite-width(natemow);
+    background: url(../img/natemow.png) no-repeat 0 0 transparent;
+    height: 49px;
+    width: 170px;
     margin: -10px 0 0 0;
     position: absolute;
     z-index: 2; }
@@ -203,28 +196,4 @@ footer {
     display: block;
     float: left;
     margin: 0 ($grid-gutter-width / 2) ($line-height-computed * .50) 0; }
-  .gpl {
-    @extend .sprites-gplv3;
-    height: sprites-sprite-height(gplv3);
-    width: sprites-sprite-width(gplv3); }
-  .fsf-member {
-    @extend .sprites-fsf-member;
-    height: sprites-sprite-height(fsf-member);
-    width: sprites-sprite-width(fsf-member); }
-  .drupal-member {
-    @extend .sprites-drupal-member;
-    height: sprites-sprite-height(drupal-member);
-    width: sprites-sprite-width(drupal-member); }
-  .children-international {
-    @extend .sprites-children-international;
-    height: sprites-sprite-height(children-international);
-    width: sprites-sprite-width(children-international); }
-  .aclu {
-    @extend .sprites-aclu;
-    height: sprites-sprite-height(aclu);
-    width: sprites-sprite-width(aclu); }
-  .linux {
-    @extend .sprites-linux;
-    height: sprites-sprite-height(linux);
-    width: sprites-sprite-width(linux); }
 }
