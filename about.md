@@ -6,7 +6,7 @@ audio: /assets/audio/Ogpissd5.mp3
 
 ## Introduction
 
-I don't even know where to begin with actual words; some clues have been embedded in various places if you care to decipher them.
+I don't even know where to begin with actual words; some clues have been embedded in various places if you care to decipher them. Mostly this site exists because I really like to create and build things. And if you learn a useful thing while you're here I'd feel pretty good about that too.
 
 BUT - it *is* funny to pretend that {% include brand.html %} is a brand, corporation or product and not a living, breathing meatbag (though {% include brand.html %} does not think the reverse is funny). As such, the human known as "Nate Mow" has prepared the following statements to support his not-actually-a-brand-corporation-or-product:
 
