@@ -7,7 +7,6 @@ defaults:
   -
     scope:
       pages: "" # Denotes all pages.
-      type: "pages"
     values:
       layout: default
   -
@@ -15,8 +14,7 @@ defaults:
       path: "blarg" # Denotes all pages.
       type: "posts"
     values:
-      layout: default
-      category: blarg
+      category: "blarg"
 
 # Build settings.
 markdown: kramdown
