@@ -57,7 +57,7 @@ an example.
 Below are pros/cons, lessons learned, etc. when using supported contrib modules
 with ngApp's drupalServices factory.
 
-### Services (3.x) REST server
+### [Services (3.x) REST server](https://www.drupal.org/project/services)
 
 * De facto standard for D7 sites.
 * Views can be exposed through Services Views contrib.
@@ -67,7 +67,7 @@ with ngApp's drupalServices factory.
     similar to what's in the restws contrib mod and suffers from the same lack
     of functionality.
 
-### Views Datasource
+### [Views Datasource](https://www.drupal.org/project/views_datasource)
 
 * Low barrier to entry; very easy to set up and use.
 * No built-in X-CSRF-Token support.
@@ -82,7 +82,7 @@ with ngApp's drupalServices factory.
   function names. Be sure to create unique names if you are creating multiple
   Views that have displays using the Views JSON style plugin.
 
-### RESTful Web Services
+### [RESTful Web Services](https://www.drupal.org/project/restws)
 
 * Allows you to query any entity right out of the box.
 * Requires some know-how with Drupal entities and schema.
@@ -98,12 +98,10 @@ with ngApp's drupalServices factory.
 
 * Just my opinions/observations here!
 * Goals are different:
-  * https://www.drupal.org/project/angularjs
-    AngularJS contrib provides a lot of hooks, config utilities and theming
+  * [AngularJS contrib](https://www.drupal.org/project/angularjs) provides a lot of hooks, config utilities and theming
     functionality to developers that want to use Drupal code to output
     Angular-enabled elements.
-  * https://www.drupal.org/project/ngapp
-    ngApp contrib tries to focus on plugging pure Angular developers in to an
+  * [ngApp contrib](https://www.drupal.org/project/ngapp) tries to focus on plugging pure Angular developers in to an
     existing Drupal site, who likely have/want very little Drupal know-how;
     Drupal know-how is very separated from Angular know-how.
 * AngularJS seems to require that a Drupal dev first write a module to start
