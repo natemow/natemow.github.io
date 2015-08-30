@@ -21,7 +21,6 @@
           {% include nav-blog.html %}{% endif %}
 
         </div>
-
         <nav>
           <h2>Directory</h2>{% if page.url == '/' %}
           <p>Click the World Wide Web hyperlinks below to learn more about the {% include brand.html %} project:</p>
@@ -34,7 +33,6 @@
             {% for p in site.pages %}{% if p.url != page.url %}<li><a href="{% if p.url == "" %}/{% else %}{{ p.url }}{% endif %}">{{ p.title }}</a></li>{% endif %}{% endfor %}
           </ul>
         </nav>
-
         <span class="line-numbers"></span>
       </section>
       <aside class="col-sm-12 col-md-3 col-lg-3">
