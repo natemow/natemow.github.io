@@ -1,5 +1,5 @@
 ---
-title: ngApp: Using AngularJS on your Drupal site
+title: ngApp\: Using AngularJS on your Drupal site
 description: This module turns your Drupal site in to an AngularJS application. Its goal is to help you start using Angular on your site very quickly, optionally using popular contrib modules for retrieving JSON data from local RESTful endpoints.
 tags: [ blog, AngularJS, Drupal ]
 project_url: https://www.drupal.org/project/ngapp
