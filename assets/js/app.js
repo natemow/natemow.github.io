@@ -78,14 +78,17 @@
 
       $.each($('ul li', context), function() {
         var $self = $(this);
-        var $html = '<span class="content pull-left">' + $self.html() + '</span>';
 
         var $bullet = $(document.createElement('span'))
           .addClass('bullet pull-left')
           .text('*');
 
+        var $html = '<span class="content pull-left">' + $self.html() + '</span>';
+        if (!$self.parent.hasClass('.main-menu')) {
+          $self.html($html);
+        }
+
         $self
-          .html($html)
           .prepend($bullet);
       });
 
