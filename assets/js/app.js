@@ -48,6 +48,14 @@
           .html($self.text() + '<span>' + wrapper + '</span>');
       });
 
+      // Add share link to main menu.
+      var $menu_item = $(document.createElement('li'));
+      var $menu_link = $(document.createElement('a'))
+        .prop('src', 'https://www.facebook.com/sharer.php?u=' + settings.page.url)
+        .text('Share on Facebook');
+      $menu_item.append($menu_link);
+      $menu.append($menu_item);
+
       $('a[href*=#]', $menu)
         .click(function(evt) {
           evt.preventDefault();

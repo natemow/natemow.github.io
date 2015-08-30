@@ -19,6 +19,7 @@
     },
     page: {
       title: "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
+      url: "{{ site.baseurl }}{{ page.url }}",
       audio: "{% if page.audio %}{{ page.audio }}{% endif %}"
     },
     theme: { }
