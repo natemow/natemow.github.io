@@ -5,8 +5,6 @@ tags: [ blog, AngularJS, Firebase ]
 url_demo: https://popping-heat-9563.firebaseapp.com/
 ---
 
-
-
 ## Introduction
 
 This is a demo project illustrating 3-way data binding using [AngularJS](https://angularjs.org/) and [Firebase](https://www.firebase.com/), inspired by Anant Narayanan's talk at NG-Conf 2014.

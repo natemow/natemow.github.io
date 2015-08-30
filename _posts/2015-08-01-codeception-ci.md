@@ -5,8 +5,6 @@ tags: [ blog, Codeception, PHP unit testing, continuous integration ]
 url_github: https://github.com/natemow/codeception-ci-generator
 ---
 
-
-
 ## Introduction
 
 This is a shell installer that will create a PHP stub project that has [Codeception](http://codeception.com/) testing, [TravisCI](https://travis-ci.org/) and/or [CircleCI](https://circleci.com/) continuous integration baked in. Just grab and run `codeception-ci-generator.sh` to experience the magic:

@@ -3,8 +3,6 @@ title: Hello, world
 url_github: https://github.com/natemow/natemow.github.io
 ---
 
-
-
 ## Introduction
 
 Hello, world. This README documents {% include brand.html %}. If you happen to be a <a href="http://en.wikipedia.org/wiki/Programmer">programmer</a> or a dark sort of person, we hope you enjoy its design hilarity; if you are not those things, we hope you still find {% include brand.html %} to be a useful tool despite its poor visual appeal.
