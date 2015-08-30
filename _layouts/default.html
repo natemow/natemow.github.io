@@ -23,8 +23,8 @@
         </div>
 
         <nav>
-          <h2>Directory</h2>
-          {% if page.url == '/' %}<p>Click the World Wide Web hyperlinks below to learn more about the {% include brand.html %} project:</p>
+          <h2>Directory</h2>{% if page.url == '/' %}
+          <p>Click the World Wide Web hyperlinks below to learn more about the {% include brand.html %} project:</p>
           <ul class="menu">
             <li>{{ site.title }}@<a href="https://github.com/{{ site.title }}" class="blink">GitHub</a> &lt;-- CLICK HERE TODAY!!!</li>
             <li>{{ site.title }}@<a href="https://www.drupal.org/u/{{ site.title }}" class="blink">Drupal</a> &lt;-- CLICK HERE TODAY!!!</li>
