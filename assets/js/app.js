@@ -84,7 +84,7 @@
           .text('*');
 
         var $html = '<span class="content pull-left">' + $self.html() + '</span>';
-        if (!$self.parent().hasClass('.main-menu')) {
+        if (!$self.parent().hasClass('main-menu')) {
           $self.html($html);
         }
 
