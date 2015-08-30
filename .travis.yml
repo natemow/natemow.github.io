@@ -3,8 +3,8 @@ rvm:
 - 2.1
 
 install: gem install jekyll html-proofer
-script: bundle exec jekyll build && bundle exec htmlproof ./_site --disable-external
+script: jekyll build && htmlproof ./_site --disable-external
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
