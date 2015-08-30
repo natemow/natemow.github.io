@@ -51,7 +51,8 @@
       // Add share link to main menu.
       var $menu_item = $(document.createElement('li'));
       var $menu_link = $(document.createElement('a'))
-        .prop('src', 'https://www.facebook.com/sharer.php?u=' + settings.page.url)
+        .prop('href', 'https://www.facebook.com/sharer.php?u=' + settings.page.url)
+        .prop('_target', '_blank')
         .text('Share on Facebook');
       $menu_item.append($menu_link);
       $menu.append($menu_item);
