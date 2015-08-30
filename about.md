@@ -15,3 +15,6 @@ BUT - it *is* funny to pretend that {% include brand.html %} is a brand, corpora
 
 ### STATEMENT #2
 {% include brand.html %} requires new inputs in order to grow as a unit. {% include brand.html %} is programmed to fail over to older mal inputs if left to its own devices. In order for {% include brand.html %} to successfully avoid mal output, it requires upkeep and occassional non-scheduled maintenance. Unfortunately, {% include brand.html %} does not respond well to routinely scheduled configuration checks.
+
+### STATEMENT #3
+{% include brand.html %} is a sometimes-smart, sometimes-cool and sometimes-interesting person who doesn't always believe those things about himself; it is not entirely unhealthy to actively write and illustrate otherwise. So {% include brand.html %} has been told anyway.
