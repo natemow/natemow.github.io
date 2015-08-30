@@ -9,8 +9,9 @@
           {% if page.project_demo_url %}<li><a href="{{ page.project_demo_url }}" target="_blank">View demo</a></li>{% endif %}
           {% if page.project_url %}<li><a href="{{ page.project_url }}" target="_blank">View main project page</a></li>{% endif %}
         </ul>
-
+        <div class="content">
 {{ content }}
+        </div>
 
         {% if page.tags.first == "blog" %}
 

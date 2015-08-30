@@ -83,9 +83,9 @@
           .addClass('bullet pull-left')
           .text('*');
 
-        var $html = '<span class="content pull-left">' + $self.html() + '</span>';
-        if (!$self.parent().hasClass('main-menu')) {
-          $self.html($html);
+        if ($($self, 'section .content').length) {
+          var html = '<span class="content pull-left">' + $self.html() + '</span>';
+          $self.html(html);
         }
 
         $self
