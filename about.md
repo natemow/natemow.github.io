@@ -11,7 +11,7 @@ I don't even know where to begin; some clues have been embedded in various place
 BUT - it *is* funny to pretend that {% include brand.html %} is a brand, corporation or product and not a living, breathing meatbag (though {% include brand.html %} does not think the reverse is funny). As such, the human known as "Nate Mow" has prepared the following statements to support his not-actually-a-brand-corporation-or-product:
 
 * ### STATEMENT #1
-  {% include brand.html %} requires 3 inputs at all times in order to value itself at all: [1] meaningful work, [2] satisfaction in a job well done and [3] occassional affection and/or comraderie so that it feels pretty and remembers that there is more to life than bullets [1] and [2].
+  {% include brand.html %} requires 3 inputs at all times in order to value itself at all: [1] meaningful work, [2] satisfaction in a job well done and [3] occassional affection and/or camaraderie so that it feels pretty and remembers that there is more to life than bullets [1] and [2].
 
 * ### STATEMENT #2
   {% include brand.html %} requires new inputs in order to grow as a unit. {% include brand.html %} is programmed to fail over to older mal inputs if left to its own devices. In order for {% include brand.html %} to successfully avoid mal output, it requires upkeep and occassional non-scheduled maintenance. Unfortunately, {% include brand.html %} does not respond well to routinely scheduled configuration checks.
