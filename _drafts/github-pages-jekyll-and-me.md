@@ -1,5 +1,5 @@
 ---
-title: DRAFT - GitHub pages, Jekyll and me
+title: GitHub pages, Jekyll and me
 description: This post documents my growing interest in and experiences learning and using GitHub pages, Jekyll and YAML Front Matter with Markdown as a pure data source.
 tags: [ blog, GitHub pages, Jekyll, open data APIs ]
 project_url: https://github.com/natemow/natemow.github.io
