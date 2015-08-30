@@ -8,7 +8,9 @@ audio: /assets/audio/Ogpissd5.mp3
 
 I don't even know where to begin.
 
-It is funny to pretend that {% include brand.html %} is a brand or software product and not a living, breathing meatbag. As such the human known as "Nate Mow" has prepared the following statements to support his brand:
+It is funny to pretend that {% include brand.html %} is a brand or corporation and not a living, breathing meatbag. {% include brand.html %} also believes that it is funny to pretend that a brand or corporation is an actual living, breathing meatbag with all the same (and often more) privileges and freedoms.
+
+The human known as "Nate Mow" has prepared the following statements to support his not-actually-a-brand-or-corporation:
 
 * {% include brand.html %} requires 3 inputs at all times in order to value itself at all: 1) meaningful work, 2) satisfaction in a job well done and 3) occassional affection and/or comraderie so that it feels pretty and remembers that there is more to life than bullets 1 and 2.
 
