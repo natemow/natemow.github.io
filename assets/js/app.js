@@ -28,6 +28,9 @@
 
       $.each($('h2', context), function(ix, e) {
         var $self = $(e);
+        if ($self.hasClass('sr-only')) {
+          return;
+        }
 
         // Add header to main menu.
         if (ix > 0) {
