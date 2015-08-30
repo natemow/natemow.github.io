@@ -104,12 +104,12 @@ with ngApp's drupalServices factory.
   * [ngApp contrib](https://www.drupal.org/project/ngapp) tries to focus on plugging pure Angular developers in to an
     existing Drupal site, who likely have/want very little Drupal know-how;
     Drupal know-how is very separated from Angular know-how.
-* AngularJS seems to require that a Drupal dev first write a module to start
+* AngularJS contrib seems to require that a Drupal dev first write a module to start
   outputting Angular stuff on a site - that should not be.
-* AngularJS is not future-proof - new Angular versions and scripts require that
+* AngularJS contrib is not future-proof - new Angular versions and scripts require that
   the contrib be updated before devs can start using them; ngApp is wide open
   as far as setting your stack goes.
-* Using custom minified builds of an Angular stack is easier with ngApp.
-* ngApp has working examples and an accessible demo site; AngularJS does not.
-* ngApp has a much lower barrier to entry than AngularJS - you can actively
+* Using custom minified builds of an Angular stack is easier with ngApp contrib.
+* ngApp contrib has working examples and an accessible demo site; AngularJS contrib does not.
+* ngApp contrib has a much lower barrier to entry than AngularJS contrib - you can actively
   be using Angular on your site in ~15m or less with ngApp.
