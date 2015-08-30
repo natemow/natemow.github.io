@@ -53,7 +53,7 @@
       var $menu_link = $(document.createElement('a'))
         .prop('href', 'https://www.facebook.com/sharer.php?u=' + settings.page.url)
         .prop('target', '_blank')
-        .text('Facebook this mf');
+        .text('FB this MF');
       $menu_item.append($menu_link);
       $menu.append($menu_item);
 
