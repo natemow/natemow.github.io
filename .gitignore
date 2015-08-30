@@ -1,7 +1,9 @@
 # Build cruft.
-.sass-cache
-vendor/*
 Gemfile.lock
+.sass-cache
+.jekyll-metadata
+vendor/*
+_site
 
 # IDE cruft.
 nbproject
