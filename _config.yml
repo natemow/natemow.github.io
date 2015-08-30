@@ -16,4 +16,4 @@ defaults:
 
 # Build settings.
 markdown: kramdown
-permalink: none
+permalink: /:categories/:title/
