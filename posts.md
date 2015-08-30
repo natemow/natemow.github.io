@@ -1,6 +1,7 @@
 ---
 title: Posts
 description: Various project notes, thoughts and rants on life in general.
+project_url: https://github.com/natemow/natemow.github.io
 ---
 
 ## Introduction

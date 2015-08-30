@@ -1,6 +1,5 @@
 ---
 title: Hello, world
-project_url: https://github.com/natemow/natemow.github.io
 ---
 
 ## Introduction
