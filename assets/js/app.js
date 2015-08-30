@@ -61,6 +61,18 @@
           scrollMain(0);
         });
 
+      $.each($('h3, h4', context), function(ix, e) {
+        var $self = $(e);
+
+        // Format headers.
+        var wrapper = '';
+        for (var i=0; i < $self.text().length; i++) {
+          wrapper += '-';
+        }
+        $self
+          .html($self.text() + '<span>' + wrapper + '</span>');
+      });
+
     },
     formatLists: function(context, settings) {
 
