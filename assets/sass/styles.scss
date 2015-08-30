@@ -154,7 +154,7 @@ html {
 main {
   margin: $header-height 0 0 0;
 
-  section {
+  > section {
     &:first-child {
       border-left: solid 1px $gray-darker;
       border-right: solid 0px #200;
