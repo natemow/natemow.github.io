@@ -1,6 +1,7 @@
 {% include header.html %}
   <div class="container" id="page">
     <main class="row">
+      <h2 class="element-invisible">Main content</h2>
       <section class="col-sm-12 col-md-7 col-md-offset-1 col-lg-7 col-lg-offset-1">
         <h1>{% if page.title %}{% if page.tags.first == "blog" %}{{ page.date | remove: " 00:00:00 +0000" }} | {% endif %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
 
@@ -31,6 +32,7 @@
         {% include nav.html %}
         <span class="line-numbers"></span>
       </section>
+      <h2 class="element-invisible">Secondary content</h2>
       <aside class="col-sm-12 col-md-3 col-lg-3">
         <span class="physician">Hans Holbein's Great Dance of Death, "The Physician"</span>
       </aside>
