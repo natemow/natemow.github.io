@@ -6,11 +6,9 @@
         </div>
       </div>
     </div>
-    {% if page.audio %}
-    <div class="clearfix sr-only">
+    {% if page.audio %}<div class="clearfix sr-only">
       <audio id="player" controls="controls" type="audio/mp3"></audio>
-    </div>
-    {% endif %}
+    </div>{% endif %}
   </footer>
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script type="text/javascript" src="/assets/js/mediaelement/mediaelement-and-player.min.js"></script>
