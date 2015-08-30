@@ -22,16 +22,18 @@
 
         </div>
 
-        <h2>Directory</h2>{% if page.url == '/' %}
-        <p>Click the World Wide Web hyperlinks below to learn more about the {% include brand.html %} project:</p>
-        <ul class="menu">
-          <li>{{ site.title }}@<a href="https://github.com/{{ site.title }}" class="blink">GitHub</a> &lt;-- CLICK HERE TODAY!!!</li>
-          <li>{{ site.title }}@<a href="https://www.drupal.org/u/{{ site.title }}" class="blink">Drupal</a> &lt;-- CLICK HERE TODAY!!!</li>
-          <li>{{ site.title }}@<a href="https://www.linkedin.com/in/{{ site.title }}" class="blink warning">LinkedIn</a> &lt;-- CLICK HERE TODAY!!!</li>
-        </ul>{% endif %}
+        <h2>Directory</h2>
+        <nav>
+          <p>Click the World Wide Web hyperlinks below to learn more about the {% include brand.html %} project:</p>
+          <ul class="menu">{% if page.url == '/' %}
+            <li>{{ site.title }}@<a href="https://github.com/{{ site.title }}" class="blink">GitHub</a> &lt;-- CLICK HERE TODAY!!!</li>
+            <li>{{ site.title }}@<a href="https://www.drupal.org/u/{{ site.title }}" class="blink">Drupal</a> &lt;-- CLICK HERE TODAY!!!</li>
+            <li>{{ site.title }}@<a href="https://www.linkedin.com/in/{{ site.title }}" class="blink warning">LinkedIn</a> &lt;-- CLICK HERE TODAY!!!</li>{% endif %}
+            {% for p in site.pages %}{% if p.url != page.url %}<li><a href="{% if p.url == "" %}/{% else %}{{ p.url }}{% endif %}">{{ p.title }}</a></li>
+            {% endif %}{% endfor %}
+          </ul>
+        </nav>
 
-        <h2 class="sr-only element-invisible">Navigation</h2>
-        {% include nav.html %}
         <span class="line-numbers"></span>
       </section>
       <aside class="col-sm-12 col-md-3 col-lg-3">

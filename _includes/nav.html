@@ -1,6 +1,0 @@
-<nav>
-          <ul class="menu">
-            {% for p in site.pages %}{% if p.url != page.url %}<li><a href="{% if p.url == "" %}/{% else %}{{ p.url }}{% endif %}">{{ p.title }}</a></li>
-            {% endif %}{% endfor %}
-          </ul>
-        </nav>
