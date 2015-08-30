@@ -1,6 +1,6 @@
 <meta charset="utf-8" />
   <title>{% if page.title %}{{ page.title }}{% endif %} | {{ site.title }}, {{ site.author }}</title>
-  <meta name="keywords" content="{% if page.title %}{{ page.title }}, {% endif %}{% if page.tags.first == "blog" %}{{ page.tags | join: ', ' | remove_first: "blog, " }}, {% endif %} Nate Mow" />
+  <meta name="keywords" content="{% if page.title %}{{ page.title }}, {% endif %}{% if page.tags.first == "blog" %}{{ page.tags | join: ', ' | remove_first: "blog, " }}, {% endif %} {{ site.title }}, Nate Mow" />
   <meta name="description" content="{% if page.description %}{{ page.description }} Brought to you by {{ site.title }}, {{ site.author }}.{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
   <meta property="og:site_name" content="{{ site.title }}, {{ site.author }}" />
