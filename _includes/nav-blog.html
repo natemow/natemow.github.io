@@ -1,4 +1,8 @@
-  <ul class="menu">
+<h2>Tags</h2>
+<p>{{ page.tags | join: ', ' | remove_first: "blog, " }}</p>
+
+<h2>More posts</h2>
+<ul class="menu">
             {% for p in site.posts %}<li><a href="{{ p.url }}">{{ p.date | remove: " 00:00:00 +0000" }} | {{ p.title }}</a></li>
             {% endfor %}
           </ul>
