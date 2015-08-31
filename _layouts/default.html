@@ -27,10 +27,8 @@
   </header>
   <div class="container" id="page">
     <main class="row">
-      <h2 id="content" class="sr-only element-invisible">Main content</h2>
+      <h1 id="content">{% if page.title %}{% if page.tags.first == "blog" %}{{ page.date | remove: " 00:00:00 +0000" }} | {% endif %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
       <section class="col-sm-12 col-md-7 col-md-offset-1 col-lg-7 col-lg-offset-1">
-
-        <h1>{% if page.title %}{% if page.tags.first == "blog" %}{{ page.date | remove: " 00:00:00 +0000" }} | {% endif %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
         <h2>Contents of this file</h2>
         <ul class="menu main-menu">{% if page.project_demo_url %}
           <li><a href="{{ page.project_demo_url }}" target="_blank">View demo</a></li>{% endif %}{% if page.project_url %}
