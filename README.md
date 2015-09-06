@@ -7,13 +7,13 @@ Get set up for local compilation and building:
     # For Jekyll:
     bundle install;
 
-    # For Compass and Grunt tasks:
+    # For Compass and Bootstrap SASS + Grunt tasks:
     cd script && bundle install && npm install;
 
 Compile stuff locally:
 
-    # Jekyll build watcher.
+    # Jekyll watcher.
     bundle exec jekyll build --watch;
 
-    # Asset compilation watcher.
+    # Grunt watcher.
     cd script && grunt;
