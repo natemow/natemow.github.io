@@ -7,6 +7,7 @@
 @import "compass/css3/images";
 @import "compass/css3/opacity";
 @import "compass/css3/border-radius";
+@import "compass/css3/transform";
 @import "compass/css3/transition";
 @import "mixins";
 
@@ -16,8 +17,10 @@
 
 $green: #8AE234;
 $cyan: $link-color;
+$orange: #f60;
 $stripe: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAGCAYAAAACEPQxAAAAEUlEQVQIW2NkYGBgYMRB/AcAAYYBBnc9HSMAAAAASUVORK5CYII=';
 $header-height: ($line-height-computed * 2);
+@import "ee";
 
 h1, h2, h3, h4 {
   clear: both;
@@ -85,11 +88,10 @@ a, a:link, a:visited, a:hover, a:active {
 .hidden {
   @include element-invisible(); }
 
-html {
 
+html {
   &.invert {
     -webkit-filter: invert(100%);
-
     .no-invert * {
       -webkit-filter: invert(100%); }
   }
@@ -104,7 +106,6 @@ html {
 
   body {
     background: url($stripe) repeat 0 0 #111;
-
     color: $gray-lighter;
 
     #page.container {
@@ -133,7 +134,7 @@ html {
     z-index: 2; }
 
   p.tagline {
-    @include opacity(.15);
+    color: $gray-darker;
     margin: (-$line-height-computed *.50) 0 0 0;
     position: absolute;
     z-index: 1; }
@@ -150,12 +151,15 @@ html {
 }
 
 main {
+  $width-aside: 310px;
+  @include easter-eggs(
+    $width-aside
+  );
+
   margin: $header-height 0 0 0;
 
-  > section {
-    border-left: solid 1px $gray-darker;
-    border-right: solid 0px #200;
-
+  > section,
+  > aside {
     h1, h2, h3, h4 {
       span {
         clear: both;
@@ -164,10 +168,11 @@ main {
   }
 
   .line-numbers {
+    border-right: solid 1px $gray-darker;
     color: $gray-darker;
-    display: block;
     left: 0;
-    margin-left: -($grid-gutter-width);
+    margin-left: -30px;
+    padding-right: 15px;
     position: absolute;
     text-align: right;
     top: 0; }
@@ -177,10 +182,12 @@ main {
     background: url(../img/physician.png) no-repeat 0 0 transparent;
     display: block;
     height: 700px;
-    margin: 0;
+    margin: 0 0 0 -3px;
     position: fixed;
+    top: 100px;
+    bottom: 0;
     z-index: -1;
-    width: 310px; }
+    width: $width-aside; }
 }
 
 footer {

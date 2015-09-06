@@ -9,7 +9,7 @@
   var scrollMain = function(top) {
     $('html, body').animate({
       scrollTop: top
-    }, 500);
+    }, 400);
   };
 
   var theme = {
@@ -17,8 +17,7 @@
 
       this.bindMainMenu(context, settings);
       this.formatLists(context, settings);
-      this.setLineNumbers(context, settings);
-      this.bindContent(context, settings);
+      this.effects(context, settings);
 
     },
     bindMainMenu: function(context, settings) {
@@ -106,13 +105,13 @@
       });
 
     },
-    setLineNumbers: function(context, settings) {
+    effects: function(context, settings) {
 
       // Populate "line numbers" element.
       var $main = $('main', context);
       var $lines = $('.line-numbers', $main);
 
-      // 18 is the calculated line height set by Bootstrap.
+      // 18 is the calculated line height from the CSS.
       var lines = '<ol>';
       var count = Math.round($main.height() / 18);
       for (var i=1; i < (count + 1); i++) {
@@ -122,9 +121,6 @@
 
       $lines
         .html(lines);
-
-    },
-    bindContent: function(context, settings) {
 
       // Do blinky stuff.
       var n = 0;
@@ -136,13 +132,6 @@
         }, 200);
       }, 200);
 
-      $('a.blink.warning', context).click(function(evt) {
-        var $self = $(this);
-        if (!confirm($self.prop('title'))) {
-          return false;
-        }
-      });
-
       // Do soundy stuff.
       if ($('#player').length && settings.page.audio.length) {
         var random = [Math.floor(Math.random() * settings.page.audio.length)];
@@ -152,7 +141,58 @@
         player.play();
       }
 
-    }
+
+      // Do some gd easter eggs, mf.
+      var eeClick = function(evt) {
+        evt.preventDefault();
+
+        var $self = $(this);
+        var target = $self.attr('rel');
+        var $content = $('#' + target + ' .ee-c', $main);
+        var $wrapper = $content.parent('.ee-wrapper');
+
+        switch (target) {
+          case 'ee-0':
+          case 'ee-1':
+          case 'ee-2':
+            var left = (!$wrapper.hasClass('open') ? 0 : -$wrapper.outerWidth());
+            if (left == 0) {
+              $('.ee-wrapper', $main).removeClass('open');
+              $wrapper.toggleClass('open');
+            }
+            $content
+              .stop()
+              .animate({ 'margin-left': left + 'px' }, 200, function(e) {
+                if (left == 0) {
+                  $content.bind('click', eeClick);
+                }
+                else {
+                  $content.unbind('click');
+                  $('.ee-wrapper', $main).removeClass('open');
+                }
+              });
+            break;
+        };
+      };
+
+      $('a.ee', $main)
+        .each(function(ix, e) {
+          $(this)
+            .attr('rel', 'ee-' + ix)
+            .parent()
+            .append(document.createElement('div'))
+            .children('div:not([id^="ee-"])')
+            .attr('id', 'ee-' + ix)
+            .addClass('ee-wrapper')
+            .append(document.createElement('div'))
+            .find('div')
+            .addClass('ee-c')
+            .attr('rel', 'ee-' + ix)
+            .html($('section .content').html());
+        })
+        .click(eeClick);
+
+    },
   };
 
   var context = $('body');
