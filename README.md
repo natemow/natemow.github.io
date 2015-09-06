@@ -15,5 +15,5 @@ Compile stuff locally:
     # Jekyll build watcher.
     bundle exec jekyll build --watch;
 
-    # Asset compile watcher.
+    # Asset compilation watcher.
     cd script && grunt;
