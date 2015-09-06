@@ -4,20 +4,20 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     concat: {
       dev: {
-        src: ['assets/js/app.js'],
-        dest: 'assets/js/app.concat.js',
+        src: ['../assets/js/app.js'],
+        dest: '../assets/js/app.concat.js',
       }
     },
     uglify: {
       dev: {
-        src: 'assets/js/app.concat.js',
-        dest: 'assets/js/app.min.js'
+        src: '../assets/js/app.concat.js',
+        dest: '../assets/js/app.min.js'
       }
     },
     compass: {
       dev: {
-        src: ['assets/sass/*.scss'],
-        dest: 'assets/css/styles.css',
+        src: ['../assets/sass/*.scss'],
+        dest: '../assets/css/styles.css',
         options: {
           outputStyle: 'compressed',
           relativeAssets: true
@@ -26,7 +26,7 @@ module.exports = function(grunt) {
     },
     watch: {
       dev: {
-        files: ['assets/js/*.js', 'assets/sass/*.scss'],
+        files: ['../assets/js/*.js', '../assets/sass/*.scss'],
         tasks: ['concat', 'uglify', 'compass'],
         options: {
           spawn: false,

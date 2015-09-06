@@ -1,12 +1,13 @@
 # Build cruft.
-Gemfile.lock
-.sass-cache
 .jekyll-metadata
-node_modules
 assets/css/bootstrap
 assets/css/fonts
 assets/js/app.concat.js
+script/.sass-cache
+script/node_modules
+script/Gemfile.lock
 vendor/*
+Gemfile.lock
 _site
 
 # IDE cruft.
