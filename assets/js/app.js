@@ -188,7 +188,7 @@
             .find('div')
             .addClass('ee-c')
             .attr('rel', 'ee-' + ix)
-            .html($('section .content').html());
+            .html('<p>I am #ee-' + ix + '!</p>');
         })
         .click(eeClick);
 
