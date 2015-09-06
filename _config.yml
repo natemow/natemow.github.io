@@ -24,7 +24,7 @@ defaults:
       layout: default
 
 # Handling reading.
-exclude: [ nbproject, vendor, script, assets/sass, assets/img/sprites/, Gemfile, Gemfile.lock, config.rb, README.md ]
+exclude: [ nbproject, vendor, script, assets/sass, assets/img/sprites/, assets/css/bootstrap, assets/css/fonts, assets/js/app.js, assets/js/app.concat.js, Gemfile, Gemfile.lock, config.rb, gruntfile.js, package.json, node_modules, README.md ]
 
 # Conversion.
 markdown: kramdown

@@ -6,6 +6,7 @@ http_path = "/assets"
 css_dir = "/assets/css"
 sass_dir = "/assets/sass"
 images_dir = "/assets/img"
+fonts_dir = "/assets/fonts"
 javascripts_dir = "/assets/js"
 
 # To enable relative paths to assets via compass helper functions. Uncomment:

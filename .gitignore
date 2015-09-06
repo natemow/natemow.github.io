@@ -2,6 +2,10 @@
 Gemfile.lock
 .sass-cache
 .jekyll-metadata
+node_modules
+assets/css/bootstrap
+assets/css/fonts
+assets/js/app.concat.js
 vendor/*
 _site
 
