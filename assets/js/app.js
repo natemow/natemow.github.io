@@ -6,6 +6,9 @@
 
   'use strict';
 
+  jQuery.browser = {};
+  jQuery.browser.webkit = /webkit/.test(navigator.userAgent.toLowerCase());
+
   var scrollMain = function(top) {
     $('html, body').animate({
       scrollTop: top
@@ -107,18 +110,15 @@
     },
     effects: function(context, settings) {
 
-      // Populate "line numbers" element.
+      // Do line number stuff (18 is the calculated line height from the CSS).
       var $main = $('main', context);
       var $lines = $('.line-numbers', $main);
-
-      // 18 is the calculated line height from the CSS.
       var lines = '<ol>';
       var count = Math.round($main.height() / 18);
       for (var i=1; i < (count + 1); i++) {
         lines += '<li>' + i + '</li>';
       }
       lines += '</ol>';
-
       $lines
         .html(lines);
 
@@ -141,7 +141,6 @@
         player.play();
       }
 
-
       // Do some gd easter eggs, mf.
       var eeClick = function(evt) {
         evt.preventDefault();
@@ -153,6 +152,21 @@
 
         switch (target) {
           case 'ee-0':
+            if (!$.browser.webkit) {
+              break;
+            }
+            var left = (!$wrapper.hasClass('open') ? 0 : -$wrapper.outerWidth());
+            if (left == 0) {
+              $content.bind('click', eeClick);
+            }
+            else {
+              $content.unbind('click');
+            }
+            $('html').toggleClass('invert');
+            $content.css({ 'margin-left': left });
+            $wrapper.toggleClass('open');
+            break;
+
           case 'ee-1':
           case 'ee-2':
             var left = (!$wrapper.hasClass('open') ? 0 : -$wrapper.outerWidth());
