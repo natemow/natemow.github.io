@@ -110,10 +110,10 @@ html {
 
     #page.container {
       overflow: hidden;
-      position: relative; }
+      position: relative;
+    }
   }
 }
-
 #header {
   height: $header-height;
   padding: ($line-height-computed * .50) 0;
