@@ -171,12 +171,12 @@ Washington, DC 20010 |
 WHEREFORE, the Parties hereto have executed this Agreement or caused this 
 Agreement to be executed on the day and year first written above.
 
-| Client | ____________________ |
-| By | ____________________ |
-| Name | ____________________ |
-| Title | ____________________ |
+| Client | - |
+| By | - |
+| Name | - |
+| Title | - |
 |  |  |
-| Consultant | ____________________ |
-| By | ____________________ |
-| Name | ____________________ |
+| Consultant | - |
+| By | - |
+| Name | - |
 
