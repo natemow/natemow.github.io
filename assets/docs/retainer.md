@@ -173,8 +173,8 @@ addressed to the appropriate party at the address set forth below:
 WHEREFORE, the Parties hereto have executed this Agreement or caused this 
 Agreement to be executed on the day and year first written above.
 
-|  | Consultant |  | Client |
-|  | :--------- |  | :----- |
+| - | Consultant | - | Client |
+| - | :--------- | - | :----- |
 | By | ____________________ | By | ____________________ |
 | Name | ____________________  | Name | ____________________ |
 | Title | ____________________  | Title | ____________________ |
