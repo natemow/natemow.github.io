@@ -163,7 +163,7 @@ addressed to the appropriate party at the address set forth below:
 
 | Notices to Consultant | Notices to Client |
 | :-------------------- | :---------------- |
-| <br><br><br><br> | <br><br><br><br> |
+| <br>______________________________<br>______________________________<br>______________________________<br>______________________________ | <br>______________________________<br>______________________________<br>______________________________<br>______________________________ |
 
 ## 5. Acknowledgement
 WHEREFORE, the Parties hereto have executed this Agreement or caused this 
@@ -171,7 +171,7 @@ Agreement to be executed on the day and year first written above.
 
 | &nbsp; | Consultant | &nbsp; | Client |
 | :----- | :--------- | :----- | :----- |
-| By | ____________________ | By | ____________________ |
-| Name | ____________________  | Name | ____________________ |
-| Title | ____________________  | Title | ____________________ |
+| By | ______________________________ | By | ______________________________ |
+| Name | ______________________________ | Name | ______________________________ |
+| Title | ______________________________ | Title | ______________________________ |
 
