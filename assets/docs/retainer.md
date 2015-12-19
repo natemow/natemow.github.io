@@ -21,9 +21,7 @@ During the term of this Agreement, the Consultant shall be available and shall p
 
 ## 2. Compensation
 
-Upon execution of this Agreement, the Client agrees to pay the Consultant __________ for Services as set forth in Paragraph 1 above.
-
-A good faith deposit of __________ (____% of the total budget) is required to initiate work.
+Upon execution of this Agreement, the Client agrees to pay the Consultant __________ for Services as set forth in Paragraph 1 above. A good faith deposit of __________ (____% of the total budget) is required to initiate work.
 
 Payments shall be made by the Client so that same are received by the Consultant not later than 30 days after work product has been delivered. Failure of the Client to make said timely payment to the Consultant shall excuse the Consultant from performing hereunder but shall not be deemed or construed to be a waiver of any rights or interests of the Consultant.
 
