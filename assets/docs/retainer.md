@@ -14,16 +14,16 @@ NOW THEREFORE, for the mutual promises set forth herein, and for other good and
 valuable consideration, the sufficiency of which is hereby acknowledged by the 
 Parties, the Client and the Consultant agree as follows:
 
-1. SERVICES
-  During the term of this Agreement, the Consultant shall be available and shall 
-  provide to the Client, as requested, professional services (the "Services") 
-  necessary to support the Client's ongoing technical and business development 
-  initiatives. The Services will be limited to the following:
-  * PHP, MySQL, JavaScript or other programming, to expand and/or revise the functionality of the Client's web property, __________.
-  * Web design and production per Client's specifications.
-  * Ongoing consultative, creative, and technical support of the Client's business development initiatives.
-  * Routine server and system administration to support the software.
-  
+1. ### SERVICES
+During the term of this Agreement, the Consultant shall be available and shall 
+provide to the Client, as requested, professional services (the "Services") 
+necessary to support the Client's ongoing technical and business development 
+initiatives. The Services will be limited to the following:
+* PHP, MySQL, JavaScript or other programming, to expand and/or revise the functionality of the Client's web property, __________.
+* Web design and production per Client's specifications.
+* Ongoing consultative, creative, and technical support of the Client's business development initiatives.
+* Routine server and system administration to support the software.
+
 1. COMPENSATION
 
 Upon execution of this Agreement, the Client agrees to pay the Consultant 
