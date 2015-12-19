@@ -15,8 +15,8 @@ During the term of this Agreement, the Consultant shall be available and shall p
 * PHP, HTML, JavaScript or other programming, to update the visual elements of the Client's web property, ____________________.
 * Technical implementation of web design and Wordpress theming based on specifications and artwork provided by the Client.
 * Content implementation using one of the following approaches:
-- Data migration of content to a new Wordpress instance hosted on Client's Dreamhost account.
-- Upgrade and configuration of the Client's current Wordpress instance on Client's Dreamhost account.
+  * Data migration of content to a new Wordpress instance hosted on Client's Dreamhost account.
+  * Upgrade and configuration of the Client's current Wordpress instance on Client's Dreamhost account.
 * As-needed technical support related to the launch of the updated web property.
 
 ## 2. Compensation
