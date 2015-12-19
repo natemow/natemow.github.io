@@ -2,7 +2,8 @@
 
 This is a Retainer and Services Agreement ("Agreement") made effective as of the _____ day of __________, BY AND BETWEEN: 
 ____________________, a ____________________ based in ____________________, with an office at ____________________ (the "Client") and 
-____________________, a ____________________ based in ____________________, with an office at ____________________ (the "Consultant"). 
+____________________, a ____________________ based in ____________________, with an office at ____________________ (the "Consultant").
+
 The Client and the Consultant are hereafter referred to collectively as the "Parties" and/or individually as a "Party." WHEREAS the Client desires to retain the Consultant to provide services, as more particularly described below (the "Services"), and the Consultant desires to be so retained and to perform the Services for the Client.
 
 NOW THEREFORE, for the mutual promises set forth herein, and for other good and valuable consideration, the sufficiency of which is hereby acknowledged by the Parties, the Client and the Consultant agree as follows:
