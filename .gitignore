@@ -10,6 +10,7 @@ vendor/*
 Gemfile.lock
 _site
 template.html
+assets/docs/retainer-*.md
 
 # IDE cruft.
 nbproject
