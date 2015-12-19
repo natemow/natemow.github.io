@@ -14,7 +14,7 @@ NOW THEREFORE, for the mutual promises set forth herein, and for other good and
 valuable consideration, the sufficiency of which is hereby acknowledged by the 
 Parties, the Client and the Consultant agree as follows:
 
-## 1. SERVICES
+## 1. Services
 During the term of this Agreement, the Consultant shall be available and shall 
 provide to the Client, as requested, professional services (the "Services") 
 necessary to support the Client's ongoing technical and business development 
@@ -24,7 +24,7 @@ initiatives. The Services will be limited to the following:
   * Ongoing consultative, creative, and technical support of the Client's business development initiatives.
   * Routine server and system administration to support the software.
 
-## 2. COMPENSATION
+## 2. Compensation
 Upon execution of this Agreement, the Client agrees to pay the Consultant 
 
 Should the Client request or approve services, equipment, costs and expenses (delivery charges, travel
@@ -32,7 +32,7 @@ expenses, software and/or hardware) that are beyond the Services described in Pa
 instance, the Consultant will bill the Client directly, at cost and without markup, prior to the Consultant providing
 same in each instance.
 
-## 3. TERM
+## 3. Term
 This Agreement shall commence on __________ and shall continue indefinitely, 
 unless earlier terminated by either party hereto. Either party may terminate this 
 Agreement upon thirty (30) days prior written notice.
@@ -156,27 +156,22 @@ that he/she/it is subject to personal jurisdiction in any court located in the D
 hereby waives any rights to challenge or deny same and/or challenge or dispute service of process
 by any means at any location should any action by the Consultant be taken to enforce this Agreement.
 
-## 4. NOTICE
+## 4. Notice
 Any notice or communication permitted or required by this Agreement shall be deemed effective when
 personally delivered or deposited, postage prepaid, in the first class mail of the United States properly
 addressed to the appropriate party at the address set forth below:
 
 | Notices to Consultant | Notices to Client |
 | :-------------------- | :---------------- |
-| 123 Test Ave.
-Washington, DC 20010  | 123 Test Ave.
-Washington, DC 20010 |
+| 123 Test Ave.\nWashington, DC 20010  | 123 Test Ave.\nWashington, DC 20010 |
 
-## 5. ACKNOWLEDGEMENT
+## 5. Acknowledgement
 WHEREFORE, the Parties hereto have executed this Agreement or caused this 
 Agreement to be executed on the day and year first written above.
 
-| Client | - |
-| By | - |
-| Name | - |
-| Title | - |
-|  |  |
-| Consultant | - |
-| By | - |
-| Name | - |
+| Consultant | Client |
+| :--------- | :----- |
+| By____________________ | By____________________ |
+| Name____________________  | Name____________________ |
+| Title____________________  | Title____________________ |
 
