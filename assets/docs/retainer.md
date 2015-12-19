@@ -163,15 +163,19 @@ addressed to the appropriate party at the address set forth below:
 
 | Notices to Consultant | Notices to Client |
 | :-------------------- | :---------------- |
-| 123 Test Ave.\nWashington, DC 20010  | 123 Test Ave.\nWashington, DC 20010 |
+| 
+
+  | 
+  
+   |
 
 ## 5. Acknowledgement
 WHEREFORE, the Parties hereto have executed this Agreement or caused this 
 Agreement to be executed on the day and year first written above.
 
-| Consultant | Client |
-| :--------- | :----- |
-| By____________________ | By____________________ |
-| Name____________________  | Name____________________ |
-| Title____________________  | Title____________________ |
+|  | Consultant |  | Client |
+|  | :--------- |  | :----- |
+| By | ____________________ | By | ____________________ |
+| Name | ____________________  | Name | ____________________ |
+| Title | ____________________  | Title | ____________________ |
 
