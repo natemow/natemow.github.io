@@ -162,7 +162,7 @@ personally delivered or deposited, postage prepaid, in the first class mail of t
 addressed to the appropriate party at the address set forth below:
 
 | Notices to Consultant | Notices to Client |
-| :&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; | :&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; |
+| :-------------------- | :---------------- |
 | 123 Test Ave.
 Washington, DC 20010  | 123 Test Ave.
 Washington, DC 20010 |
