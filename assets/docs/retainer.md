@@ -30,7 +30,7 @@ same in each instance.
 
 ## 3. Term
 
-This Agreement shall commence on the date specified and shall continue indefinitely, unless earlier terminated by either party hereto. Either party may terminate this Agreement upon thirty (30) days prior written notice.
+This Agreement shall commence on the day and year first written above and shall continue indefinitely, unless earlier terminated by either party hereto. Either party may terminate this Agreement upon thirty (30) days prior written notice.
 
 * **Inventions** &mdash; Unless otherwise expressly, agreed, all right, title, and interest in the final product that is developed by the Consultant for the Client shall be the property of the Client. All tools, reusable components, and other modules (collectively known as developer toolsets) integrated in the system will be nonexclusively licensed to the Client, meaning that source code will be provided and may be modified by the Consultant. These developer toolsets will continue to be used on other projects and with other clients by the Consultant.
 
