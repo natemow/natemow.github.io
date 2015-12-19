@@ -1,27 +1,22 @@
 # Retainer Agreement
 
-This is a Retainer and Services Agreement ("Agreement") made effective as of 
-the __th day of __________, BY AND BETWEEN: __________, a __________ based 
-in __________, with an office at __________ (the "Client") and __________, 
-a __________ based in __________, with an office at __________ (the "Consultant"). 
-The Client and the Consultant are hereafter referred to collectively as the "Parties" 
-and/or individually as a "Party." WHEREAS the Client desires to retain the 
-Consultant to provide services, as more particularly described below (the 
-"Services"), and the Consultant desires to be so retained and to perform the 
-Services for the Client.
+This is a Retainer and Services Agreement ("Agreement") made effective as of the _____ day of __________, BY AND BETWEEN: 
+____________________, a ____________________ based in ____________________, with an office at ____________________ (the "Client") and 
+____________________, a ____________________ based in ____________________, with an office at ____________________ (the "Consultant"). 
+The Client and the Consultant are hereafter referred to collectively as the "Parties" and/or individually as a "Party." WHEREAS the Client desires to retain the Consultant to provide services, as more particularly described below (the "Services"), and the Consultant desires to be so retained and to perform the Services for the Client.
 
 NOW THEREFORE, for the mutual promises set forth herein, and for other good and valuable consideration, the sufficiency of which is hereby acknowledged by the Parties, the Client and the Consultant agree as follows:
 
 ## 1. Services
 
-During the term of this Agreement, the Consultant shall be available and shall 
-provide to the Client, as requested, professional services (the "Services") 
-necessary to support the Client's ongoing technical and business development 
-initiatives. The Services will be limited to the following:
-  * PHP, MySQL, JavaScript or other programming, to expand and/or revise the functionality of the Client's web property, __________.
-  * Web design and production per Client's specifications.
-  * Ongoing consultative, creative, and technical support of the Client's business development initiatives.
-  * Routine server and system administration to support the software.
+During the term of this Agreement, the Consultant shall be available and shall provide to the Client, as requested, professional services (the "Services") necessary to support the Client's ongoing technical and marketing initiatives. The Services will be limited to the following:
+
+* PHP, HTML, JavaScript or other programming, to update the visual elements of the Client's web property, ____________________.
+* Technical implementation of web design and Wordpress theming based on specifications and artwork provided by the Client.
+* Content implementation using one of the following approaches:
+- Data migration of content to a new Wordpress instance hosted on Client's Dreamhost account.
+- Upgrade and configuration of the Client's current Wordpress instance on Client's Dreamhost account.
+* As-needed technical support related to the launch of the updated web property.
 
 ## 2. Compensation
 
@@ -34,7 +29,7 @@ same in each instance.
 
 ## 3. Term
 
-This Agreement shall commence on __________ and shall continue indefinitely, unless earlier terminated by either party hereto. Either party may terminate this Agreement upon thirty (30) days prior written notice.
+This Agreement shall commence on the date specified and shall continue indefinitely, unless earlier terminated by either party hereto. Either party may terminate this Agreement upon thirty (30) days prior written notice.
 
 * **Inventions** &mdash; Unless otherwise expressly, agreed, all right, title, and interest in the final product that is developed by the Consultant for the Client shall be the property of the Client. All tools, reusable components, and other modules (collectively known as developer toolsets) integrated in the system will be nonexclusively licensed to the Client, meaning that source code will be provided and may be modified by the Consultant. These developer toolsets will continue to be used on other projects and with other clients by the Consultant.
 
