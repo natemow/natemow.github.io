@@ -12,8 +12,8 @@ NOW THEREFORE, for the mutual promises set forth herein, and for other good and 
 
 During the term of this Agreement, the Consultant shall be available and shall provide to the Client, as requested, professional services (the "Services") necessary to support the Client's ongoing technical and marketing initiatives. The Services will be limited to the following:
 
-* PHP, HTML, JavaScript or other programming, to update the visual elements of the Client's web property, ____________________.
-* Technical implementation of web design and Wordpress theming based on specifications and artwork provided by the Client.
+* PHP, HTML, JavaScript or other programming to update the visual elements of the Client's web property, ____________________.
+* Technical implementation of visual web design (Wordpress theming) based on specifications and artwork provided by the Client.
 * Content implementation using one of the following approaches:
   * Data migration of content to a new Wordpress instance hosted on Client's Dreamhost account.
   * Upgrade and configuration of the Client's current Wordpress instance on Client's Dreamhost account.
@@ -21,12 +21,13 @@ During the term of this Agreement, the Consultant shall be available and shall p
 
 ## 2. Compensation
 
-Upon execution of this Agreement, the Client agrees to pay the Consultant 
+Upon execution of this Agreement, the Client agrees to pay the Consultant __________ for Services as set forth in Paragraph 1 above.
 
-Should the Client request or approve services, equipment, costs and expenses (delivery charges, travel
-expenses, software and/or hardware) that are beyond the Services described in Paragraph 1, in each
-instance, the Consultant will bill the Client directly, at cost and without markup, prior to the Consultant providing
-same in each instance.
+A good faith deposit of __________ (____% of the total budget) is required to initiate work.
+
+Payments shall be made by the Client so that same are received by the Consultant not later than 30 days after work product has been delivered. Failure of the Client to make said timely payment to the Consultant shall excuse the Consultant from performing hereunder but shall not be deemed or construed to be a waiver of any rights or interests of the Consultant.
+
+Should the Client request or approve services, equipment, costs and expenses (delivery charges, travel expenses, software and/or hardware) that are beyond the Services described in Paragraph 1, in each instance, the Consultant will bill the Client directly, at cost and without markup, prior to the Consultant providing same in each instance.
 
 ## 3. Term
 
