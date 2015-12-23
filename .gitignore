@@ -5,6 +5,7 @@ assets/css/fonts
 assets/js/app.concat.js
 assets/.sass-cache
 script/node_modules
+script/.sass-cache
 script/Gemfile.lock
 vendor/*
 Gemfile.lock
