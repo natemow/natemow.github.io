@@ -16,7 +16,7 @@ body {
 }
 
 figure.bg {
-  position: absolute;
+  position: fixed;
   z-index: 0;
   top: 0;
   bottom: 0;
