@@ -3,12 +3,15 @@
 assets/css/bootstrap
 assets/css/fonts
 assets/js/app.concat.js
-script/.sass-cache
+assets/.sass-cache
 script/node_modules
+script/.sass-cache
 script/Gemfile.lock
 vendor/*
 Gemfile.lock
 _site
+template.html
+assets/docs/retainer-*.md
 
 # IDE cruft.
 nbproject

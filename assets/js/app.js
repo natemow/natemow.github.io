@@ -61,7 +61,7 @@
         .prop('target', '_blank')
         .text('FB this MF');
       $menu_item.append($menu_link);
-      $menu.append($menu_item);
+      //$menu.append($menu_item);
 
       $('a[href*=#]', $menu)
         .click(function(evt) {
