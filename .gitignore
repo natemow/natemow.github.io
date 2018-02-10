@@ -15,6 +15,7 @@ assets/docs/retainer-*.md
 
 # IDE cruft.
 nbproject
+.idea
 
 # Pending stuff.
 _drafts/*
