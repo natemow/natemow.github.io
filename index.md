@@ -1,4 +1,4 @@
 ---
 ---
 
-<img src="/assets/img/natemow.png" alt="natemow">
+<img src="https://media.giphy.com/media/ntHRTkAOukqYg/giphy.gif" alt="">
